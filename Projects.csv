@@ -1,0 +1,2001 @@
+Project Name,Subject Skill Needed
+Auto-Grader - Data v29,Data Structures and Algorithms
+Search Engine Mini - Data v28,Discrete Mathematics
+Image Classifier - Cloud v6,Computer Organization
+Image Classifier - Cloud v18,Discrete Mathematics
+Speech-to-Text - Cloud v5,Data Structures and Algorithms
+IoT Sensor Monitor - ML v15,Machine Learning
+Stock Price Tracker - ML v26,Machine Learning
+Map Routing App - Edge v19,Finite Automata
+Expense Splitter - Data v12,Finite Automata
+Traffic Simulation - Mobile v19,Machine Learning
+Sentiment Analyzer - Systems v7,Discrete Mathematics
+Compiler Tiny - ML v20,Data Structures and Algorithms
+Map Routing App - Cloud v10,Data Structures and Algorithms
+Anomaly Detector - Mobile v10,Discrete Mathematics
+Quiz App - Systems v26,Computer Networks
+IoT Sensor Monitor - ML v27,Discrete Mathematics
+Gesture Recognition - Mobile v11,Computer Networks
+Weather Dashboard - Cloud v6,Finite Automata
+URL Shortener - Mobile v22,Discrete Mathematics
+IoT Sensor Monitor - Mobile v14,Computer Networks
+Weather Dashboard - Data v13,Computer Organization
+Handwriting OCR - Systems v12,Finite Automata
+Memory Allocator Demo - Mobile v22,Computer Networks
+E-Commerce Site - Cloud v10,Computer Organization
+Sentiment Analyzer - Web v29,Computer Organization
+Log Parser - Cloud v25,Computer Organization
+Anomaly Detector - Data v26,Discrete Mathematics
+Forum Platform - Data v16,Computer Organization
+Course Planner - Systems v17,Computer Networks
+Quiz App - Cloud v19,Computer Networks
+Smart Attendance - Web v25,Finite Automata
+File Sharing Service - Systems v24,Finite Automata
+Course Planner - Web v19,Computer Networks
+URL Shortener - Edge v19,Computer Organization
+Regex Visualizer - ML v27,Computer Networks
+Blog CMS - Mobile v9,Machine Learning
+Music Streaming Prototype - Web v20,Finite Automata
+Traffic Simulation - ML v3,Machine Learning
+Fitness Tracker - Data v30,Discrete Mathematics
+Log Parser - Cloud v19,Discrete Mathematics
+Weather Dashboard - Systems v22,Computer Organization
+Event Ticketing - Systems v16,Data Structures and Algorithms
+Face Detection Tool - Mobile v21,Machine Learning
+Smart Attendance - Systems v19,Computer Networks
+Fraud Detection - Data v17,Machine Learning
+Auto-Grader - ML v29,Computer Organization
+Recommendation Engine - Data v17,Discrete Mathematics
+Memory Allocator Demo - Cloud v12,Finite Automata
+Note Taking App - Edge v26,Computer Networks
+Recommendation Engine - Data v25,Computer Organization
+Anomaly Detector - Data v2,Finite Automata
+Traffic Simulation - Systems v11,Discrete Mathematics
+Music Streaming Prototype - Systems v19,Data Structures and Algorithms
+DB Index Visualizer - Systems v3,Machine Learning
+Speech-to-Text - Mobile v12,Machine Learning
+Chat App - Edge v24,Finite Automata
+E-Commerce Site - Edge v30,Computer Organization
+Expense Splitter - Systems v16,Finite Automata
+Compiler Tiny - Web v15,Machine Learning
+Blog CMS - Edge v20,Finite Automata
+Multi-tenant SaaS - Edge v16,Finite Automata
+Traffic Simulation - Data v25,Data Structures and Algorithms
+Multi-tenant SaaS - Mobile v19,Computer Networks
+Todo API - Cloud v3,Finite Automata
+Traffic Simulation - ML v20,Finite Automata
+Traffic Simulation - Systems v7,Finite Automata
+Todo API - Cloud v11,Computer Organization
+Anomaly Detector - Edge v23,Computer Networks
+Gesture Recognition - Mobile v22,Computer Organization
+Face Detection Tool - Web v11,Computer Organization
+Stock Price Tracker - Web v1,Data Structures and Algorithms
+IoT Sensor Monitor - Web v10,Data Structures and Algorithms
+Event Ticketing - Cloud v16,Finite Automata
+Social Graph Analyzer - Systems v18,Machine Learning
+Crypto Arbitrage Bot - Mobile v7,Discrete Mathematics
+Fraud Detection - Systems v20,Finite Automata
+Sentiment Analyzer - Cloud v19,Data Structures and Algorithms
+Event Ticketing - Web v18,Computer Organization
+Forum Platform - Data v25,Data Structures and Algorithms
+Scheduling System - Edge v17,Data Structures and Algorithms
+Weather Dashboard - Data v22,Data Structures and Algorithms
+Code Editor Lite - Edge v29,Machine Learning
+Auto-Grader - Mobile v21,Computer Organization
+Edge Caching Simulator - Cloud v2,Discrete Mathematics
+Crypto Arbitrage Bot - Systems v13,Data Structures and Algorithms
+Regex Visualizer - Data v6,Finite Automata
+Blog CMS - ML v21,Finite Automata
+Sentiment Analyzer - ML v3,Computer Organization
+Expense Splitter - Web v23,Discrete Mathematics
+Fraud Detection - Web v27,Computer Organization
+Todo API - Edge v8,Data Structures and Algorithms
+Map Routing App - Systems v13,Machine Learning
+Music Streaming Prototype - Mobile v9,Finite Automata
+Blockchain Wallet Demo - Web v15,Computer Organization
+Spam Filter - Mobile v6,Finite Automata
+Chat App - Web v29,Finite Automata
+Anomaly Detector - Web v26,Data Structures and Algorithms
+Auto-Grader - Edge v27,Data Structures and Algorithms
+Edge Caching Simulator - Cloud v30,Machine Learning
+Crypto Arbitrage Bot - ML v14,Finite Automata
+DB Index Visualizer - Web v23,Discrete Mathematics
+Course Planner - Cloud v8,Computer Networks
+Map Routing App - Data v29,Discrete Mathematics
+Handwriting OCR - Web v30,Finite Automata
+Handwriting OCR - Data v20,Finite Automata
+Recommendation Engine - Cloud v15,Computer Organization
+Multi-tenant SaaS - Web v14,Finite Automata
+Face Detection Tool - Mobile v11,Computer Networks
+Network Packet Sniffer - Systems v15,Computer Organization
+Memory Allocator Demo - Web v27,Computer Organization
+Quiz App - Systems v16,Machine Learning
+Blockchain Wallet Demo - Systems v16,Computer Organization
+Fraud Detection - Cloud v13,Finite Automata
+Log Parser - Edge v23,Discrete Mathematics
+Forum Platform - Data v29,Computer Networks
+Handwriting OCR - Mobile v5,Finite Automata
+URL Shortener - Cloud v7,Machine Learning
+Handwriting OCR - Data v6,Discrete Mathematics
+Spam Filter - Edge v7,Machine Learning
+Anomaly Detector - Cloud v18,Machine Learning
+Chat App - Cloud v24,Computer Organization
+Compiler Tiny - Web v13,Finite Automata
+Network Packet Sniffer - Edge v25,Finite Automata
+Recommendation Engine - ML v7,Computer Organization
+Speech-to-Text - Data v29,Computer Organization
+Image Classifier - ML v14,Discrete Mathematics
+Blockchain Wallet Demo - Data v4,Finite Automata
+Code Editor Lite - Edge v30,Data Structures and Algorithms
+Blockchain Wallet Demo - ML v5,Computer Organization
+Music Streaming Prototype - Systems v3,Computer Organization
+Search Engine Mini - Systems v7,Discrete Mathematics
+Stock Price Tracker - Data v6,Computer Organization
+Sentiment Analyzer - Mobile v17,Computer Networks
+Memory Allocator Demo - Cloud v10,Finite Automata
+URL Shortener - Edge v30,Discrete Mathematics
+Fitness Tracker - Systems v24,Computer Organization
+Music Streaming Prototype - Systems v22,Finite Automata
+Face Detection Tool - ML v30,Finite Automata
+Crypto Arbitrage Bot - Data v30,Computer Organization
+Fitness Tracker - Data v28,Discrete Mathematics
+Blockchain Wallet Demo - Edge v4,Computer Networks
+File Sharing Service - Web v28,Computer Organization
+Smart Attendance - Mobile v24,Machine Learning
+URL Shortener - Web v3,Machine Learning
+E-Commerce Site - Edge v9,Finite Automata
+Memory Allocator Demo - Edge v30,Finite Automata
+Map Routing App - Web v13,Computer Networks
+Face Detection Tool - Systems v13,Machine Learning
+Music Streaming Prototype - ML v5,Computer Organization
+Chat App - Web v25,Discrete Mathematics
+Fraud Detection - Data v5,Discrete Mathematics
+Blockchain Wallet Demo - Cloud v3,Machine Learning
+File Sharing Service - Edge v18,Computer Organization
+Crypto Arbitrage Bot - Mobile v6,Computer Networks
+Stock Price Tracker - ML v4,Computer Networks
+Image Classifier - Mobile v25,Computer Organization
+News Aggregator - Systems v5,Finite Automata
+Portfolio Website - Edge v2,Machine Learning
+VR Gallery - Data v9,Data Structures and Algorithms
+Fraud Detection - ML v27,Computer Organization
+Sentiment Analyzer - Cloud v15,Machine Learning
+Blog CMS - Systems v3,Machine Learning
+Scheduling System - Data v18,Machine Learning
+Smart Attendance - Mobile v28,Computer Networks
+Face Detection Tool - Cloud v30,Finite Automata
+Face Detection Tool - Systems v24,Finite Automata
+Face Detection Tool - ML v15,Data Structures and Algorithms
+Crypto Arbitrage Bot - Data v22,Machine Learning
+Weather Dashboard - Web v27,Finite Automata
+Image Classifier - Edge v5,Computer Organization
+URL Shortener - Systems v5,Machine Learning
+Forum Platform - Cloud v7,Machine Learning
+News Aggregator - ML v29,Finite Automata
+Job Portal - Web v22,Data Structures and Algorithms
+Face Detection Tool - Edge v20,Finite Automata
+Fraud Detection - Web v6,Discrete Mathematics
+Expense Splitter - Web v13,Computer Networks
+Forum Platform - Cloud v22,Computer Organization
+Image Classifier - ML v7,Machine Learning
+AR Ruler - ML v22,Computer Networks
+Course Planner - Edge v15,Computer Networks
+Chat App - Edge v3,Computer Organization
+Spam Filter - Systems v7,Finite Automata
+Quiz App - Systems v12,Computer Networks
+E-Commerce Site - Edge v2,Computer Networks
+Handwriting OCR - Mobile v1,Discrete Mathematics
+Gesture Recognition - Systems v25,Finite Automata
+Memory Allocator Demo - Systems v26,Discrete Mathematics
+Music Streaming Prototype - Edge v27,Computer Organization
+Gesture Recognition - Edge v15,Machine Learning
+DB Index Visualizer - Systems v4,Computer Organization
+Crypto Arbitrage Bot - Systems v1,Computer Networks
+Fraud Detection - ML v28,Finite Automata
+Portfolio Website - Data v29,Discrete Mathematics
+URL Shortener - Web v30,Computer Organization
+Search Engine Mini - Web v8,Finite Automata
+Blog CMS - Web v12,Discrete Mathematics
+Speech-to-Text - Mobile v4,Data Structures and Algorithms
+Course Planner - ML v12,Computer Networks
+Log Parser - ML v18,Computer Networks
+Network Packet Sniffer - Systems v14,Finite Automata
+Job Portal - Web v2,Computer Networks
+Speech-to-Text - ML v8,Computer Organization
+Portfolio Website - Systems v29,Finite Automata
+DB Index Visualizer - Cloud v6,Computer Networks
+Image Classifier - Edge v20,Computer Networks
+IoT Sensor Monitor - Systems v27,Data Structures and Algorithms
+Anomaly Detector - Data v11,Computer Organization
+URL Shortener - ML v26,Computer Networks
+Quiz App - Edge v7,Computer Networks
+VR Gallery - Web v29,Discrete Mathematics
+Traffic Simulation - Edge v5,Machine Learning
+Note Taking App - ML v24,Machine Learning
+Chat App - Edge v30,Machine Learning
+Log Parser - Systems v20,Machine Learning
+News Aggregator - Systems v20,Discrete Mathematics
+VR Gallery - Data v12,Machine Learning
+Traffic Simulation - Mobile v22,Computer Organization
+Chat App - Data v4,Data Structures and Algorithms
+Handwriting OCR - Data v2,Data Structures and Algorithms
+Portfolio Website - Cloud v4,Machine Learning
+Map Routing App - Data v10,Finite Automata
+Weather Dashboard - Data v27,Discrete Mathematics
+Scheduling System - Cloud v29,Computer Organization
+Auto-Grader - Mobile v2,Discrete Mathematics
+Code Editor Lite - Mobile v22,Computer Organization
+Image Classifier - Web v26,Machine Learning
+Job Portal - Systems v20,Discrete Mathematics
+Handwriting OCR - Mobile v19,Discrete Mathematics
+Network Packet Sniffer - ML v20,Finite Automata
+Network Packet Sniffer - Cloud v19,Discrete Mathematics
+Regex Visualizer - Edge v29,Data Structures and Algorithms
+Auto-Grader - Web v23,Computer Networks
+Fitness Tracker - Web v13,Data Structures and Algorithms
+Multi-tenant SaaS - ML v29,Data Structures and Algorithms
+Fitness Tracker - Edge v20,Machine Learning
+Map Routing App - Cloud v4,Computer Networks
+Regex Visualizer - Mobile v27,Discrete Mathematics
+Edge Caching Simulator - Systems v19,Machine Learning
+Portfolio Website - Systems v9,Finite Automata
+VR Gallery - Cloud v7,Discrete Mathematics
+Gesture Recognition - Web v10,Discrete Mathematics
+Map Routing App - Edge v7,Computer Organization
+Music Streaming Prototype - Systems v15,Computer Networks
+Blockchain Wallet Demo - ML v7,Finite Automata
+Face Detection Tool - Mobile v4,Computer Networks
+Sentiment Analyzer - Data v15,Computer Organization
+AR Ruler - Edge v23,Discrete Mathematics
+Handwriting OCR - Edge v3,Data Structures and Algorithms
+Scheduling System - ML v26,Discrete Mathematics
+Gesture Recognition - Mobile v16,Finite Automata
+Blog CMS - Mobile v19,Data Structures and Algorithms
+Music Streaming Prototype - Mobile v3,Discrete Mathematics
+Speech-to-Text - Web v28,Machine Learning
+Map Routing App - ML v28,Machine Learning
+Network Packet Sniffer - Mobile v2,Computer Networks
+IoT Sensor Monitor - Data v17,Computer Networks
+Forum Platform - Web v30,Machine Learning
+Multi-tenant SaaS - Systems v8,Computer Networks
+Image Classifier - ML v12,Computer Networks
+IoT Sensor Monitor - Web v11,Data Structures and Algorithms
+Blog CMS - Systems v9,Discrete Mathematics
+Search Engine Mini - Web v16,Finite Automata
+Fraud Detection - Mobile v22,Finite Automata
+Expense Splitter - Web v11,Computer Organization
+Spam Filter - Systems v22,Finite Automata
+Blockchain Wallet Demo - Systems v28,Computer Organization
+Smart Attendance - Mobile v14,Machine Learning
+AR Ruler - Mobile v24,Computer Organization
+Spam Filter - Mobile v9,Discrete Mathematics
+Edge Caching Simulator - ML v5,Discrete Mathematics
+Map Routing App - Web v28,Data Structures and Algorithms
+Event Ticketing - Systems v26,Finite Automata
+Handwriting OCR - Mobile v27,Data Structures and Algorithms
+Sentiment Analyzer - ML v10,Finite Automata
+Face Detection Tool - Data v12,Computer Networks
+DB Index Visualizer - Data v4,Computer Organization
+Multi-tenant SaaS - ML v27,Machine Learning
+Spam Filter - Data v25,Machine Learning
+IoT Sensor Monitor - Edge v8,Discrete Mathematics
+Note Taking App - Systems v19,Data Structures and Algorithms
+Chat App - ML v4,Computer Networks
+Network Packet Sniffer - ML v5,Data Structures and Algorithms
+Portfolio Website - Mobile v28,Finite Automata
+Crypto Arbitrage Bot - Edge v28,Discrete Mathematics
+Portfolio Website - Systems v24,Computer Networks
+Multi-tenant SaaS - Data v5,Computer Organization
+Music Streaming Prototype - Cloud v28,Data Structures and Algorithms
+Smart Attendance - Systems v20,Data Structures and Algorithms
+Memory Allocator Demo - Mobile v27,Finite Automata
+Memory Allocator Demo - Cloud v9,Discrete Mathematics
+Event Ticketing - Edge v12,Finite Automata
+Face Detection Tool - ML v29,Finite Automata
+Event Ticketing - Web v21,Computer Organization
+Map Routing App - Edge v12,Computer Organization
+Multi-tenant SaaS - Mobile v23,Computer Organization
+Network Packet Sniffer - Data v30,Machine Learning
+Portfolio Website - Mobile v26,Finite Automata
+Portfolio Website - Systems v15,Computer Organization
+Note Taking App - Systems v9,Computer Organization
+Scheduling System - Cloud v16,Discrete Mathematics
+Expense Splitter - Data v15,Data Structures and Algorithms
+DB Index Visualizer - Data v23,Computer Organization
+Smart Attendance - Mobile v2,Data Structures and Algorithms
+VR Gallery - Web v23,Machine Learning
+Spam Filter - Web v15,Discrete Mathematics
+Face Detection Tool - Mobile v26,Computer Networks
+Social Graph Analyzer - Web v15,Discrete Mathematics
+Face Detection Tool - Systems v27,Discrete Mathematics
+Recommendation Engine - Edge v28,Data Structures and Algorithms
+Network Packet Sniffer - ML v23,Finite Automata
+News Aggregator - ML v4,Computer Networks
+DB Index Visualizer - Systems v18,Discrete Mathematics
+Todo API - Data v4,Machine Learning
+Expense Splitter - Cloud v22,Data Structures and Algorithms
+Social Graph Analyzer - Web v25,Machine Learning
+Edge Caching Simulator - Data v16,Machine Learning
+Portfolio Website - Data v4,Machine Learning
+Compiler Tiny - Mobile v6,Machine Learning
+URL Shortener - Web v9,Computer Organization
+AR Ruler - Cloud v10,Data Structures and Algorithms
+Network Packet Sniffer - ML v1,Finite Automata
+Social Graph Analyzer - Data v9,Discrete Mathematics
+Weather Dashboard - Cloud v11,Data Structures and Algorithms
+Face Detection Tool - Web v2,Computer Organization
+Compiler Tiny - Web v26,Discrete Mathematics
+Event Ticketing - Web v28,Computer Networks
+Regex Visualizer - Web v22,Computer Organization
+Network Packet Sniffer - Web v22,Data Structures and Algorithms
+Chat App - ML v1,Finite Automata
+Memory Allocator Demo - Data v24,Computer Organization
+Blockchain Wallet Demo - Systems v10,Discrete Mathematics
+News Aggregator - Cloud v9,Data Structures and Algorithms
+Job Portal - Mobile v6,Computer Organization
+URL Shortener - Mobile v16,Data Structures and Algorithms
+Auto-Grader - Web v30,Computer Organization
+Traffic Simulation - Cloud v17,Computer Organization
+Map Routing App - Web v10,Computer Networks
+Multi-tenant SaaS - Systems v24,Finite Automata
+Quiz App - Web v27,Computer Networks
+Network Packet Sniffer - Edge v23,Computer Organization
+Face Detection Tool - Web v7,Computer Networks
+Todo API - Data v23,Computer Organization
+AR Ruler - Cloud v15,Discrete Mathematics
+URL Shortener - Data v22,Computer Networks
+Face Detection Tool - Systems v30,Computer Networks
+IoT Sensor Monitor - Systems v8,Computer Organization
+Scheduling System - Cloud v17,Discrete Mathematics
+Search Engine Mini - Cloud v2,Finite Automata
+Scheduling System - ML v3,Computer Organization
+Forum Platform - Data v28,Data Structures and Algorithms
+Speech-to-Text - Web v13,Computer Networks
+Anomaly Detector - Edge v10,Data Structures and Algorithms
+Smart Attendance - Cloud v26,Finite Automata
+URL Shortener - ML v12,Discrete Mathematics
+Image Classifier - Edge v23,Computer Networks
+Code Editor Lite - Cloud v24,Finite Automata
+Chat App - Cloud v25,Machine Learning
+URL Shortener - Systems v27,Machine Learning
+Log Parser - Data v2,Finite Automata
+Event Ticketing - Systems v23,Computer Organization
+Smart Attendance - Data v25,Machine Learning
+Blog CMS - Cloud v26,Finite Automata
+Social Graph Analyzer - Edge v14,Finite Automata
+News Aggregator - Cloud v27,Computer Organization
+Scheduling System - ML v19,Discrete Mathematics
+Smart Attendance - Web v6,Data Structures and Algorithms
+Multi-tenant SaaS - Mobile v4,Computer Organization
+Handwriting OCR - Systems v4,Finite Automata
+Gesture Recognition - Mobile v15,Machine Learning
+Music Streaming Prototype - Systems v21,Discrete Mathematics
+Portfolio Website - Edge v7,Discrete Mathematics
+Handwriting OCR - Data v9,Data Structures and Algorithms
+Search Engine Mini - Data v17,Machine Learning
+DB Index Visualizer - Systems v14,Finite Automata
+Scheduling System - Systems v8,Computer Organization
+Blog CMS - Cloud v20,Finite Automata
+Fitness Tracker - ML v27,Data Structures and Algorithms
+Blockchain Wallet Demo - Edge v17,Computer Networks
+Weather Dashboard - Edge v25,Computer Networks
+Expense Splitter - Mobile v20,Finite Automata
+E-Commerce Site - Web v9,Finite Automata
+DB Index Visualizer - Web v7,Data Structures and Algorithms
+Log Parser - Edge v11,Machine Learning
+Log Parser - Systems v5,Data Structures and Algorithms
+DB Index Visualizer - Edge v17,Discrete Mathematics
+Social Graph Analyzer - Mobile v18,Computer Organization
+DB Index Visualizer - ML v21,Computer Organization
+Scheduling System - ML v15,Machine Learning
+Chat App - Web v16,Discrete Mathematics
+URL Shortener - Data v19,Finite Automata
+Speech-to-Text - Edge v21,Computer Organization
+News Aggregator - Mobile v14,Computer Networks
+Search Engine Mini - ML v3,Computer Organization
+Event Ticketing - Web v23,Machine Learning
+Quiz App - Cloud v30,Discrete Mathematics
+URL Shortener - ML v17,Computer Networks
+Todo API - ML v18,Computer Networks
+Regex Visualizer - Cloud v22,Computer Networks
+Speech-to-Text - Web v30,Computer Organization
+Blog CMS - Mobile v20,Finite Automata
+Gesture Recognition - Data v13,Computer Organization
+Handwriting OCR - Edge v19,Computer Networks
+Chat App - Systems v5,Data Structures and Algorithms
+Forum Platform - Systems v27,Computer Networks
+DB Index Visualizer - Edge v1,Data Structures and Algorithms
+Memory Allocator Demo - Mobile v25,Discrete Mathematics
+Crypto Arbitrage Bot - Web v24,Finite Automata
+Crypto Arbitrage Bot - ML v13,Computer Networks
+Fraud Detection - Edge v9,Computer Networks
+Map Routing App - Cloud v2,Discrete Mathematics
+Note Taking App - Edge v30,Data Structures and Algorithms
+Weather Dashboard - Web v28,Machine Learning
+Anomaly Detector - ML v22,Discrete Mathematics
+Spam Filter - Web v1,Data Structures and Algorithms
+AR Ruler - Edge v8,Finite Automata
+Stock Price Tracker - Data v29,Machine Learning
+Map Routing App - ML v4,Computer Organization
+E-Commerce Site - Mobile v11,Computer Networks
+AR Ruler - Systems v17,Machine Learning
+Todo API - ML v22,Computer Networks
+Expense Splitter - Mobile v25,Data Structures and Algorithms
+Blog CMS - Web v21,Discrete Mathematics
+Multi-tenant SaaS - ML v8,Finite Automata
+News Aggregator - Cloud v15,Machine Learning
+Spam Filter - Web v25,Data Structures and Algorithms
+Search Engine Mini - Cloud v12,Data Structures and Algorithms
+Weather Dashboard - Cloud v10,Machine Learning
+Quiz App - Web v29,Computer Networks
+Social Graph Analyzer - Systems v16,Data Structures and Algorithms
+Blockchain Wallet Demo - Data v26,Computer Organization
+E-Commerce Site - Cloud v28,Finite Automata
+Map Routing App - Mobile v6,Computer Networks
+Regex Visualizer - Cloud v26,Machine Learning
+Code Editor Lite - Mobile v12,Machine Learning
+File Sharing Service - ML v21,Computer Organization
+URL Shortener - Web v21,Machine Learning
+Compiler Tiny - Web v30,Computer Networks
+Spam Filter - Systems v19,Computer Organization
+Smart Attendance - Edge v30,Finite Automata
+AR Ruler - Systems v6,Discrete Mathematics
+Auto-Grader - Systems v22,Computer Organization
+Smart Attendance - Mobile v10,Data Structures and Algorithms
+Log Parser - Edge v18,Finite Automata
+Traffic Simulation - Data v30,Computer Organization
+E-Commerce Site - ML v5,Computer Organization
+Fitness Tracker - Data v1,Data Structures and Algorithms
+Image Classifier - Web v17,Computer Networks
+Memory Allocator Demo - Cloud v17,Computer Organization
+Edge Caching Simulator - Cloud v15,Finite Automata
+Memory Allocator Demo - Cloud v30,Computer Networks
+Job Portal - ML v28,Discrete Mathematics
+Auto-Grader - Mobile v11,Computer Organization
+Blockchain Wallet Demo - Mobile v4,Computer Organization
+Code Editor Lite - Data v25,Data Structures and Algorithms
+Blockchain Wallet Demo - Data v17,Discrete Mathematics
+DB Index Visualizer - Cloud v3,Computer Networks
+Log Parser - ML v3,Machine Learning
+Forum Platform - Web v19,Discrete Mathematics
+Speech-to-Text - Edge v1,Finite Automata
+Auto-Grader - Mobile v30,Finite Automata
+Quiz App - Mobile v18,Machine Learning
+News Aggregator - Web v24,Data Structures and Algorithms
+Portfolio Website - Data v18,Computer Networks
+Handwriting OCR - Data v28,Computer Organization
+URL Shortener - Edge v9,Machine Learning
+Crypto Arbitrage Bot - Web v18,Data Structures and Algorithms
+Forum Platform - Cloud v20,Finite Automata
+Portfolio Website - Cloud v6,Computer Networks
+Multi-tenant SaaS - Data v25,Discrete Mathematics
+E-Commerce Site - Mobile v26,Computer Networks
+Course Planner - Edge v10,Computer Networks
+Job Portal - Mobile v18,Discrete Mathematics
+Speech-to-Text - Web v4,Discrete Mathematics
+Memory Allocator Demo - Systems v23,Finite Automata
+Forum Platform - ML v6,Computer Networks
+Map Routing App - Cloud v16,Finite Automata
+Course Planner - Systems v1,Machine Learning
+Weather Dashboard - Mobile v19,Discrete Mathematics
+Chat App - Data v8,Discrete Mathematics
+Music Streaming Prototype - Systems v26,Data Structures and Algorithms
+E-Commerce Site - Web v22,Machine Learning
+Recommendation Engine - Web v13,Data Structures and Algorithms
+Note Taking App - Web v7,Finite Automata
+Edge Caching Simulator - Cloud v8,Data Structures and Algorithms
+Fitness Tracker - Data v2,Discrete Mathematics
+IoT Sensor Monitor - ML v21,Computer Networks
+Chat App - Systems v12,Discrete Mathematics
+Log Parser - Web v24,Data Structures and Algorithms
+Chat App - Systems v25,Computer Networks
+DB Index Visualizer - Edge v15,Computer Organization
+Blockchain Wallet Demo - Cloud v13,Computer Organization
+Edge Caching Simulator - Edge v26,Computer Organization
+URL Shortener - Data v29,Computer Organization
+Scheduling System - Systems v20,Computer Organization
+Gesture Recognition - Cloud v24,Data Structures and Algorithms
+Compiler Tiny - ML v8,Finite Automata
+Face Detection Tool - Cloud v10,Machine Learning
+Blockchain Wallet Demo - Edge v15,Machine Learning
+Auto-Grader - Systems v17,Computer Networks
+Regex Visualizer - Edge v27,Data Structures and Algorithms
+Blockchain Wallet Demo - Edge v24,Discrete Mathematics
+Music Streaming Prototype - Edge v9,Computer Networks
+Stock Price Tracker - Systems v14,Finite Automata
+Fraud Detection - ML v17,Finite Automata
+Auto-Grader - Systems v16,Finite Automata
+Quiz App - Cloud v15,Finite Automata
+Fraud Detection - Cloud v1,Computer Organization
+Memory Allocator Demo - Web v1,Computer Networks
+Anomaly Detector - Systems v10,Machine Learning
+Edge Caching Simulator - Edge v30,Finite Automata
+Social Graph Analyzer - ML v14,Computer Networks
+Edge Caching Simulator - Data v27,Computer Organization
+Expense Splitter - Web v14,Machine Learning
+Note Taking App - Web v11,Data Structures and Algorithms
+Quiz App - ML v1,Data Structures and Algorithms
+Sentiment Analyzer - Web v23,Machine Learning
+DB Index Visualizer - Mobile v29,Data Structures and Algorithms
+Job Portal - Edge v30,Computer Organization
+Fraud Detection - ML v12,Machine Learning
+Multi-tenant SaaS - Systems v16,Computer Organization
+Music Streaming Prototype - ML v17,Computer Organization
+Map Routing App - Mobile v11,Computer Organization
+Fraud Detection - Cloud v17,Finite Automata
+Smart Attendance - Mobile v21,Data Structures and Algorithms
+File Sharing Service - Cloud v5,Machine Learning
+Fitness Tracker - ML v24,Machine Learning
+Blockchain Wallet Demo - Systems v21,Data Structures and Algorithms
+Music Streaming Prototype - ML v24,Finite Automata
+Gesture Recognition - Mobile v21,Computer Networks
+Multi-tenant SaaS - Data v19,Data Structures and Algorithms
+Course Planner - Mobile v19,Machine Learning
+Quiz App - Data v22,Data Structures and Algorithms
+Code Editor Lite - Systems v18,Discrete Mathematics
+Memory Allocator Demo - Data v2,Finite Automata
+Code Editor Lite - ML v8,Finite Automata
+Compiler Tiny - Web v2,Computer Organization
+AR Ruler - Data v15,Discrete Mathematics
+Map Routing App - Edge v13,Discrete Mathematics
+Event Ticketing - Mobile v19,Computer Organization
+Stock Price Tracker - Edge v12,Finite Automata
+Speech-to-Text - Web v19,Finite Automata
+Sentiment Analyzer - ML v22,Machine Learning
+Quiz App - ML v7,Discrete Mathematics
+Fitness Tracker - Edge v5,Computer Organization
+DB Index Visualizer - Cloud v22,Discrete Mathematics
+Blockchain Wallet Demo - Systems v2,Computer Organization
+Multi-tenant SaaS - Cloud v22,Finite Automata
+IoT Sensor Monitor - Data v12,Finite Automata
+Compiler Tiny - Web v28,Machine Learning
+DB Index Visualizer - Web v21,Data Structures and Algorithms
+Note Taking App - Mobile v26,Computer Networks
+Stock Price Tracker - Systems v6,Discrete Mathematics
+Anomaly Detector - Data v10,Computer Organization
+Code Editor Lite - Web v4,Discrete Mathematics
+Face Detection Tool - ML v26,Discrete Mathematics
+Face Detection Tool - Web v6,Discrete Mathematics
+Course Planner - Mobile v15,Data Structures and Algorithms
+E-Commerce Site - Cloud v11,Discrete Mathematics
+Blockchain Wallet Demo - Cloud v7,Computer Networks
+Compiler Tiny - Cloud v9,Computer Networks
+Log Parser - Cloud v8,Discrete Mathematics
+Quiz App - Web v15,Data Structures and Algorithms
+Speech-to-Text - Data v9,Computer Organization
+Fitness Tracker - Edge v13,Computer Organization
+Forum Platform - Mobile v4,Computer Organization
+Spam Filter - Mobile v19,Machine Learning
+Search Engine Mini - Edge v14,Finite Automata
+Portfolio Website - Systems v19,Data Structures and Algorithms
+Chat App - Edge v28,Discrete Mathematics
+Scheduling System - ML v4,Computer Organization
+Expense Splitter - Edge v25,Computer Organization
+URL Shortener - Edge v3,Finite Automata
+Sentiment Analyzer - Mobile v19,Data Structures and Algorithms
+Weather Dashboard - ML v5,Machine Learning
+Edge Caching Simulator - Edge v8,Computer Networks
+Regex Visualizer - Edge v6,Finite Automata
+Handwriting OCR - Cloud v2,Computer Networks
+VR Gallery - Data v1,Data Structures and Algorithms
+Recommendation Engine - Web v8,Finite Automata
+Speech-to-Text - ML v24,Machine Learning
+Auto-Grader - Web v29,Finite Automata
+Handwriting OCR - Web v25,Computer Networks
+Image Classifier - Cloud v24,Computer Networks
+Crypto Arbitrage Bot - Mobile v8,Finite Automata
+Blockchain Wallet Demo - Cloud v5,Data Structures and Algorithms
+E-Commerce Site - Mobile v19,Discrete Mathematics
+Fraud Detection - Mobile v21,Data Structures and Algorithms
+Chat App - Data v28,Computer Networks
+Edge Caching Simulator - Data v28,Data Structures and Algorithms
+Quiz App - Systems v2,Data Structures and Algorithms
+Smart Attendance - Web v4,Computer Organization
+Multi-tenant SaaS - Cloud v29,Computer Organization
+Regex Visualizer - Web v10,Data Structures and Algorithms
+Note Taking App - Web v13,Computer Organization
+Traffic Simulation - Systems v6,Computer Networks
+Compiler Tiny - Cloud v8,Computer Organization
+Forum Platform - Systems v14,Machine Learning
+VR Gallery - Mobile v26,Data Structures and Algorithms
+News Aggregator - Cloud v8,Finite Automata
+Anomaly Detector - Systems v27,Discrete Mathematics
+Fitness Tracker - Data v15,Computer Organization
+Auto-Grader - Data v8,Machine Learning
+Social Graph Analyzer - Systems v19,Computer Networks
+Compiler Tiny - Systems v23,Computer Organization
+Edge Caching Simulator - Systems v2,Computer Networks
+Log Parser - ML v29,Data Structures and Algorithms
+Memory Allocator Demo - Edge v13,Computer Organization
+Blog CMS - Web v4,Computer Networks
+Anomaly Detector - Cloud v6,Data Structures and Algorithms
+Map Routing App - Web v3,Computer Organization
+Memory Allocator Demo - Edge v7,Computer Networks
+Fraud Detection - Cloud v16,Finite Automata
+Job Portal - Edge v18,Computer Organization
+Recommendation Engine - Web v9,Data Structures and Algorithms
+Stock Price Tracker - Systems v10,Finite Automata
+Social Graph Analyzer - Mobile v25,Computer Organization
+Network Packet Sniffer - Web v21,Discrete Mathematics
+Sentiment Analyzer - Mobile v21,Computer Organization
+AR Ruler - ML v8,Discrete Mathematics
+Stock Price Tracker - Web v5,Data Structures and Algorithms
+Speech-to-Text - Data v6,Computer Networks
+Image Classifier - Web v12,Computer Organization
+URL Shortener - Web v10,Computer Organization
+Sentiment Analyzer - Edge v9,Discrete Mathematics
+DB Index Visualizer - Data v17,Machine Learning
+VR Gallery - Mobile v14,Data Structures and Algorithms
+Blockchain Wallet Demo - Edge v9,Machine Learning
+Compiler Tiny - Data v30,Computer Organization
+Traffic Simulation - Data v28,Data Structures and Algorithms
+Gesture Recognition - ML v3,Machine Learning
+Traffic Simulation - Web v24,Computer Networks
+DB Index Visualizer - Mobile v9,Data Structures and Algorithms
+Quiz App - Cloud v24,Finite Automata
+Spam Filter - Cloud v24,Finite Automata
+Anomaly Detector - Cloud v24,Finite Automata
+Portfolio Website - Edge v26,Computer Networks
+Fraud Detection - Mobile v19,Machine Learning
+VR Gallery - Mobile v29,Finite Automata
+VR Gallery - Data v7,Discrete Mathematics
+Fraud Detection - Web v5,Computer Organization
+Todo API - Edge v22,Discrete Mathematics
+Compiler Tiny - Edge v28,Machine Learning
+Network Packet Sniffer - Data v22,Data Structures and Algorithms
+Search Engine Mini - Edge v9,Computer Organization
+Scheduling System - Data v16,Data Structures and Algorithms
+Blockchain Wallet Demo - Edge v21,Discrete Mathematics
+Speech-to-Text - ML v30,Computer Organization
+Memory Allocator Demo - Systems v6,Data Structures and Algorithms
+Handwriting OCR - Cloud v13,Finite Automata
+Music Streaming Prototype - Mobile v2,Data Structures and Algorithms
+Face Detection Tool - Systems v19,Computer Organization
+Fitness Tracker - Mobile v4,Computer Networks
+Memory Allocator Demo - Edge v2,Computer Organization
+Job Portal - Cloud v24,Data Structures and Algorithms
+Fraud Detection - Cloud v24,Discrete Mathematics
+Traffic Simulation - Systems v25,Finite Automata
+DB Index Visualizer - Data v27,Computer Organization
+Search Engine Mini - ML v9,Finite Automata
+Portfolio Website - Systems v25,Data Structures and Algorithms
+Fitness Tracker - Systems v5,Machine Learning
+File Sharing Service - ML v14,Computer Networks
+Job Portal - Data v4,Finite Automata
+Note Taking App - Data v15,Computer Networks
+Smart Attendance - Systems v11,Data Structures and Algorithms
+E-Commerce Site - Mobile v21,Computer Organization
+Edge Caching Simulator - Mobile v1,Data Structures and Algorithms
+Recommendation Engine - Mobile v1,Computer Organization
+Social Graph Analyzer - ML v4,Computer Organization
+DB Index Visualizer - Mobile v27,Data Structures and Algorithms
+Map Routing App - Cloud v5,Data Structures and Algorithms
+Auto-Grader - ML v21,Machine Learning
+Note Taking App - Web v26,Computer Networks
+Recommendation Engine - Cloud v4,Computer Networks
+Fraud Detection - Mobile v2,Discrete Mathematics
+Multi-tenant SaaS - ML v11,Machine Learning
+Auto-Grader - Systems v23,Computer Networks
+Auto-Grader - Cloud v7,Computer Organization
+Chat App - Data v1,Computer Organization
+Weather Dashboard - Systems v29,Discrete Mathematics
+Blog CMS - ML v3,Computer Networks
+Chat App - ML v26,Finite Automata
+Fraud Detection - Web v16,Machine Learning
+Stock Price Tracker - Data v4,Computer Organization
+Compiler Tiny - Systems v25,Machine Learning
+Portfolio Website - Systems v22,Finite Automata
+Gesture Recognition - Systems v26,Discrete Mathematics
+File Sharing Service - ML v19,Finite Automata
+Sentiment Analyzer - Web v30,Discrete Mathematics
+Regex Visualizer - ML v5,Computer Organization
+Network Packet Sniffer - Mobile v7,Machine Learning
+Quiz App - Systems v29,Data Structures and Algorithms
+Portfolio Website - Systems v17,Discrete Mathematics
+Blockchain Wallet Demo - Edge v8,Data Structures and Algorithms
+Chat App - Mobile v19,Computer Networks
+Event Ticketing - Edge v21,Machine Learning
+Course Planner - Cloud v22,Finite Automata
+Sentiment Analyzer - Web v12,Computer Networks
+Map Routing App - Mobile v28,Machine Learning
+Sentiment Analyzer - ML v12,Discrete Mathematics
+Weather Dashboard - Systems v30,Data Structures and Algorithms
+Quiz App - Edge v21,Machine Learning
+Blockchain Wallet Demo - Cloud v14,Computer Organization
+Speech-to-Text - Web v26,Computer Organization
+Multi-tenant SaaS - Web v2,Computer Organization
+Weather Dashboard - Systems v20,Data Structures and Algorithms
+URL Shortener - Edge v22,Machine Learning
+E-Commerce Site - Edge v8,Machine Learning
+Memory Allocator Demo - Data v1,Data Structures and Algorithms
+Anomaly Detector - Web v28,Discrete Mathematics
+Portfolio Website - Cloud v2,Finite Automata
+Fraud Detection - Mobile v3,Data Structures and Algorithms
+Anomaly Detector - Data v6,Computer Organization
+DB Index Visualizer - Mobile v7,Discrete Mathematics
+Chat App - Mobile v24,Data Structures and Algorithms
+AR Ruler - Web v26,Machine Learning
+Recommendation Engine - Cloud v7,Computer Organization
+Sentiment Analyzer - Web v9,Finite Automata
+Blockchain Wallet Demo - ML v26,Computer Networks
+VR Gallery - Edge v22,Discrete Mathematics
+Blockchain Wallet Demo - Web v23,Computer Organization
+Multi-tenant SaaS - Data v6,Finite Automata
+Blockchain Wallet Demo - Web v20,Discrete Mathematics
+Forum Platform - ML v25,Machine Learning
+Fraud Detection - ML v14,Computer Organization
+Recommendation Engine - Cloud v13,Machine Learning
+Log Parser - Data v4,Discrete Mathematics
+Compiler Tiny - ML v1,Machine Learning
+Search Engine Mini - Data v6,Data Structures and Algorithms
+News Aggregator - Cloud v21,Discrete Mathematics
+Anomaly Detector - ML v11,Computer Organization
+Spam Filter - Web v21,Machine Learning
+Handwriting OCR - Systems v30,Finite Automata
+Quiz App - Data v27,Data Structures and Algorithms
+Multi-tenant SaaS - Cloud v13,Discrete Mathematics
+Weather Dashboard - Systems v17,Computer Organization
+Network Packet Sniffer - Mobile v12,Finite Automata
+Fitness Tracker - ML v17,Discrete Mathematics
+Gesture Recognition - Mobile v3,Computer Organization
+Handwriting OCR - Systems v20,Computer Networks
+Blockchain Wallet Demo - Mobile v24,Computer Networks
+Anomaly Detector - Systems v21,Finite Automata
+Memory Allocator Demo - Web v23,Computer Networks
+Memory Allocator Demo - Data v3,Discrete Mathematics
+Speech-to-Text - Data v4,Computer Networks
+Course Planner - ML v21,Data Structures and Algorithms
+Recommendation Engine - Edge v30,Computer Networks
+Expense Splitter - Mobile v2,Finite Automata
+Forum Platform - Mobile v13,Computer Organization
+Quiz App - Cloud v28,Discrete Mathematics
+Edge Caching Simulator - Cloud v19,Computer Organization
+Search Engine Mini - Web v12,Finite Automata
+File Sharing Service - Cloud v9,Discrete Mathematics
+Sentiment Analyzer - Web v18,Discrete Mathematics
+Sentiment Analyzer - Cloud v11,Machine Learning
+Image Classifier - Systems v26,Computer Organization
+Spam Filter - Systems v30,Data Structures and Algorithms
+Smart Attendance - Edge v26,Discrete Mathematics
+Spam Filter - Data v20,Discrete Mathematics
+Spam Filter - Cloud v17,Discrete Mathematics
+News Aggregator - Cloud v3,Data Structures and Algorithms
+Expense Splitter - Mobile v19,Data Structures and Algorithms
+Social Graph Analyzer - Systems v29,Finite Automata
+Face Detection Tool - Edge v10,Computer Networks
+Search Engine Mini - Data v2,Computer Networks
+Spam Filter - Data v29,Machine Learning
+Music Streaming Prototype - Systems v6,Computer Organization
+Gesture Recognition - Data v23,Computer Organization
+Compiler Tiny - Data v11,Computer Networks
+E-Commerce Site - Systems v21,Finite Automata
+News Aggregator - Web v17,Machine Learning
+News Aggregator - Mobile v7,Computer Organization
+Multi-tenant SaaS - Mobile v28,Computer Networks
+Job Portal - Cloud v28,Data Structures and Algorithms
+DB Index Visualizer - Mobile v12,Machine Learning
+Expense Splitter - Mobile v9,Computer Networks
+Network Packet Sniffer - Cloud v12,Computer Organization
+Recommendation Engine - Cloud v10,Computer Networks
+Code Editor Lite - Data v12,Finite Automata
+Edge Caching Simulator - Web v23,Computer Organization
+Auto-Grader - Data v9,Discrete Mathematics
+Handwriting OCR - Mobile v14,Data Structures and Algorithms
+Recommendation Engine - Web v15,Computer Organization
+Portfolio Website - Systems v21,Computer Organization
+Music Streaming Prototype - Edge v19,Data Structures and Algorithms
+Music Streaming Prototype - Web v8,Discrete Mathematics
+Gesture Recognition - Data v6,Machine Learning
+Sentiment Analyzer - Data v5,Machine Learning
+Social Graph Analyzer - Data v7,Computer Networks
+Gesture Recognition - Mobile v8,Finite Automata
+Fitness Tracker - Web v22,Discrete Mathematics
+Event Ticketing - Mobile v27,Computer Networks
+Job Portal - Data v10,Finite Automata
+Forum Platform - Mobile v10,Finite Automata
+Memory Allocator Demo - Data v7,Computer Organization
+Music Streaming Prototype - Web v3,Machine Learning
+Face Detection Tool - Web v26,Discrete Mathematics
+Scheduling System - Edge v24,Discrete Mathematics
+Event Ticketing - Web v25,Data Structures and Algorithms
+Todo API - Edge v28,Machine Learning
+Map Routing App - Systems v11,Discrete Mathematics
+Chat App - Web v1,Computer Networks
+Gesture Recognition - Mobile v2,Discrete Mathematics
+Social Graph Analyzer - Data v10,Computer Organization
+Face Detection Tool - ML v8,Machine Learning
+Fitness Tracker - Mobile v12,Discrete Mathematics
+Event Ticketing - Mobile v5,Discrete Mathematics
+Social Graph Analyzer - Web v7,Machine Learning
+Spam Filter - Cloud v22,Finite Automata
+IoT Sensor Monitor - Edge v27,Machine Learning
+Regex Visualizer - Web v25,Data Structures and Algorithms
+Quiz App - Mobile v17,Data Structures and Algorithms
+Expense Splitter - Mobile v28,Computer Organization
+Smart Attendance - Cloud v13,Machine Learning
+Music Streaming Prototype - Web v7,Computer Networks
+Regex Visualizer - Systems v12,Computer Networks
+Auto-Grader - Edge v28,Discrete Mathematics
+Log Parser - Edge v25,Computer Organization
+Multi-tenant SaaS - ML v12,Discrete Mathematics
+Weather Dashboard - Systems v2,Computer Networks
+Expense Splitter - Data v29,Discrete Mathematics
+Regex Visualizer - Systems v17,Machine Learning
+Search Engine Mini - Web v14,Finite Automata
+File Sharing Service - Mobile v16,Machine Learning
+Stock Price Tracker - Data v25,Machine Learning
+Quiz App - Systems v14,Finite Automata
+Spam Filter - Mobile v21,Finite Automata
+Stock Price Tracker - Cloud v20,Data Structures and Algorithms
+Scheduling System - Systems v22,Machine Learning
+Event Ticketing - ML v29,Discrete Mathematics
+Blockchain Wallet Demo - Edge v5,Discrete Mathematics
+Compiler Tiny - Cloud v7,Computer Organization
+Anomaly Detector - Systems v29,Computer Networks
+Blog CMS - Edge v15,Machine Learning
+Edge Caching Simulator - Cloud v26,Computer Organization
+Speech-to-Text - Cloud v16,Data Structures and Algorithms
+Memory Allocator Demo - Mobile v10,Computer Networks
+Log Parser - Edge v22,Data Structures and Algorithms
+Memory Allocator Demo - Cloud v19,Finite Automata
+Fitness Tracker - Mobile v24,Discrete Mathematics
+Compiler Tiny - Systems v2,Computer Networks
+Blog CMS - Systems v19,Computer Organization
+VR Gallery - Mobile v8,Data Structures and Algorithms
+Search Engine Mini - ML v10,Finite Automata
+News Aggregator - Cloud v29,Machine Learning
+Face Detection Tool - Mobile v19,Finite Automata
+Expense Splitter - ML v30,Computer Networks
+DB Index Visualizer - Systems v27,Discrete Mathematics
+Fitness Tracker - Systems v14,Discrete Mathematics
+VR Gallery - Edge v6,Computer Networks
+Handwriting OCR - Web v24,Computer Networks
+Expense Splitter - Data v6,Computer Organization
+Speech-to-Text - Cloud v28,Computer Organization
+Traffic Simulation - Cloud v4,Computer Organization
+Spam Filter - Systems v20,Computer Networks
+Music Streaming Prototype - Mobile v8,Computer Organization
+Crypto Arbitrage Bot - Mobile v14,Discrete Mathematics
+Chat App - Edge v17,Machine Learning
+Traffic Simulation - Cloud v10,Finite Automata
+Fitness Tracker - Systems v6,Computer Organization
+Search Engine Mini - Data v11,Machine Learning
+Chat App - Cloud v2,Data Structures and Algorithms
+Edge Caching Simulator - Mobile v12,Machine Learning
+Face Detection Tool - Edge v11,Data Structures and Algorithms
+Traffic Simulation - Edge v11,Computer Organization
+Multi-tenant SaaS - Systems v23,Finite Automata
+Job Portal - Edge v21,Discrete Mathematics
+Handwriting OCR - Data v15,Machine Learning
+URL Shortener - Edge v14,Data Structures and Algorithms
+E-Commerce Site - ML v19,Machine Learning
+Map Routing App - Systems v28,Discrete Mathematics
+Traffic Simulation - Systems v8,Finite Automata
+Multi-tenant SaaS - Cloud v7,Discrete Mathematics
+Anomaly Detector - Edge v19,Machine Learning
+Anomaly Detector - Mobile v23,Discrete Mathematics
+Log Parser - ML v4,Computer Organization
+URL Shortener - Edge v1,Computer Organization
+Note Taking App - Edge v17,Machine Learning
+Forum Platform - Web v29,Computer Organization
+Network Packet Sniffer - Cloud v9,Computer Organization
+Expense Splitter - Cloud v23,Machine Learning
+Scheduling System - Mobile v19,Computer Networks
+Scheduling System - Cloud v5,Computer Organization
+Log Parser - ML v7,Computer Organization
+VR Gallery - Data v3,Data Structures and Algorithms
+Blockchain Wallet Demo - Mobile v14,Computer Organization
+Code Editor Lite - Systems v17,Finite Automata
+Todo API - Data v16,Computer Organization
+Memory Allocator Demo - Cloud v11,Machine Learning
+Portfolio Website - Mobile v6,Computer Organization
+Multi-tenant SaaS - Mobile v15,Computer Networks
+Sentiment Analyzer - Mobile v2,Finite Automata
+Gesture Recognition - Web v20,Data Structures and Algorithms
+Scheduling System - Data v19,Computer Organization
+Social Graph Analyzer - Web v1,Machine Learning
+Image Classifier - Web v19,Machine Learning
+Multi-tenant SaaS - Cloud v2,Computer Networks
+URL Shortener - Data v18,Finite Automata
+Network Packet Sniffer - Mobile v16,Data Structures and Algorithms
+Memory Allocator Demo - Edge v6,Discrete Mathematics
+URL Shortener - Cloud v17,Machine Learning
+Event Ticketing - Cloud v11,Computer Organization
+Edge Caching Simulator - ML v4,Finite Automata
+Forum Platform - Data v18,Discrete Mathematics
+Regex Visualizer - Web v29,Finite Automata
+Social Graph Analyzer - Mobile v4,Discrete Mathematics
+Smart Attendance - ML v15,Computer Networks
+Network Packet Sniffer - Edge v24,Machine Learning
+Regex Visualizer - Cloud v9,Finite Automata
+Handwriting OCR - Web v2,Data Structures and Algorithms
+Stock Price Tracker - ML v25,Machine Learning
+Portfolio Website - Cloud v23,Finite Automata
+Gesture Recognition - Data v17,Discrete Mathematics
+Blog CMS - Edge v5,Computer Organization
+AR Ruler - Systems v2,Computer Networks
+Search Engine Mini - Cloud v9,Discrete Mathematics
+Blockchain Wallet Demo - Cloud v29,Data Structures and Algorithms
+Fitness Tracker - Systems v8,Computer Organization
+URL Shortener - ML v6,Finite Automata
+Face Detection Tool - Edge v3,Finite Automata
+Course Planner - Mobile v2,Data Structures and Algorithms
+Chat App - Data v6,Machine Learning
+Traffic Simulation - Cloud v28,Machine Learning
+Stock Price Tracker - ML v6,Discrete Mathematics
+Social Graph Analyzer - Web v10,Discrete Mathematics
+Smart Attendance - Mobile v1,Data Structures and Algorithms
+Spam Filter - Cloud v25,Data Structures and Algorithms
+Stock Price Tracker - Systems v25,Data Structures and Algorithms
+Face Detection Tool - Cloud v8,Computer Organization
+Speech-to-Text - Web v21,Computer Organization
+Traffic Simulation - Cloud v25,Machine Learning
+Auto-Grader - Cloud v4,Computer Networks
+Scheduling System - Web v11,Discrete Mathematics
+Note Taking App - Systems v6,Computer Organization
+Edge Caching Simulator - Systems v16,Computer Networks
+Sentiment Analyzer - Cloud v9,Finite Automata
+URL Shortener - Web v15,Computer Organization
+Sentiment Analyzer - ML v23,Discrete Mathematics
+Edge Caching Simulator - Edge v17,Data Structures and Algorithms
+Regex Visualizer - Mobile v16,Machine Learning
+E-Commerce Site - Mobile v1,Machine Learning
+E-Commerce Site - ML v27,Computer Networks
+E-Commerce Site - Mobile v6,Finite Automata
+Face Detection Tool - Edge v27,Data Structures and Algorithms
+Event Ticketing - Edge v14,Computer Networks
+Network Packet Sniffer - Web v14,Machine Learning
+Image Classifier - Data v12,Computer Networks
+Recommendation Engine - Mobile v25,Computer Organization
+Fitness Tracker - Systems v22,Discrete Mathematics
+Fitness Tracker - ML v7,Finite Automata
+AR Ruler - Web v14,Discrete Mathematics
+File Sharing Service - Web v20,Discrete Mathematics
+Quiz App - Mobile v27,Discrete Mathematics
+Image Classifier - Edge v15,Data Structures and Algorithms
+Search Engine Mini - Web v2,Machine Learning
+Chat App - Data v13,Computer Networks
+Multi-tenant SaaS - Systems v3,Computer Networks
+Memory Allocator Demo - Cloud v16,Machine Learning
+URL Shortener - Systems v1,Finite Automata
+Log Parser - Web v28,Computer Networks
+Code Editor Lite - Edge v1,Discrete Mathematics
+Sentiment Analyzer - Cloud v10,Discrete Mathematics
+URL Shortener - Data v23,Data Structures and Algorithms
+E-Commerce Site - Mobile v15,Finite Automata
+URL Shortener - ML v11,Machine Learning
+Handwriting OCR - Data v22,Data Structures and Algorithms
+URL Shortener - Web v28,Computer Networks
+Image Classifier - Edge v16,Computer Organization
+Network Packet Sniffer - Cloud v22,Data Structures and Algorithms
+Crypto Arbitrage Bot - Mobile v5,Discrete Mathematics
+Anomaly Detector - Systems v7,Finite Automata
+Weather Dashboard - ML v1,Finite Automata
+Edge Caching Simulator - Data v18,Machine Learning
+Social Graph Analyzer - Cloud v2,Finite Automata
+Crypto Arbitrage Bot - ML v23,Data Structures and Algorithms
+Sentiment Analyzer - Mobile v16,Computer Networks
+Gesture Recognition - Mobile v25,Machine Learning
+Scheduling System - Systems v17,Computer Organization
+Crypto Arbitrage Bot - Web v4,Discrete Mathematics
+Auto-Grader - Web v16,Machine Learning
+Stock Price Tracker - Mobile v14,Computer Organization
+Forum Platform - Cloud v29,Data Structures and Algorithms
+Gesture Recognition - ML v4,Machine Learning
+Event Ticketing - Mobile v9,Computer Organization
+Scheduling System - Cloud v24,Data Structures and Algorithms
+Stock Price Tracker - Edge v16,Machine Learning
+Social Graph Analyzer - Mobile v14,Machine Learning
+Job Portal - Systems v6,Data Structures and Algorithms
+Music Streaming Prototype - Edge v6,Discrete Mathematics
+Traffic Simulation - Systems v12,Data Structures and Algorithms
+Expense Splitter - Systems v28,Computer Organization
+Smart Attendance - Cloud v8,Data Structures and Algorithms
+Weather Dashboard - Systems v18,Discrete Mathematics
+Job Portal - Data v30,Data Structures and Algorithms
+File Sharing Service - ML v7,Data Structures and Algorithms
+Chat App - ML v13,Computer Networks
+Code Editor Lite - Web v23,Data Structures and Algorithms
+Recommendation Engine - Edge v16,Machine Learning
+Handwriting OCR - Systems v29,Machine Learning
+Traffic Simulation - Data v22,Data Structures and Algorithms
+VR Gallery - Mobile v7,Discrete Mathematics
+Course Planner - ML v4,Data Structures and Algorithms
+Todo API - Data v14,Data Structures and Algorithms
+Multi-tenant SaaS - Data v26,Finite Automata
+Sentiment Analyzer - Edge v22,Computer Networks
+Image Classifier - Data v26,Computer Organization
+Spam Filter - Mobile v15,Computer Organization
+Compiler Tiny - Data v29,Machine Learning
+Auto-Grader - Cloud v20,Computer Networks
+IoT Sensor Monitor - Cloud v29,Data Structures and Algorithms
+Weather Dashboard - Cloud v2,Machine Learning
+Spam Filter - Data v5,Data Structures and Algorithms
+Code Editor Lite - Data v4,Data Structures and Algorithms
+Weather Dashboard - ML v6,Discrete Mathematics
+Weather Dashboard - Edge v4,Computer Networks
+IoT Sensor Monitor - Cloud v15,Computer Organization
+Traffic Simulation - ML v10,Computer Organization
+Edge Caching Simulator - Edge v23,Computer Networks
+News Aggregator - Web v25,Data Structures and Algorithms
+Todo API - Data v10,Machine Learning
+Regex Visualizer - Data v9,Computer Organization
+Scheduling System - Web v12,Computer Networks
+Portfolio Website - Web v10,Computer Networks
+Map Routing App - Web v23,Machine Learning
+Chat App - Edge v26,Computer Organization
+Smart Attendance - Systems v23,Discrete Mathematics
+Gesture Recognition - Edge v14,Data Structures and Algorithms
+Smart Attendance - Edge v28,Finite Automata
+Crypto Arbitrage Bot - Web v6,Finite Automata
+Traffic Simulation - Systems v19,Machine Learning
+Job Portal - Cloud v2,Finite Automata
+Forum Platform - ML v13,Finite Automata
+Note Taking App - Data v5,Machine Learning
+Regex Visualizer - Edge v28,Computer Organization
+Portfolio Website - Edge v29,Computer Networks
+Todo API - Web v27,Finite Automata
+Regex Visualizer - Data v13,Data Structures and Algorithms
+IoT Sensor Monitor - ML v16,Machine Learning
+Auto-Grader - Web v28,Finite Automata
+Code Editor Lite - ML v21,Computer Organization
+Scheduling System - Data v5,Computer Organization
+Multi-tenant SaaS - ML v14,Discrete Mathematics
+Music Streaming Prototype - Mobile v13,Machine Learning
+VR Gallery - ML v27,Finite Automata
+AR Ruler - Edge v11,Computer Networks
+Memory Allocator Demo - Systems v2,Computer Organization
+Scheduling System - Systems v10,Discrete Mathematics
+Multi-tenant SaaS - Mobile v2,Computer Organization
+Quiz App - Data v16,Computer Networks
+Search Engine Mini - Edge v29,Machine Learning
+Job Portal - Web v16,Finite Automata
+AR Ruler - ML v1,Computer Networks
+Spam Filter - Mobile v25,Discrete Mathematics
+File Sharing Service - Systems v20,Computer Networks
+Gesture Recognition - Web v22,Computer Networks
+Gesture Recognition - Systems v3,Computer Organization
+Smart Attendance - Edge v8,Discrete Mathematics
+Memory Allocator Demo - Systems v12,Data Structures and Algorithms
+File Sharing Service - Cloud v18,Data Structures and Algorithms
+Sentiment Analyzer - Edge v7,Computer Networks
+URL Shortener - Systems v20,Data Structures and Algorithms
+E-Commerce Site - Edge v4,Discrete Mathematics
+Spam Filter - Mobile v24,Discrete Mathematics
+Scheduling System - Web v29,Machine Learning
+Chat App - Cloud v18,Machine Learning
+Sentiment Analyzer - Systems v27,Discrete Mathematics
+Image Classifier - Systems v20,Data Structures and Algorithms
+Multi-tenant SaaS - Web v9,Machine Learning
+Fraud Detection - ML v29,Machine Learning
+Network Packet Sniffer - Mobile v10,Finite Automata
+VR Gallery - Mobile v9,Discrete Mathematics
+Code Editor Lite - Edge v14,Finite Automata
+Anomaly Detector - Cloud v16,Data Structures and Algorithms
+Portfolio Website - Edge v20,Discrete Mathematics
+Face Detection Tool - Edge v12,Finite Automata
+AR Ruler - Data v2,Finite Automata
+Image Classifier - ML v11,Finite Automata
+Face Detection Tool - Edge v24,Computer Organization
+Network Packet Sniffer - Data v21,Discrete Mathematics
+Fraud Detection - Systems v28,Machine Learning
+Anomaly Detector - Edge v18,Computer Networks
+Todo API - Web v24,Discrete Mathematics
+Spam Filter - Systems v17,Finite Automata
+Spam Filter - Cloud v10,Finite Automata
+Fraud Detection - ML v4,Computer Networks
+Face Detection Tool - Data v29,Finite Automata
+Spam Filter - Web v27,Machine Learning
+Sentiment Analyzer - Cloud v23,Finite Automata
+Search Engine Mini - Mobile v9,Finite Automata
+Blockchain Wallet Demo - Web v14,Machine Learning
+File Sharing Service - Data v13,Discrete Mathematics
+Speech-to-Text - Web v12,Data Structures and Algorithms
+Expense Splitter - Web v16,Discrete Mathematics
+Auto-Grader - Mobile v25,Data Structures and Algorithms
+Music Streaming Prototype - ML v3,Discrete Mathematics
+Note Taking App - Systems v22,Machine Learning
+Fraud Detection - Web v18,Computer Networks
+Image Classifier - Edge v17,Finite Automata
+Job Portal - Web v13,Discrete Mathematics
+Chat App - Data v3,Machine Learning
+Map Routing App - Mobile v20,Computer Organization
+Speech-to-Text - Systems v18,Discrete Mathematics
+AR Ruler - ML v17,Machine Learning
+Speech-to-Text - Mobile v28,Computer Organization
+Forum Platform - ML v12,Finite Automata
+Code Editor Lite - Web v30,Computer Networks
+Quiz App - Web v16,Finite Automata
+Memory Allocator Demo - Mobile v3,Computer Organization
+Network Packet Sniffer - Mobile v8,Data Structures and Algorithms
+Traffic Simulation - Cloud v26,Machine Learning
+Traffic Simulation - Mobile v14,Finite Automata
+Multi-tenant SaaS - Cloud v3,Machine Learning
+Speech-to-Text - Data v28,Finite Automata
+Traffic Simulation - Mobile v17,Machine Learning
+DB Index Visualizer - Edge v21,Finite Automata
+Chat App - Cloud v22,Finite Automata
+IoT Sensor Monitor - Edge v3,Machine Learning
+News Aggregator - Data v11,Machine Learning
+Fraud Detection - ML v25,Machine Learning
+Map Routing App - Cloud v15,Data Structures and Algorithms
+URL Shortener - ML v14,Data Structures and Algorithms
+Edge Caching Simulator - Mobile v13,Finite Automata
+Blog CMS - Edge v9,Discrete Mathematics
+Blog CMS - Web v5,Computer Networks
+AR Ruler - Edge v3,Computer Networks
+Handwriting OCR - Edge v29,Computer Networks
+Sentiment Analyzer - ML v14,Finite Automata
+Event Ticketing - ML v20,Data Structures and Algorithms
+Event Ticketing - Systems v27,Computer Networks
+Music Streaming Prototype - Mobile v7,Machine Learning
+Event Ticketing - Edge v23,Machine Learning
+Todo API - Mobile v25,Computer Organization
+E-Commerce Site - Edge v27,Data Structures and Algorithms
+Course Planner - Data v11,Finite Automata
+Memory Allocator Demo - Web v7,Machine Learning
+Code Editor Lite - Cloud v3,Finite Automata
+Blog CMS - Web v23,Machine Learning
+Crypto Arbitrage Bot - Data v4,Computer Networks
+Compiler Tiny - Systems v8,Finite Automata
+Spam Filter - Data v23,Finite Automata
+AR Ruler - Mobile v8,Computer Organization
+Social Graph Analyzer - ML v30,Computer Organization
+Fitness Tracker - Data v22,Computer Networks
+Code Editor Lite - Mobile v17,Computer Organization
+Edge Caching Simulator - Mobile v3,Finite Automata
+Scheduling System - ML v9,Discrete Mathematics
+Gesture Recognition - Edge v22,Data Structures and Algorithms
+Log Parser - Cloud v12,Finite Automata
+Course Planner - Data v19,Finite Automata
+Job Portal - Cloud v6,Computer Networks
+Todo API - Data v20,Machine Learning
+Forum Platform - Systems v21,Computer Organization
+Network Packet Sniffer - Web v11,Computer Organization
+Chat App - Systems v22,Finite Automata
+Spam Filter - Web v20,Data Structures and Algorithms
+Event Ticketing - Systems v24,Finite Automata
+Note Taking App - ML v14,Finite Automata
+Social Graph Analyzer - Data v16,Computer Networks
+Gesture Recognition - Cloud v18,Machine Learning
+Traffic Simulation - ML v17,Data Structures and Algorithms
+Regex Visualizer - Mobile v3,Discrete Mathematics
+Expense Splitter - ML v7,Computer Networks
+Compiler Tiny - Data v26,Discrete Mathematics
+Gesture Recognition - Cloud v29,Data Structures and Algorithms
+Course Planner - Edge v1,Discrete Mathematics
+Note Taking App - Edge v19,Computer Networks
+Music Streaming Prototype - Mobile v10,Computer Networks
+Event Ticketing - Data v28,Finite Automata
+Social Graph Analyzer - Web v6,Computer Organization
+Music Streaming Prototype - Data v18,Machine Learning
+Blockchain Wallet Demo - Cloud v6,Discrete Mathematics
+Smart Attendance - Systems v13,Computer Organization
+Network Packet Sniffer - Cloud v28,Discrete Mathematics
+Note Taking App - Mobile v20,Computer Networks
+Expense Splitter - Data v1,Finite Automata
+Quiz App - Web v11,Finite Automata
+Forum Platform - Mobile v5,Finite Automata
+Portfolio Website - Data v1,Computer Networks
+Recommendation Engine - Cloud v8,Finite Automata
+Portfolio Website - Systems v23,Computer Organization
+Social Graph Analyzer - Mobile v21,Computer Organization
+Compiler Tiny - Systems v3,Computer Networks
+Crypto Arbitrage Bot - Data v21,Computer Networks
+Recommendation Engine - Mobile v20,Machine Learning
+Anomaly Detector - Web v27,Machine Learning
+AR Ruler - Edge v27,Data Structures and Algorithms
+Event Ticketing - Data v30,Computer Networks
+News Aggregator - Mobile v18,Data Structures and Algorithms
+Course Planner - Mobile v24,Computer Networks
+Weather Dashboard - Data v30,Machine Learning
+Todo API - Web v6,Computer Networks
+File Sharing Service - Cloud v24,Computer Networks
+Multi-tenant SaaS - Data v21,Discrete Mathematics
+Edge Caching Simulator - Systems v10,Data Structures and Algorithms
+Sentiment Analyzer - Systems v5,Computer Networks
+Map Routing App - Mobile v9,Discrete Mathematics
+News Aggregator - Data v24,Computer Organization
+URL Shortener - ML v15,Machine Learning
+Spam Filter - Edge v15,Discrete Mathematics
+Job Portal - Mobile v26,Finite Automata
+Job Portal - Systems v16,Discrete Mathematics
+Crypto Arbitrage Bot - Web v15,Data Structures and Algorithms
+Portfolio Website - Web v9,Computer Organization
+Event Ticketing - Cloud v22,Computer Networks
+Fraud Detection - Cloud v20,Data Structures and Algorithms
+News Aggregator - Mobile v17,Data Structures and Algorithms
+Speech-to-Text - Mobile v19,Machine Learning
+Search Engine Mini - Data v15,Data Structures and Algorithms
+Forum Platform - ML v26,Data Structures and Algorithms
+Compiler Tiny - Systems v10,Computer Organization
+Fraud Detection - Cloud v15,Machine Learning
+Spam Filter - Web v16,Finite Automata
+Handwriting OCR - ML v16,Computer Networks
+Memory Allocator Demo - Data v27,Machine Learning
+Anomaly Detector - Systems v24,Data Structures and Algorithms
+VR Gallery - Web v24,Discrete Mathematics
+File Sharing Service - Cloud v8,Computer Networks
+E-Commerce Site - Systems v30,Machine Learning
+Chat App - Systems v23,Machine Learning
+Expense Splitter - Data v11,Computer Networks
+Stock Price Tracker - Cloud v21,Discrete Mathematics
+Image Classifier - Data v3,Computer Organization
+Music Streaming Prototype - Edge v10,Finite Automata
+Crypto Arbitrage Bot - Edge v5,Computer Networks
+Quiz App - Systems v21,Discrete Mathematics
+Map Routing App - Edge v22,Finite Automata
+Regex Visualizer - Data v7,Machine Learning
+Weather Dashboard - Edge v29,Computer Networks
+Forum Platform - Edge v24,Machine Learning
+Chat App - Web v22,Computer Networks
+Speech-to-Text - Data v30,Computer Organization
+Chat App - Systems v6,Machine Learning
+Handwriting OCR - Edge v6,Computer Organization
+Gesture Recognition - Systems v29,Data Structures and Algorithms
+Fitness Tracker - Systems v17,Finite Automata
+Music Streaming Prototype - Web v14,Finite Automata
+Quiz App - Data v11,Discrete Mathematics
+Traffic Simulation - Cloud v16,Finite Automata
+VR Gallery - Systems v16,Discrete Mathematics
+Crypto Arbitrage Bot - Edge v29,Data Structures and Algorithms
+Handwriting OCR - Data v5,Computer Organization
+Code Editor Lite - ML v20,Machine Learning
+Event Ticketing - Web v5,Computer Organization
+Crypto Arbitrage Bot - Systems v27,Machine Learning
+Face Detection Tool - Cloud v2,Discrete Mathematics
+Recommendation Engine - Cloud v14,Computer Organization
+Gesture Recognition - Mobile v17,Computer Networks
+Memory Allocator Demo - Systems v30,Data Structures and Algorithms
+IoT Sensor Monitor - Systems v16,Computer Organization
+Blockchain Wallet Demo - Systems v7,Computer Networks
+Note Taking App - Edge v9,Discrete Mathematics
+Image Classifier - Edge v7,Computer Networks
+Traffic Simulation - Web v10,Data Structures and Algorithms
+Fitness Tracker - Cloud v17,Discrete Mathematics
+Memory Allocator Demo - Cloud v4,Computer Organization
+Sentiment Analyzer - Cloud v22,Finite Automata
+File Sharing Service - Mobile v10,Computer Organization
+Job Portal - Mobile v2,Computer Organization
+IoT Sensor Monitor - Edge v20,Computer Organization
+Job Portal - Edge v12,Machine Learning
+News Aggregator - ML v30,Finite Automata
+Todo API - Data v17,Data Structures and Algorithms
+IoT Sensor Monitor - Systems v7,Finite Automata
+URL Shortener - Data v9,Discrete Mathematics
+Job Portal - ML v8,Data Structures and Algorithms
+Course Planner - Web v27,Data Structures and Algorithms
+Portfolio Website - Cloud v20,Computer Networks
+Spam Filter - Edge v2,Computer Networks
+Image Classifier - Cloud v21,Machine Learning
+Multi-tenant SaaS - Edge v1,Discrete Mathematics
+Quiz App - Web v10,Machine Learning
+File Sharing Service - Web v17,Computer Networks
+Note Taking App - Mobile v19,Computer Organization
+VR Gallery - ML v23,Computer Organization
+Chat App - ML v6,Discrete Mathematics
+Course Planner - Data v12,Computer Organization
+Sentiment Analyzer - Mobile v6,Machine Learning
+AR Ruler - Web v3,Computer Networks
+Expense Splitter - Systems v6,Discrete Mathematics
+Gesture Recognition - Web v30,Finite Automata
+Job Portal - Edge v7,Finite Automata
+IoT Sensor Monitor - Cloud v9,Data Structures and Algorithms
+Expense Splitter - ML v9,Discrete Mathematics
+File Sharing Service - ML v23,Finite Automata
+DB Index Visualizer - Edge v23,Computer Organization
+URL Shortener - Edge v12,Finite Automata
+Fraud Detection - Edge v10,Discrete Mathematics
+Social Graph Analyzer - Data v14,Finite Automata
+AR Ruler - ML v2,Data Structures and Algorithms
+Portfolio Website - ML v12,Finite Automata
+Crypto Arbitrage Bot - Web v25,Computer Organization
+Multi-tenant SaaS - Web v10,Discrete Mathematics
+Auto-Grader - Systems v5,Discrete Mathematics
+Note Taking App - Mobile v10,Machine Learning
+Recommendation Engine - Systems v13,Machine Learning
+Compiler Tiny - ML v17,Computer Networks
+Handwriting OCR - Systems v6,Machine Learning
+Quiz App - Mobile v1,Discrete Mathematics
+AR Ruler - Mobile v2,Machine Learning
+Music Streaming Prototype - ML v11,Machine Learning
+Smart Attendance - Edge v10,Data Structures and Algorithms
+Auto-Grader - ML v18,Machine Learning
+Compiler Tiny - Edge v26,Machine Learning
+Todo API - Cloud v10,Computer Organization
+Recommendation Engine - Web v10,Computer Organization
+Scheduling System - Data v25,Discrete Mathematics
+Code Editor Lite - Data v3,Discrete Mathematics
+Blog CMS - Mobile v16,Computer Networks
+Spam Filter - ML v8,Discrete Mathematics
+DB Index Visualizer - ML v25,Discrete Mathematics
+VR Gallery - Cloud v17,Data Structures and Algorithms
+Stock Price Tracker - Cloud v29,Machine Learning
+Note Taking App - Systems v21,Machine Learning
+Edge Caching Simulator - Edge v24,Discrete Mathematics
+Search Engine Mini - Mobile v3,Computer Organization
+Fitness Tracker - Systems v23,Discrete Mathematics
+Event Ticketing - ML v4,Computer Networks
+VR Gallery - Web v3,Computer Networks
+IoT Sensor Monitor - Cloud v24,Computer Organization
+Forum Platform - Cloud v12,Machine Learning
+Job Portal - Data v25,Data Structures and Algorithms
+Chat App - Web v18,Finite Automata
+Network Packet Sniffer - Web v26,Computer Organization
+Gesture Recognition - Cloud v23,Computer Networks
+Quiz App - Data v2,Discrete Mathematics
+Quiz App - Systems v24,Computer Organization
+IoT Sensor Monitor - Web v7,Computer Networks
+News Aggregator - ML v28,Computer Organization
+Music Streaming Prototype - ML v15,Discrete Mathematics
+Map Routing App - Systems v3,Data Structures and Algorithms
+Expense Splitter - Cloud v20,Finite Automata
+Blog CMS - Cloud v1,Finite Automata
+Music Streaming Prototype - ML v9,Data Structures and Algorithms
+Code Editor Lite - Data v24,Discrete Mathematics
+Course Planner - Cloud v18,Finite Automata
+Fitness Tracker - ML v25,Discrete Mathematics
+Search Engine Mini - Web v11,Finite Automata
+Stock Price Tracker - Systems v9,Computer Organization
+Fitness Tracker - Mobile v22,Finite Automata
+Expense Splitter - Mobile v14,Machine Learning
+Job Portal - Mobile v11,Computer Organization
+Traffic Simulation - Cloud v23,Data Structures and Algorithms
+Gesture Recognition - Data v29,Data Structures and Algorithms
+Log Parser - Web v20,Finite Automata
+Fitness Tracker - Mobile v18,Discrete Mathematics
+Todo API - Edge v9,Computer Organization
+Code Editor Lite - Cloud v26,Discrete Mathematics
+URL Shortener - ML v10,Computer Organization
+Music Streaming Prototype - ML v27,Finite Automata
+Blog CMS - Web v15,Finite Automata
+Gesture Recognition - Systems v17,Machine Learning
+Log Parser - Edge v6,Discrete Mathematics
+Job Portal - Edge v25,Machine Learning
+Blog CMS - Systems v27,Finite Automata
+Gesture Recognition - Data v8,Machine Learning
+AR Ruler - Mobile v30,Machine Learning
+Search Engine Mini - Web v20,Discrete Mathematics
+Regex Visualizer - Data v22,Data Structures and Algorithms
+Image Classifier - Edge v3,Computer Organization
+IoT Sensor Monitor - Cloud v2,Discrete Mathematics
+Chat App - Mobile v13,Computer Networks
+Music Streaming Prototype - Web v28,Finite Automata
+Note Taking App - ML v26,Machine Learning
+Map Routing App - Data v5,Machine Learning
+Face Detection Tool - Data v18,Finite Automata
+IoT Sensor Monitor - ML v29,Data Structures and Algorithms
+E-Commerce Site - Data v11,Machine Learning
+URL Shortener - ML v4,Finite Automata
+Recommendation Engine - Edge v4,Machine Learning
+Memory Allocator Demo - Web v14,Discrete Mathematics
+Face Detection Tool - ML v27,Finite Automata
+Gesture Recognition - Systems v19,Machine Learning
+Course Planner - Systems v28,Finite Automata
+Event Ticketing - Systems v8,Discrete Mathematics
+URL Shortener - Data v24,Computer Networks
+Map Routing App - Web v25,Data Structures and Algorithms
+Anomaly Detector - Data v8,Data Structures and Algorithms
+Network Packet Sniffer - Data v23,Computer Organization
+Blog CMS - Web v7,Data Structures and Algorithms
+Fitness Tracker - Cloud v23,Finite Automata
+Multi-tenant SaaS - Systems v28,Computer Networks
+Regex Visualizer - ML v29,Data Structures and Algorithms
+Course Planner - Systems v6,Computer Networks
+Image Classifier - Systems v21,Computer Organization
+Traffic Simulation - ML v15,Discrete Mathematics
+Event Ticketing - Mobile v28,Data Structures and Algorithms
+Edge Caching Simulator - Web v19,Computer Organization
+Note Taking App - Data v6,Machine Learning
+URL Shortener - Cloud v29,Machine Learning
+Handwriting OCR - Edge v12,Computer Networks
+Edge Caching Simulator - Edge v3,Data Structures and Algorithms
+VR Gallery - Mobile v2,Computer Organization
+Event Ticketing - Edge v3,Computer Networks
+Event Ticketing - Data v2,Computer Networks
+Search Engine Mini - Data v12,Machine Learning
+File Sharing Service - Edge v21,Computer Networks
+Expense Splitter - Data v20,Finite Automata
+Handwriting OCR - Edge v25,Computer Networks
+Stock Price Tracker - Systems v8,Data Structures and Algorithms
+E-Commerce Site - Cloud v8,Machine Learning
+Speech-to-Text - Cloud v2,Finite Automata
+E-Commerce Site - Systems v6,Finite Automata
+IoT Sensor Monitor - ML v4,Machine Learning
+Image Classifier - Cloud v29,Finite Automata
+Regex Visualizer - Web v13,Discrete Mathematics
+Scheduling System - Mobile v25,Machine Learning
+Weather Dashboard - Edge v1,Computer Organization
+Regex Visualizer - Web v1,Discrete Mathematics
+Quiz App - Web v13,Machine Learning
+Weather Dashboard - ML v14,Data Structures and Algorithms
+Face Detection Tool - Mobile v20,Discrete Mathematics
+Image Classifier - Systems v17,Computer Organization
+DB Index Visualizer - Cloud v18,Discrete Mathematics
+Recommendation Engine - Edge v5,Computer Networks
+E-Commerce Site - Mobile v23,Computer Organization
+Regex Visualizer - ML v26,Computer Organization
+Compiler Tiny - Web v23,Discrete Mathematics
+Chat App - Data v7,Finite Automata
+Course Planner - Web v16,Computer Organization
+Forum Platform - Mobile v1,Computer Organization
+IoT Sensor Monitor - Cloud v3,Data Structures and Algorithms
+Compiler Tiny - Data v20,Data Structures and Algorithms
+Speech-to-Text - ML v22,Finite Automata
+Auto-Grader - Edge v16,Computer Organization
+DB Index Visualizer - ML v2,Computer Organization
+VR Gallery - Mobile v12,Discrete Mathematics
+Stock Price Tracker - ML v16,Finite Automata
+Auto-Grader - Systems v30,Finite Automata
+Compiler Tiny - Edge v3,Computer Organization
+Face Detection Tool - Edge v6,Finite Automata
+Chat App - Data v15,Machine Learning
+Map Routing App - Systems v16,Computer Organization
+Fitness Tracker - ML v22,Computer Networks
+Job Portal - Data v21,Computer Organization
+Spam Filter - ML v3,Computer Networks
+Music Streaming Prototype - ML v22,Discrete Mathematics
+Todo API - Data v1,Machine Learning
+Note Taking App - Web v21,Finite Automata
+Quiz App - Mobile v23,Computer Networks
+Course Planner - Data v17,Machine Learning
+URL Shortener - Cloud v16,Machine Learning
+E-Commerce Site - Web v7,Data Structures and Algorithms
+Scheduling System - ML v30,Discrete Mathematics
+VR Gallery - Mobile v15,Computer Organization
+AR Ruler - Data v20,Computer Networks
+E-Commerce Site - Cloud v21,Data Structures and Algorithms
+E-Commerce Site - ML v13,Finite Automata
+Compiler Tiny - Mobile v8,Finite Automata
+Crypto Arbitrage Bot - Web v30,Data Structures and Algorithms
+Gesture Recognition - Data v4,Computer Networks
+Chat App - Data v11,Computer Organization
+Music Streaming Prototype - Web v17,Computer Networks
+File Sharing Service - Cloud v13,Finite Automata
+Quiz App - Systems v20,Computer Networks
+Map Routing App - Cloud v1,Discrete Mathematics
+Face Detection Tool - Mobile v2,Computer Networks
+Anomaly Detector - Mobile v18,Machine Learning
+Search Engine Mini - Edge v10,Discrete Mathematics
+Anomaly Detector - ML v6,Discrete Mathematics
+News Aggregator - Mobile v24,Finite Automata
+Note Taking App - Cloud v28,Discrete Mathematics
+Portfolio Website - Edge v10,Finite Automata
+Spam Filter - Data v30,Finite Automata
+Blog CMS - Systems v22,Data Structures and Algorithms
+Music Streaming Prototype - Data v10,Finite Automata
+Music Streaming Prototype - Edge v20,Discrete Mathematics
+Scheduling System - Web v8,Computer Organization
+URL Shortener - Systems v10,Computer Organization
+Portfolio Website - Systems v11,Discrete Mathematics
+Multi-tenant SaaS - Cloud v6,Computer Networks
+Spam Filter - Web v23,Machine Learning
+Image Classifier - Mobile v22,Computer Organization
+Multi-tenant SaaS - Web v1,Computer Organization
+Todo API - Systems v28,Computer Organization
+Weather Dashboard - Web v25,Machine Learning
+DB Index Visualizer - Systems v13,Machine Learning
+File Sharing Service - Cloud v29,Finite Automata
+Quiz App - Mobile v16,Data Structures and Algorithms
+Regex Visualizer - ML v14,Computer Organization
+Memory Allocator Demo - Edge v12,Finite Automata
+Music Streaming Prototype - Web v16,Finite Automata
+URL Shortener - Data v4,Machine Learning
+Smart Attendance - Web v29,Finite Automata
+Crypto Arbitrage Bot - Edge v7,Computer Organization
+File Sharing Service - ML v30,Computer Networks
+Weather Dashboard - ML v23,Data Structures and Algorithms
+Anomaly Detector - Web v21,Discrete Mathematics
+Code Editor Lite - Mobile v19,Computer Networks
+Search Engine Mini - Systems v12,Machine Learning
+Recommendation Engine - Data v12,Finite Automata
+Multi-tenant SaaS - Edge v7,Finite Automata
+Traffic Simulation - Web v12,Finite Automata
+Recommendation Engine - Data v27,Computer Organization
+Regex Visualizer - ML v25,Computer Organization
+VR Gallery - Edge v9,Finite Automata
+Traffic Simulation - Edge v4,Computer Organization
+Search Engine Mini - Mobile v20,Computer Organization
+Code Editor Lite - Web v11,Data Structures and Algorithms
+Spam Filter - Web v22,Computer Organization
+Network Packet Sniffer - Systems v2,Computer Networks
+Memory Allocator Demo - Cloud v27,Machine Learning
+Memory Allocator Demo - Web v30,Computer Organization
+Face Detection Tool - Data v3,Computer Networks
+Fraud Detection - Systems v25,Machine Learning
+Blog CMS - Edge v7,Machine Learning
+Map Routing App - Data v9,Computer Networks
+Portfolio Website - ML v26,Data Structures and Algorithms
+Weather Dashboard - Mobile v1,Data Structures and Algorithms
+Blog CMS - Cloud v22,Finite Automata
+Quiz App - Cloud v3,Machine Learning
+E-Commerce Site - Edge v10,Finite Automata
+IoT Sensor Monitor - Cloud v18,Machine Learning
+Edge Caching Simulator - Mobile v2,Data Structures and Algorithms
+Scheduling System - Mobile v11,Finite Automata
+Handwriting OCR - Web v1,Computer Organization
+Job Portal - Mobile v20,Finite Automata
+Recommendation Engine - Edge v14,Computer Organization
+Memory Allocator Demo - Cloud v6,Computer Networks
+Network Packet Sniffer - Web v20,Computer Networks
+Image Classifier - ML v23,Computer Networks
+Gesture Recognition - Web v28,Computer Networks
+Weather Dashboard - Web v11,Discrete Mathematics
+Regex Visualizer - Data v21,Data Structures and Algorithms
+Multi-tenant SaaS - ML v13,Computer Networks
+Regex Visualizer - ML v30,Data Structures and Algorithms
+Fitness Tracker - Cloud v11,Computer Organization
+Blog CMS - Mobile v18,Finite Automata
+Chat App - Data v17,Computer Networks
+Portfolio Website - Systems v4,Computer Networks
+Fitness Tracker - Systems v13,Machine Learning
+Auto-Grader - Edge v18,Computer Networks
+Auto-Grader - Cloud v22,Finite Automata
+Network Packet Sniffer - Mobile v14,Discrete Mathematics
+Social Graph Analyzer - Edge v11,Discrete Mathematics
+Blog CMS - Web v27,Machine Learning
+Fitness Tracker - Edge v16,Data Structures and Algorithms
+Search Engine Mini - Edge v25,Finite Automata
+Smart Attendance - Web v27,Data Structures and Algorithms
+Fitness Tracker - Cloud v16,Computer Organization
+URL Shortener - Data v26,Finite Automata
+Anomaly Detector - Mobile v5,Computer Organization
+Recommendation Engine - Edge v25,Data Structures and Algorithms
+Portfolio Website - Web v29,Computer Organization
+Quiz App - Mobile v15,Finite Automata
+Code Editor Lite - Edge v28,Data Structures and Algorithms
+Blockchain Wallet Demo - Web v2,Machine Learning
+Chat App - Systems v16,Discrete Mathematics
+Recommendation Engine - ML v6,Data Structures and Algorithms
+Crypto Arbitrage Bot - Data v3,Data Structures and Algorithms
+Image Classifier - Mobile v29,Finite Automata
+E-Commerce Site - Edge v15,Discrete Mathematics
+IoT Sensor Monitor - Cloud v25,Computer Networks
+AR Ruler - Web v22,Discrete Mathematics
+Weather Dashboard - Systems v11,Computer Networks
+DB Index Visualizer - Cloud v27,Computer Networks
+Scheduling System - Systems v7,Discrete Mathematics
+Handwriting OCR - Data v25,Data Structures and Algorithms
+Forum Platform - Edge v17,Finite Automata
+Event Ticketing - Web v14,Machine Learning
+Course Planner - Edge v9,Discrete Mathematics
+Regex Visualizer - ML v12,Machine Learning
+File Sharing Service - Mobile v4,Discrete Mathematics
+Note Taking App - Systems v16,Finite Automata
+Memory Allocator Demo - Web v24,Data Structures and Algorithms
+Stock Price Tracker - Mobile v11,Computer Organization
+Handwriting OCR - ML v27,Data Structures and Algorithms
+E-Commerce Site - Web v12,Discrete Mathematics
+Spam Filter - Systems v10,Finite Automata
+Anomaly Detector - Systems v20,Computer Networks
+Face Detection Tool - Web v22,Computer Networks
+Stock Price Tracker - Cloud v1,Computer Organization
+Spam Filter - ML v18,Computer Organization
+Expense Splitter - ML v10,Data Structures and Algorithms
+Traffic Simulation - Systems v21,Machine Learning
+Recommendation Engine - Cloud v1,Machine Learning
+Crypto Arbitrage Bot - ML v6,Discrete Mathematics
+Smart Attendance - Mobile v6,Data Structures and Algorithms
+News Aggregator - Mobile v5,Discrete Mathematics
+Gesture Recognition - Edge v10,Machine Learning
+Edge Caching Simulator - Cloud v20,Computer Organization
+Stock Price Tracker - Edge v19,Machine Learning
+Gesture Recognition - ML v30,Machine Learning
+Multi-tenant SaaS - Edge v12,Machine Learning
+Expense Splitter - Data v8,Finite Automata
+Multi-tenant SaaS - ML v1,Data Structures and Algorithms
+Stock Price Tracker - Systems v22,Finite Automata
+Auto-Grader - Edge v25,Machine Learning
+Social Graph Analyzer - Systems v8,Machine Learning
+Blockchain Wallet Demo - Mobile v26,Machine Learning
+File Sharing Service - ML v10,Computer Organization
+Code Editor Lite - ML v30,Data Structures and Algorithms
+Course Planner - Edge v20,Computer Organization
+AR Ruler - Systems v22,Data Structures and Algorithms
+Forum Platform - Systems v13,Computer Organization
+Chat App - Mobile v3,Computer Networks
+Search Engine Mini - Cloud v21,Computer Organization
+Map Routing App - Web v29,Finite Automata
+Event Ticketing - Edge v2,Computer Networks
+Blog CMS - Systems v10,Machine Learning
+Job Portal - Systems v29,Machine Learning
+File Sharing Service - Mobile v13,Machine Learning
+Note Taking App - Systems v4,Computer Organization
+Blog CMS - Cloud v28,Data Structures and Algorithms
+Network Packet Sniffer - Cloud v27,Computer Organization
+Image Classifier - Web v21,Machine Learning
+Note Taking App - ML v22,Finite Automata
+E-Commerce Site - Data v15,Finite Automata
+Job Portal - Edge v27,Discrete Mathematics
+File Sharing Service - Cloud v11,Computer Organization
+Expense Splitter - ML v26,Computer Networks
+Quiz App - Edge v20,Discrete Mathematics
+Edge Caching Simulator - ML v3,Computer Networks
+Anomaly Detector - Data v4,Finite Automata
+Recommendation Engine - Mobile v8,Finite Automata
+Smart Attendance - Cloud v25,Data Structures and Algorithms
+Traffic Simulation - Data v2,Machine Learning
+Fraud Detection - Systems v16,Computer Networks
+Job Portal - ML v13,Discrete Mathematics
+Regex Visualizer - Web v20,Computer Networks
+Regex Visualizer - Systems v15,Discrete Mathematics
+Speech-to-Text - Edge v19,Machine Learning
+Traffic Simulation - Systems v27,Discrete Mathematics
+DB Index Visualizer - Data v21,Computer Organization
+Anomaly Detector - Edge v17,Computer Organization
+Chat App - ML v10,Discrete Mathematics
+Quiz App - Edge v14,Data Structures and Algorithms
+E-Commerce Site - Cloud v1,Computer Networks
+Regex Visualizer - Data v4,Machine Learning
+Spam Filter - Data v6,Finite Automata
+Face Detection Tool - Systems v17,Discrete Mathematics
+Crypto Arbitrage Bot - Cloud v20,Computer Organization
+Chat App - ML v24,Discrete Mathematics
+Chat App - ML v8,Machine Learning
+Network Packet Sniffer - Edge v16,Discrete Mathematics
+AR Ruler - Systems v10,Machine Learning
+Compiler Tiny - Mobile v30,Discrete Mathematics
+Search Engine Mini - Systems v17,Computer Organization
+Quiz App - Edge v29,Discrete Mathematics
+Traffic Simulation - Mobile v24,Data Structures and Algorithms
+Network Packet Sniffer - ML v28,Discrete Mathematics
+URL Shortener - Systems v18,Machine Learning
+Crypto Arbitrage Bot - Systems v12,Data Structures and Algorithms
+Compiler Tiny - Web v10,Data Structures and Algorithms
+Event Ticketing - Web v7,Finite Automata
+Speech-to-Text - Systems v19,Finite Automata
+Traffic Simulation - Web v9,Finite Automata
+Todo API - Systems v6,Data Structures and Algorithms
+Fitness Tracker - Data v7,Data Structures and Algorithms
+Code Editor Lite - Systems v2,Computer Networks
+IoT Sensor Monitor - Systems v15,Data Structures and Algorithms
+Memory Allocator Demo - Web v4,Computer Organization
+Crypto Arbitrage Bot - ML v15,Computer Organization
+Face Detection Tool - Systems v14,Computer Networks
+Multi-tenant SaaS - Data v12,Finite Automata
+Blockchain Wallet Demo - Mobile v29,Finite Automata
+Scheduling System - ML v10,Discrete Mathematics
+Edge Caching Simulator - Data v10,Discrete Mathematics
+Search Engine Mini - Cloud v27,Data Structures and Algorithms
+Speech-to-Text - Systems v23,Computer Networks
+Map Routing App - Data v11,Data Structures and Algorithms
+Fitness Tracker - Cloud v21,Computer Networks
+Gesture Recognition - Systems v21,Finite Automata
+Face Detection Tool - Mobile v6,Machine Learning
+File Sharing Service - Mobile v30,Data Structures and Algorithms
+Quiz App - Web v26,Machine Learning
+Regex Visualizer - Cloud v27,Computer Networks
+Log Parser - Cloud v30,Finite Automata
+Note Taking App - ML v6,Data Structures and Algorithms
+Smart Attendance - Data v15,Discrete Mathematics
+Portfolio Website - ML v2,Finite Automata
+Spam Filter - Cloud v12,Data Structures and Algorithms
+Fraud Detection - Data v9,Finite Automata
+Search Engine Mini - Cloud v7,Machine Learning
+Note Taking App - Cloud v13,Discrete Mathematics
+Sentiment Analyzer - Web v8,Finite Automata
+Blockchain Wallet Demo - Mobile v2,Data Structures and Algorithms
+Speech-to-Text - ML v20,Data Structures and Algorithms
+URL Shortener - Systems v28,Computer Organization
+Sentiment Analyzer - Mobile v5,Discrete Mathematics
+Smart Attendance - Mobile v22,Finite Automata
+Spam Filter - Data v26,Computer Networks
+Crypto Arbitrage Bot - Cloud v5,Machine Learning
+DB Index Visualizer - Cloud v28,Computer Networks
+Code Editor Lite - Data v9,Finite Automata
+Search Engine Mini - Systems v26,Computer Networks
+Compiler Tiny - Edge v16,Discrete Mathematics
+Auto-Grader - ML v11,Discrete Mathematics
+News Aggregator - Systems v16,Computer Networks
+Quiz App - Mobile v24,Computer Organization
+Log Parser - Systems v11,Data Structures and Algorithms
+Code Editor Lite - Edge v6,Discrete Mathematics
+Fraud Detection - Cloud v2,Computer Organization
+AR Ruler - Data v10,Finite Automata
+File Sharing Service - Systems v9,Finite Automata
+URL Shortener - Mobile v23,Computer Networks
+File Sharing Service - Edge v28,Computer Networks
+DB Index Visualizer - Web v2,Data Structures and Algorithms
+URL Shortener - Cloud v24,Computer Networks
+Handwriting OCR - Systems v2,Discrete Mathematics
+Fitness Tracker - Mobile v14,Discrete Mathematics
+Auto-Grader - Mobile v28,Data Structures and Algorithms
+Map Routing App - ML v10,Computer Organization
+Map Routing App - Cloud v18,Computer Networks
+Blockchain Wallet Demo - ML v30,Discrete Mathematics
+VR Gallery - Data v29,Computer Organization
+DB Index Visualizer - Cloud v30,Finite Automata
+Fitness Tracker - Web v16,Finite Automata
+Event Ticketing - Data v14,Data Structures and Algorithms
+Smart Attendance - Data v13,Machine Learning
+Compiler Tiny - ML v19,Finite Automata
+Recommendation Engine - Web v18,Computer Organization
+Blockchain Wallet Demo - Edge v23,Machine Learning
+Multi-tenant SaaS - ML v19,Data Structures and Algorithms
+Fraud Detection - Systems v8,Discrete Mathematics
+Quiz App - Mobile v10,Computer Networks
+Blog CMS - Mobile v14,Data Structures and Algorithms
+Expense Splitter - Cloud v9,Finite Automata
+Todo API - ML v23,Finite Automata
+Portfolio Website - Cloud v3,Computer Networks
+Map Routing App - ML v19,Computer Organization
+Quiz App - Edge v24,Data Structures and Algorithms
+Todo API - ML v15,Computer Networks
+Chat App - Mobile v8,Discrete Mathematics
+Note Taking App - Mobile v9,Computer Networks
+Face Detection Tool - Edge v13,Computer Networks
+Event Ticketing - Cloud v13,Discrete Mathematics
+Scheduling System - Mobile v3,Computer Organization
+DB Index Visualizer - Mobile v17,Finite Automata
+Note Taking App - ML v9,Finite Automata
+Scheduling System - Edge v10,Data Structures and Algorithms
+Scheduling System - Edge v6,Finite Automata
+Traffic Simulation - ML v12,Data Structures and Algorithms
+Traffic Simulation - Edge v6,Computer Organization
+Edge Caching Simulator - Web v17,Computer Organization
+Forum Platform - Data v27,Finite Automata
+Note Taking App - ML v1,Machine Learning
+VR Gallery - Cloud v15,Computer Networks
+Edge Caching Simulator - Web v5,Finite Automata
+Music Streaming Prototype - Web v29,Discrete Mathematics
+Scheduling System - Systems v21,Computer Networks
+Stock Price Tracker - Data v7,Discrete Mathematics
+Quiz App - Cloud v27,Data Structures and Algorithms
+Face Detection Tool - Cloud v21,Discrete Mathematics
+Forum Platform - Edge v30,Computer Organization
+Memory Allocator Demo - Data v30,Computer Networks
+Search Engine Mini - Mobile v12,Machine Learning
+News Aggregator - Data v17,Machine Learning
+News Aggregator - Edge v5,Data Structures and Algorithms
+Edge Caching Simulator - Data v14,Machine Learning
+Recommendation Engine - Systems v21,Discrete Mathematics
+File Sharing Service - Systems v15,Discrete Mathematics
+Quiz App - Data v3,Data Structures and Algorithms
+Auto-Grader - Mobile v17,Computer Networks
+Spam Filter - Edge v6,Discrete Mathematics
+Handwriting OCR - ML v15,Data Structures and Algorithms
+Auto-Grader - Cloud v19,Machine Learning
+Music Streaming Prototype - Cloud v12,Machine Learning
+Smart Attendance - Web v19,Computer Organization
+Recommendation Engine - Web v11,Machine Learning
+Scheduling System - Cloud v14,Discrete Mathematics
+Fraud Detection - Data v23,Computer Networks
+AR Ruler - Edge v22,Data Structures and Algorithms
+Crypto Arbitrage Bot - Edge v18,Finite Automata
+Network Packet Sniffer - Mobile v22,Data Structures and Algorithms
+Code Editor Lite - Web v6,Machine Learning
+VR Gallery - Systems v24,Discrete Mathematics
+Event Ticketing - Mobile v2,Computer Organization
+E-Commerce Site - Cloud v6,Machine Learning
+Job Portal - Cloud v20,Machine Learning
+AR Ruler - Web v20,Finite Automata
+Event Ticketing - Cloud v8,Data Structures and Algorithms
+E-Commerce Site - Web v15,Finite Automata
+Log Parser - Web v19,Computer Networks
+AR Ruler - Cloud v30,Computer Networks
+Note Taking App - Cloud v20,Computer Organization
+DB Index Visualizer - Edge v19,Finite Automata
+Stock Price Tracker - Data v5,Data Structures and Algorithms
+Edge Caching Simulator - Data v21,Computer Networks
+Job Portal - Mobile v29,Finite Automata
+Music Streaming Prototype - ML v13,Finite Automata
+Music Streaming Prototype - Web v19,Computer Networks
+Blockchain Wallet Demo - Web v16,Finite Automata
+Compiler Tiny - Mobile v10,Discrete Mathematics
+Forum Platform - Systems v3,Discrete Mathematics
+Map Routing App - Systems v25,Computer Organization
+Quiz App - Edge v1,Machine Learning
+IoT Sensor Monitor - Web v5,Computer Organization
+Anomaly Detector - ML v5,Finite Automata
+Quiz App - Data v8,Finite Automata
+Log Parser - Cloud v7,Finite Automata
+Traffic Simulation - Web v3,Finite Automata
+AR Ruler - ML v3,Machine Learning
+VR Gallery - Mobile v30,Data Structures and Algorithms
+VR Gallery - Cloud v30,Computer Organization
+Portfolio Website - ML v24,Computer Organization
+DB Index Visualizer - Mobile v23,Finite Automata
+Stock Price Tracker - Systems v21,Machine Learning
+Map Routing App - ML v8,Discrete Mathematics
+URL Shortener - Data v5,Discrete Mathematics
+Code Editor Lite - Edge v15,Finite Automata
+Music Streaming Prototype - Systems v4,Discrete Mathematics
+Fraud Detection - Data v7,Computer Networks
+E-Commerce Site - Mobile v14,Finite Automata
+Handwriting OCR - Systems v7,Computer Organization
+Event Ticketing - Mobile v22,Computer Networks
+Stock Price Tracker - Web v23,Discrete Mathematics
+News Aggregator - Cloud v25,Discrete Mathematics
+Portfolio Website - Cloud v1,Machine Learning
+Todo API - Edge v21,Finite Automata
+Fraud Detection - Edge v6,Discrete Mathematics
+Fitness Tracker - Mobile v25,Finite Automata
+Regex Visualizer - Edge v22,Data Structures and Algorithms
+Fitness Tracker - Cloud v12,Computer Organization
+IoT Sensor Monitor - Edge v16,Machine Learning
+Quiz App - Systems v7,Data Structures and Algorithms
+Memory Allocator Demo - Systems v15,Finite Automata
+Chat App - Web v26,Data Structures and Algorithms
+Network Packet Sniffer - Systems v8,Computer Networks
+VR Gallery - Web v27,Discrete Mathematics
+Crypto Arbitrage Bot - Mobile v12,Data Structures and Algorithms
+Edge Caching Simulator - Web v11,Discrete Mathematics
+Traffic Simulation - Cloud v11,Data Structures and Algorithms
+Log Parser - Edge v2,Finite Automata
+Speech-to-Text - Systems v29,Computer Networks
+Note Taking App - Data v4,Machine Learning
+URL Shortener - Mobile v11,Finite Automata
+AR Ruler - Cloud v20,Finite Automata
+Sentiment Analyzer - ML v19,Finite Automata
+Music Streaming Prototype - Systems v17,Data Structures and Algorithms
+News Aggregator - Edge v26,Computer Organization
+Forum Platform - Cloud v15,Machine Learning
+Regex Visualizer - Mobile v4,Computer Organization
+Event Ticketing - ML v12,Computer Organization
+Course Planner - ML v18,Discrete Mathematics
+Gesture Recognition - Mobile v18,Data Structures and Algorithms
+IoT Sensor Monitor - ML v13,Finite Automata
+IoT Sensor Monitor - Data v29,Machine Learning
+Note Taking App - Data v9,Computer Networks
+Course Planner - Data v24,Machine Learning
+Spam Filter - Systems v25,Discrete Mathematics
+Image Classifier - Web v7,Machine Learning
+Anomaly Detector - Cloud v27,Computer Networks
+Search Engine Mini - Data v5,Finite Automata
+Auto-Grader - Edge v13,Finite Automata
+Anomaly Detector - Edge v20,Machine Learning
+Compiler Tiny - ML v15,Computer Networks
+Sentiment Analyzer - Systems v15,Finite Automata
+Todo API - Mobile v2,Machine Learning
+Blockchain Wallet Demo - Edge v25,Discrete Mathematics
+Todo API - Mobile v18,Data Structures and Algorithms
+Todo API - ML v4,Computer Networks
+URL Shortener - Web v6,Discrete Mathematics
+Event Ticketing - ML v17,Finite Automata
+Course Planner - ML v19,Machine Learning
+Spam Filter - Systems v28,Data Structures and Algorithms
+Social Graph Analyzer - Cloud v14,Machine Learning
+Blockchain Wallet Demo - Cloud v22,Computer Organization
+VR Gallery - Web v10,Finite Automata
+Forum Platform - Data v19,Machine Learning
+Anomaly Detector - Mobile v11,Discrete Mathematics
+Edge Caching Simulator - Web v30,Machine Learning
+Crypto Arbitrage Bot - Edge v16,Machine Learning
+Handwriting OCR - Cloud v5,Computer Networks
+IoT Sensor Monitor - ML v18,Discrete Mathematics
+Crypto Arbitrage Bot - Web v2,Machine Learning
+Log Parser - Cloud v17,Data Structures and Algorithms
+Regex Visualizer - Systems v28,Computer Networks
+Todo API - Systems v29,Computer Organization
+URL Shortener - Edge v11,Machine Learning
+Face Detection Tool - Web v1,Finite Automata
+Chat App - ML v18,Computer Networks
+Map Routing App - Data v20,Computer Organization
+Weather Dashboard - Web v8,Discrete Mathematics
+Todo API - ML v7,Finite Automata
+Stock Price Tracker - Web v26,Computer Organization
+Quiz App - Edge v8,Discrete Mathematics
+Forum Platform - Mobile v27,Computer Networks
+Scheduling System - Web v26,Computer Organization
+Anomaly Detector - Cloud v21,Discrete Mathematics
+Memory Allocator Demo - Systems v1,Data Structures and Algorithms
+News Aggregator - ML v21,Computer Organization
+Traffic Simulation - Mobile v20,Data Structures and Algorithms
+DB Index Visualizer - ML v18,Data Structures and Algorithms
+Crypto Arbitrage Bot - ML v17,Data Structures and Algorithms
+Job Portal - ML v11,Data Structures and Algorithms
+Social Graph Analyzer - Web v17,Machine Learning
+Compiler Tiny - Web v7,Finite Automata
+Spam Filter - Web v29,Computer Organization
+Regex Visualizer - Edge v5,Data Structures and Algorithms
+Sentiment Analyzer - Systems v30,Data Structures and Algorithms
+Quiz App - Mobile v26,Finite Automata
+Image Classifier - Edge v22,Computer Organization
+Sentiment Analyzer - Edge v17,Data Structures and Algorithms
+Regex Visualizer - Data v15,Machine Learning
+Sentiment Analyzer - Cloud v3,Discrete Mathematics
+Fitness Tracker - Cloud v4,Finite Automata
+E-Commerce Site - ML v15,Computer Organization
+Fitness Tracker - Web v10,Machine Learning
+Note Taking App - Cloud v10,Computer Organization
+VR Gallery - Cloud v13,Computer Organization
+Regex Visualizer - Web v2,Machine Learning
+Crypto Arbitrage Bot - ML v25,Computer Networks
+Fraud Detection - Web v15,Machine Learning
+Network Packet Sniffer - Web v29,Computer Networks
+Log Parser - Mobile v2,Discrete Mathematics
+Code Editor Lite - Data v23,Discrete Mathematics
+Course Planner - Web v8,Computer Networks
+Music Streaming Prototype - ML v4,Discrete Mathematics
+Social Graph Analyzer - Web v2,Machine Learning
+Smart Attendance - Data v3,Discrete Mathematics
+Code Editor Lite - ML v13,Discrete Mathematics
+DB Index Visualizer - Data v30,Computer Organization
+Blockchain Wallet Demo - ML v15,Computer Organization
+Log Parser - Cloud v27,Machine Learning
+Scheduling System - Systems v19,Discrete Mathematics
+Regex Visualizer - Data v12,Computer Networks
+Multi-tenant SaaS - Web v24,Computer Organization
+Recommendation Engine - ML v23,Finite Automata
+VR Gallery - ML v24,Computer Networks
+IoT Sensor Monitor - Data v1,Machine Learning
+Social Graph Analyzer - Systems v12,Computer Organization
+Job Portal - Web v14,Discrete Mathematics
+Scheduling System - Mobile v9,Discrete Mathematics
+Course Planner - Cloud v15,Discrete Mathematics
+Fitness Tracker - Mobile v19,Computer Networks
+Sentiment Analyzer - Web v3,Computer Organization
+Code Editor Lite - Edge v10,Machine Learning
+Expense Splitter - Systems v2,Computer Organization
+URL Shortener - Cloud v14,Machine Learning
+Blockchain Wallet Demo - ML v25,Data Structures and Algorithms
+File Sharing Service - Cloud v6,Computer Organization
+Network Packet Sniffer - Data v25,Machine Learning
+News Aggregator - Edge v14,Computer Organization
+Scheduling System - Web v13,Finite Automata
+AR Ruler - ML v20,Computer Organization
+Face Detection Tool - ML v21,Data Structures and Algorithms
+Anomaly Detector - Data v14,Machine Learning
+VR Gallery - Mobile v16,Discrete Mathematics
+Blog CMS - Mobile v8,Machine Learning
+Quiz App - Cloud v7,Computer Organization
+Gesture Recognition - Edge v28,Finite Automata
+Blockchain Wallet Demo - Cloud v11,Discrete Mathematics
+Log Parser - ML v27,Data Structures and Algorithms
+Speech-to-Text - Data v10,Discrete Mathematics
+Multi-tenant SaaS - Cloud v15,Finite Automata
+Forum Platform - Cloud v19,Computer Networks
+Todo API - Data v3,Data Structures and Algorithms
+Gesture Recognition - Edge v24,Computer Networks
+Expense Splitter - Web v15,Computer Networks
+Event Ticketing - Edge v17,Machine Learning
+Portfolio Website - Web v12,Computer Networks
+Crypto Arbitrage Bot - Cloud v27,Computer Networks
+Smart Attendance - Web v15,Finite Automata
+Crypto Arbitrage Bot - Data v19,Machine Learning
+Speech-to-Text - Edge v4,Data Structures and Algorithms
+Log Parser - Web v5,Discrete Mathematics
+Music Streaming Prototype - Mobile v25,Finite Automata
+E-Commerce Site - Data v8,Computer Organization
+Social Graph Analyzer - Web v4,Finite Automata
+News Aggregator - Web v20,Data Structures and Algorithms
+Chat App - Web v30,Computer Organization
+Scheduling System - Mobile v15,Finite Automata
+Stock Price Tracker - Edge v24,Machine Learning
+File Sharing Service - Web v29,Machine Learning
+Face Detection Tool - Mobile v24,Discrete Mathematics
+News Aggregator - Data v25,Computer Networks
+Speech-to-Text - Edge v14,Discrete Mathematics
+Recommendation Engine - ML v1,Computer Networks
+VR Gallery - Systems v30,Computer Networks
+Scheduling System - Cloud v22,Computer Organization
+Expense Splitter - Mobile v7,Computer Networks
+Course Planner - Web v6,Finite Automata
+Fitness Tracker - Mobile v30,Computer Organization
+VR Gallery - Cloud v6,Finite Automata
+Forum Platform - Web v27,Computer Networks
+Portfolio Website - Web v6,Discrete Mathematics
+Multi-tenant SaaS - Cloud v16,Data Structures and Algorithms
+Network Packet Sniffer - Web v17,Discrete Mathematics
+File Sharing Service - Mobile v6,Computer Organization
+Chat App - Mobile v17,Discrete Mathematics
+Multi-tenant SaaS - Mobile v13,Discrete Mathematics
+Quiz App - Cloud v6,Machine Learning
+VR Gallery - Cloud v28,Computer Networks
+Spam Filter - Cloud v14,Computer Organization
+Face Detection Tool - ML v4,Finite Automata
+Edge Caching Simulator - Data v7,Discrete Mathematics
+Edge Caching Simulator - Cloud v16,Machine Learning
+Regex Visualizer - Web v4,Machine Learning
+Auto-Grader - Data v3,Machine Learning
+AR Ruler - Mobile v14,Discrete Mathematics
+Auto-Grader - Web v10,Computer Organization
+AR Ruler - Systems v14,Machine Learning
+Fraud Detection - ML v13,Discrete Mathematics
+Forum Platform - Systems v4,Data Structures and Algorithms
+Crypto Arbitrage Bot - Data v8,Computer Networks
+Regex Visualizer - Cloud v11,Data Structures and Algorithms
+Gesture Recognition - Edge v19,Data Structures and Algorithms
+Search Engine Mini - Edge v7,Machine Learning
+Expense Splitter - Data v13,Computer Networks
+Memory Allocator Demo - Web v22,Finite Automata

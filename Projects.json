@@ -1,0 +1,4002 @@
+{
+  "Student_1": {
+    "Project1": "Anomaly Detector",
+    "Skill1": "Tailwind CSS",
+    "Project2": "Note Taking App",
+    "Skill2": "Storybook",
+    "Project3": "Music Streaming Prototype",
+    "Skill3": "AWS"
+  },
+  "Student_2": {
+    "Project1": "VR Gallery",
+    "Skill1": "Git",
+    "Project2": "Face Detection Tool",
+    "Skill2": "Linux",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "GraphQL"
+  },
+  "Student_3": {
+    "Project1": "Event Ticketing",
+    "Skill1": "PyTorch",
+    "Project2": "Portfolio Website",
+    "Skill2": "Docker",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "GCP"
+  },
+  "Student_4": {
+    "Project1": "Fitness Tracker",
+    "Skill1": "PyTorch",
+    "Project2": "Spam Filter",
+    "Skill2": "OpenCV",
+    "Project3": "Regex Visualizer",
+    "Skill3": "Rust"
+  },
+  "Student_5": {
+    "Project1": "Log Parser",
+    "Skill1": "RabbitMQ",
+    "Project2": "Chat App",
+    "Skill2": "OpenCV",
+    "Project3": "Portfolio Website",
+    "Skill3": "C"
+  },
+  "Student_6": {
+    "Project1": "Chat App",
+    "Skill1": "scikit-learn",
+    "Project2": "Regex Visualizer",
+    "Skill2": "Swift",
+    "Project3": "Compiler Tiny",
+    "Skill3": "GCP"
+  },
+  "Student_7": {
+    "Project1": "Gesture Recognition",
+    "Skill1": "Swift",
+    "Project2": "Scheduling System",
+    "Skill2": "Bash",
+    "Project3": "Todo API",
+    "Skill3": "Kubernetes"
+  },
+  "Student_8": {
+    "Project1": "Multi-tenant SaaS",
+    "Skill1": "Express",
+    "Project2": "File Sharing Service",
+    "Skill2": "Django",
+    "Project3": "Fitness Tracker",
+    "Skill3": "Java"
+  },
+  "Student_9": {
+    "Project1": "Event Ticketing",
+    "Skill1": "Terraform",
+    "Project2": "News Aggregator",
+    "Skill2": "RabbitMQ",
+    "Project3": "URL Shortener",
+    "Skill3": "CI/CD"
+  },
+  "Student_10": {
+    "Project1": "Edge Caching Simulator",
+    "Skill1": "CI/CD",
+    "Project2": "Image Classifier",
+    "Skill2": "AWS",
+    "Project3": "Fitness Tracker",
+    "Skill3": "Rust"
+  },
+  "Student_11": {
+    "Project1": "Auto-Grader",
+    "Skill1": "TypeScript",
+    "Project2": "Quiz App",
+    "Skill2": "Express",
+    "Project3": "AR Ruler",
+    "Skill3": "TensorFlow"
+  },
+  "Student_12": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "Git",
+    "Project2": "Spam Filter",
+    "Skill2": "Java",
+    "Project3": "Speech-to-Text",
+    "Skill3": "OpenCV"
+  },
+  "Student_13": {
+    "Project1": "Speech-to-Text",
+    "Skill1": "TypeScript",
+    "Project2": "Todo API",
+    "Skill2": "Bash",
+    "Project3": "Crypto Arbitrage Bot",
+    "Skill3": "RabbitMQ"
+  },
+  "Student_14": {
+    "Project1": "Smart Attendance",
+    "Skill1": "C",
+    "Project2": "Weather Dashboard",
+    "Skill2": "Express",
+    "Project3": "Compiler Tiny",
+    "Skill3": "Swift"
+  },
+  "Student_15": {
+    "Project1": "Map Routing App",
+    "Skill1": "CI/CD",
+    "Project2": "Job Portal",
+    "Skill2": "Rust",
+    "Project3": "Edge Caching Simulator",
+    "Skill3": "Kafka"
+  },
+  "Student_16": {
+    "Project1": "URL Shortener",
+    "Skill1": "Java",
+    "Project2": "Traffic Simulation",
+    "Skill2": "Flask",
+    "Project3": "Map Routing App",
+    "Skill3": "Terraform"
+  },
+  "Student_17": {
+    "Project1": "Face Detection Tool",
+    "Skill1": "Express",
+    "Project2": "Event Ticketing",
+    "Skill2": "Matplotlib",
+    "Project3": "File Sharing Service",
+    "Skill3": "Kubernetes"
+  },
+  "Student_18": {
+    "Project1": "Code Editor Lite",
+    "Skill1": "NumPy",
+    "Project2": "File Sharing Service",
+    "Skill2": "MongoDB",
+    "Project3": "VR Gallery",
+    "Skill3": "C++"
+  },
+  "Student_19": {
+    "Project1": "DB Index Visualizer",
+    "Skill1": "Elasticsearch",
+    "Project2": "E-Commerce Site",
+    "Skill2": "Docker",
+    "Project3": "Weather Dashboard",
+    "Skill3": "Redis"
+  },
+  "Student_20": {
+    "Project1": "Auto-Grader",
+    "Skill1": "Terraform",
+    "Project2": "Sentiment Analyzer",
+    "Skill2": "GraphQL",
+    "Project3": "Smart Attendance",
+    "Skill3": "AWS"
+  },
+  "Student_21": {
+    "Project1": "Image Classifier",
+    "Skill1": "AWS",
+    "Project2": "Speech-to-Text",
+    "Skill2": "Go",
+    "Project3": "Multi-tenant SaaS",
+    "Skill3": "OpenCV"
+  },
+  "Student_22": {
+    "Project1": "Blog CMS",
+    "Skill1": "Docker",
+    "Project2": "Social Graph Analyzer",
+    "Skill2": "MongoDB",
+    "Project3": "Todo API",
+    "Skill3": "Git"
+  },
+  "Student_23": {
+    "Project1": "E-Commerce Site",
+    "Skill1": "C",
+    "Project2": "Job Portal",
+    "Skill2": "Python",
+    "Project3": "Search Engine Mini",
+    "Skill3": "Swift"
+  },
+  "Student_24": {
+    "Project1": "Network Packet Sniffer",
+    "Skill1": "Git",
+    "Project2": "Traffic Simulation",
+    "Skill2": "C++",
+    "Project3": "Recommendation Engine",
+    "Skill3": "Terraform"
+  },
+  "Student_25": {
+    "Project1": "Log Parser",
+    "Skill1": "OpenCV",
+    "Project2": "Blog CMS",
+    "Skill2": "RabbitMQ",
+    "Project3": "Portfolio Website",
+    "Skill3": "C"
+  },
+  "Student_26": {
+    "Project1": "Fraud Detection",
+    "Skill1": "Agile",
+    "Project2": "File Sharing Service",
+    "Skill2": "Tailwind CSS",
+    "Project3": "Job Portal",
+    "Skill3": "CI/CD"
+  },
+  "Student_27": {
+    "Project1": "Handwriting OCR",
+    "Skill1": "Rust",
+    "Project2": "Course Planner",
+    "Skill2": "Python",
+    "Project3": "Edge Caching Simulator",
+    "Skill3": "Kafka"
+  },
+  "Student_28": {
+    "Project1": "Network Packet Sniffer",
+    "Skill1": "Pandas",
+    "Project2": "Blog CMS",
+    "Skill2": "Express",
+    "Project3": "Anomaly Detector",
+    "Skill3": "Socket.IO"
+  },
+  "Student_29": {
+    "Project1": "Expense Splitter",
+    "Skill1": "Kubernetes",
+    "Project2": "Handwriting OCR",
+    "Skill2": "TensorFlow",
+    "Project3": "Job Portal",
+    "Skill3": "React"
+  },
+  "Student_30": {
+    "Project1": "Regex Visualizer",
+    "Skill1": "Kotlin",
+    "Project2": "Spam Filter",
+    "Skill2": "NumPy",
+    "Project3": "Quiz App",
+    "Skill3": "C++"
+  },
+  "Student_31": {
+    "Project1": "Handwriting OCR",
+    "Skill1": "C",
+    "Project2": "URL Shortener",
+    "Skill2": "PostgreSQL",
+    "Project3": "Speech-to-Text",
+    "Skill3": "Git"
+  },
+  "Student_32": {
+    "Project1": "Blog CMS",
+    "Skill1": "Kubernetes",
+    "Project2": "News Aggregator",
+    "Skill2": "Java",
+    "Project3": "Fraud Detection",
+    "Skill3": "Elasticsearch"
+  },
+  "Student_33": {
+    "Project1": "Spam Filter",
+    "Skill1": "Express",
+    "Project2": "Traffic Simulation",
+    "Skill2": "Elasticsearch",
+    "Project3": "Map Routing App",
+    "Skill3": "Storybook"
+  },
+  "Student_34": {
+    "Project1": "Log Parser",
+    "Skill1": "Kafka",
+    "Project2": "Code Editor Lite",
+    "Skill2": "Python",
+    "Project3": "Smart Attendance",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_35": {
+    "Project1": "Traffic Simulation",
+    "Skill1": "NumPy",
+    "Project2": "Search Engine Mini",
+    "Skill2": "Go",
+    "Project3": "Music Streaming Prototype",
+    "Skill3": "Azure"
+  },
+  "Student_36": {
+    "Project1": "Auto-Grader",
+    "Skill1": "GraphQL",
+    "Project2": "DB Index Visualizer",
+    "Skill2": "MongoDB",
+    "Project3": "Music Streaming Prototype",
+    "Skill3": "RabbitMQ"
+  },
+  "Student_37": {
+    "Project1": "Multi-tenant SaaS",
+    "Skill1": "FastAPI",
+    "Project2": "Traffic Simulation",
+    "Skill2": "Elasticsearch",
+    "Project3": "Network Packet Sniffer",
+    "Skill3": "Pandas"
+  },
+  "Student_38": {
+    "Project1": "Blockchain Wallet Demo",
+    "Skill1": "C++",
+    "Project2": "Memory Allocator Demo",
+    "Skill2": "Rust",
+    "Project3": "Sentiment Analyzer",
+    "Skill3": "Elasticsearch"
+  },
+  "Student_39": {
+    "Project1": "Log Parser",
+    "Skill1": "Terraform",
+    "Project2": "VR Gallery",
+    "Skill2": "Redis",
+    "Project3": "Code Editor Lite",
+    "Skill3": "Swift"
+  },
+  "Student_40": {
+    "Project1": "Traffic Simulation",
+    "Skill1": "Tailwind CSS",
+    "Project2": "Face Detection Tool",
+    "Skill2": "Kubernetes",
+    "Project3": "E-Commerce Site",
+    "Skill3": "AWS"
+  },
+  "Student_41": {
+    "Project1": "News Aggregator",
+    "Skill1": "scikit-learn",
+    "Project2": "Weather Dashboard",
+    "Skill2": "Express",
+    "Project3": "File Sharing Service",
+    "Skill3": "Redis"
+  },
+  "Student_42": {
+    "Project1": "Recommendation Engine",
+    "Skill1": "CI/CD",
+    "Project2": "E-Commerce Site",
+    "Skill2": "Rust",
+    "Project3": "File Sharing Service",
+    "Skill3": "AWS"
+  },
+  "Student_43": {
+    "Project1": "File Sharing Service",
+    "Skill1": "AWS",
+    "Project2": "AR Ruler",
+    "Skill2": "Agile",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "MongoDB"
+  },
+  "Student_44": {
+    "Project1": "Job Portal",
+    "Skill1": "Agile",
+    "Project2": "Handwriting OCR",
+    "Skill2": "TDD",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "Java"
+  },
+  "Student_45": {
+    "Project1": "Anomaly Detector",
+    "Skill1": "TypeScript",
+    "Project2": "Weather Dashboard",
+    "Skill2": "Go",
+    "Project3": "Code Editor Lite",
+    "Skill3": "CI/CD"
+  },
+  "Student_46": {
+    "Project1": "File Sharing Service",
+    "Skill1": "Redis",
+    "Project2": "Face Detection Tool",
+    "Skill2": "PostgreSQL",
+    "Project3": "Multi-tenant SaaS",
+    "Skill3": "Django"
+  },
+  "Student_47": {
+    "Project1": "Music Streaming Prototype",
+    "Skill1": "Express",
+    "Project2": "Edge Caching Simulator",
+    "Skill2": "Docker",
+    "Project3": "Crypto Arbitrage Bot",
+    "Skill3": "Agile"
+  },
+  "Student_48": {
+    "Project1": "URL Shortener",
+    "Skill1": "Pandas",
+    "Project2": "Forum Platform",
+    "Skill2": "React",
+    "Project3": "AR Ruler",
+    "Skill3": "Matplotlib"
+  },
+  "Student_49": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "scikit-learn",
+    "Project2": "Traffic Simulation",
+    "Skill2": "Matplotlib",
+    "Project3": "Event Ticketing",
+    "Skill3": "AWS"
+  },
+  "Student_50": {
+    "Project1": "Memory Allocator Demo",
+    "Skill1": "Azure",
+    "Project2": "Music Streaming Prototype",
+    "Skill2": "Go",
+    "Project3": "Regex Visualizer",
+    "Skill3": "TDD"
+  },
+  "Student_51": {
+    "Project1": "Crypto Arbitrage Bot",
+    "Skill1": "Java",
+    "Project2": "Gesture Recognition",
+    "Skill2": "Azure",
+    "Project3": "Network Packet Sniffer",
+    "Skill3": "GraphQL"
+  },
+  "Student_52": {
+    "Project1": "Memory Allocator Demo",
+    "Skill1": "GraphQL",
+    "Project2": "Expense Splitter",
+    "Skill2": "Go",
+    "Project3": "Search Engine Mini",
+    "Skill3": "C"
+  },
+  "Student_53": {
+    "Project1": "News Aggregator",
+    "Skill1": "Swift",
+    "Project2": "Sentiment Analyzer",
+    "Skill2": "GraphQL",
+    "Project3": "Edge Caching Simulator",
+    "Skill3": "FastAPI"
+  },
+  "Student_54": {
+    "Project1": "Regex Visualizer",
+    "Skill1": "React",
+    "Project2": "Note Taking App",
+    "Skill2": "RabbitMQ",
+    "Project3": "Speech-to-Text",
+    "Skill3": "GraphQL"
+  },
+  "Student_55": {
+    "Project1": "Blog CMS",
+    "Skill1": "Matplotlib",
+    "Project2": "Recommendation Engine",
+    "Skill2": "MongoDB",
+    "Project3": "Job Portal",
+    "Skill3": "Git"
+  },
+  "Student_56": {
+    "Project1": "Weather Dashboard",
+    "Skill1": "Docker",
+    "Project2": "Note Taking App",
+    "Skill2": "Node.js",
+    "Project3": "Anomaly Detector",
+    "Skill3": "Linux"
+  },
+  "Student_57": {
+    "Project1": "Anomaly Detector",
+    "Skill1": "Rust",
+    "Project2": "Todo API",
+    "Skill2": "Swift",
+    "Project3": "Smart Attendance",
+    "Skill3": "CI/CD"
+  },
+  "Student_58": {
+    "Project1": "Forum Platform",
+    "Skill1": "Matplotlib",
+    "Project2": "Search Engine Mini",
+    "Skill2": "C",
+    "Project3": "Code Editor Lite",
+    "Skill3": "Rust"
+  },
+  "Student_59": {
+    "Project1": "DB Index Visualizer",
+    "Skill1": "PyTorch",
+    "Project2": "Anomaly Detector",
+    "Skill2": "C",
+    "Project3": "Smart Attendance",
+    "Skill3": "TypeScript"
+  },
+  "Student_60": {
+    "Project1": "File Sharing Service",
+    "Skill1": "OpenCV",
+    "Project2": "Memory Allocator Demo",
+    "Skill2": "GCP",
+    "Project3": "Recommendation Engine",
+    "Skill3": "Flask"
+  },
+  "Student_61": {
+    "Project1": "Face Detection Tool",
+    "Skill1": "Linux",
+    "Project2": "Gesture Recognition",
+    "Skill2": "Pandas",
+    "Project3": "News Aggregator",
+    "Skill3": "Azure"
+  },
+  "Student_62": {
+    "Project1": "Forum Platform",
+    "Skill1": "PostgreSQL",
+    "Project2": "Weather Dashboard",
+    "Skill2": "Terraform",
+    "Project3": "Recommendation Engine",
+    "Skill3": "TensorFlow"
+  },
+  "Student_63": {
+    "Project1": "Job Portal",
+    "Skill1": "NumPy",
+    "Project2": "Quiz App",
+    "Skill2": "GraphQL",
+    "Project3": "Traffic Simulation",
+    "Skill3": "FastAPI"
+  },
+  "Student_64": {
+    "Project1": "Network Packet Sniffer",
+    "Skill1": "Socket.IO",
+    "Project2": "IoT Sensor Monitor",
+    "Skill2": "RabbitMQ",
+    "Project3": "File Sharing Service",
+    "Skill3": "Redis"
+  },
+  "Student_65": {
+    "Project1": "Quiz App",
+    "Skill1": "Django",
+    "Project2": "Auto-Grader",
+    "Skill2": "RabbitMQ",
+    "Project3": "Crypto Arbitrage Bot",
+    "Skill3": "scikit-learn"
+  },
+  "Student_66": {
+    "Project1": "Fraud Detection",
+    "Skill1": "RabbitMQ",
+    "Project2": "Chat App",
+    "Skill2": "scikit-learn",
+    "Project3": "Gesture Recognition",
+    "Skill3": "Python"
+  },
+  "Student_67": {
+    "Project1": "Social Graph Analyzer",
+    "Skill1": "GraphQL",
+    "Project2": "Crypto Arbitrage Bot",
+    "Skill2": "TDD",
+    "Project3": "Smart Attendance",
+    "Skill3": "RabbitMQ"
+  },
+  "Student_68": {
+    "Project1": "Edge Caching Simulator",
+    "Skill1": "MongoDB",
+    "Project2": "Scheduling System",
+    "Skill2": "Bash",
+    "Project3": "Expense Splitter",
+    "Skill3": "Pandas"
+  },
+  "Student_69": {
+    "Project1": "Note Taking App",
+    "Skill1": "Python",
+    "Project2": "Blockchain Wallet Demo",
+    "Skill2": "Git",
+    "Project3": "Speech-to-Text",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_70": {
+    "Project1": "DB Index Visualizer",
+    "Skill1": "Socket.IO",
+    "Project2": "Crypto Arbitrage Bot",
+    "Skill2": "RabbitMQ",
+    "Project3": "Chat App",
+    "Skill3": "C"
+  },
+  "Student_71": {
+    "Project1": "Face Detection Tool",
+    "Skill1": "TypeScript",
+    "Project2": "Fraud Detection",
+    "Skill2": "Flask",
+    "Project3": "Regex Visualizer",
+    "Skill3": "Kotlin"
+  },
+  "Student_72": {
+    "Project1": "Multi-tenant SaaS",
+    "Skill1": "Socket.IO",
+    "Project2": "URL Shortener",
+    "Skill2": "PyTorch",
+    "Project3": "Network Packet Sniffer",
+    "Skill3": "CI/CD"
+  },
+  "Student_73": {
+    "Project1": "Event Ticketing",
+    "Skill1": "AWS",
+    "Project2": "Code Editor Lite",
+    "Skill2": "FastAPI",
+    "Project3": "Course Planner",
+    "Skill3": "Terraform"
+  },
+  "Student_74": {
+    "Project1": "Quiz App",
+    "Skill1": "TensorFlow",
+    "Project2": "Blockchain Wallet Demo",
+    "Skill2": "Java",
+    "Project3": "Auto-Grader",
+    "Skill3": "Flask"
+  },
+  "Student_75": {
+    "Project1": "Expense Splitter",
+    "Skill1": "CI/CD",
+    "Project2": "Sentiment Analyzer",
+    "Skill2": "TDD",
+    "Project3": "Spam Filter",
+    "Skill3": "Flask"
+  },
+  "Student_76": {
+    "Project1": "Scheduling System",
+    "Skill1": "Rust",
+    "Project2": "Social Graph Analyzer",
+    "Skill2": "Flask",
+    "Project3": "Face Detection Tool",
+    "Skill3": "OpenCV"
+  },
+  "Student_77": {
+    "Project1": "Smart Attendance",
+    "Skill1": "Agile",
+    "Project2": "Music Streaming Prototype",
+    "Skill2": "Matplotlib",
+    "Project3": "Quiz App",
+    "Skill3": "Elasticsearch"
+  },
+  "Student_78": {
+    "Project1": "Traffic Simulation",
+    "Skill1": "Rust",
+    "Project2": "Code Editor Lite",
+    "Skill2": "C",
+    "Project3": "Social Graph Analyzer",
+    "Skill3": "Storybook"
+  },
+  "Student_79": {
+    "Project1": "Expense Splitter",
+    "Skill1": "Terraform",
+    "Project2": "Traffic Simulation",
+    "Skill2": "CI/CD",
+    "Project3": "Stock Price Tracker",
+    "Skill3": "scikit-learn"
+  },
+  "Student_80": {
+    "Project1": "Auto-Grader",
+    "Skill1": "C",
+    "Project2": "Traffic Simulation",
+    "Skill2": "Django",
+    "Project3": "Social Graph Analyzer",
+    "Skill3": "Go"
+  },
+  "Student_81": {
+    "Project1": "Forum Platform",
+    "Skill1": "Terraform",
+    "Project2": "Course Planner",
+    "Skill2": "Python",
+    "Project3": "Todo API",
+    "Skill3": "Kotlin"
+  },
+  "Student_82": {
+    "Project1": "Log Parser",
+    "Skill1": "PyTorch",
+    "Project2": "E-Commerce Site",
+    "Skill2": "RabbitMQ",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "NumPy"
+  },
+  "Student_83": {
+    "Project1": "Expense Splitter",
+    "Skill1": "Django",
+    "Project2": "Memory Allocator Demo",
+    "Skill2": "TensorFlow",
+    "Project3": "Fraud Detection",
+    "Skill3": "PyTorch"
+  },
+  "Student_84": {
+    "Project1": "Weather Dashboard",
+    "Skill1": "C",
+    "Project2": "VR Gallery",
+    "Skill2": "Tailwind CSS",
+    "Project3": "Note Taking App",
+    "Skill3": "Elasticsearch"
+  },
+  "Student_85": {
+    "Project1": "Blog CMS",
+    "Skill1": "Tailwind CSS",
+    "Project2": "Code Editor Lite",
+    "Skill2": "AWS",
+    "Project3": "Memory Allocator Demo",
+    "Skill3": "TensorFlow"
+  },
+  "Student_86": {
+    "Project1": "Spam Filter",
+    "Skill1": "Tailwind CSS",
+    "Project2": "Event Ticketing",
+    "Skill2": "Kubernetes",
+    "Project3": "Map Routing App",
+    "Skill3": "Azure"
+  },
+  "Student_87": {
+    "Project1": "Log Parser",
+    "Skill1": "OpenCV",
+    "Project2": "Map Routing App",
+    "Skill2": "Matplotlib",
+    "Project3": "E-Commerce Site",
+    "Skill3": "React"
+  },
+  "Student_88": {
+    "Project1": "Log Parser",
+    "Skill1": "React",
+    "Project2": "Course Planner",
+    "Skill2": "NumPy",
+    "Project3": "Forum Platform",
+    "Skill3": "Git"
+  },
+  "Student_89": {
+    "Project1": "Social Graph Analyzer",
+    "Skill1": "scikit-learn",
+    "Project2": "Music Streaming Prototype",
+    "Skill2": "Go",
+    "Project3": "Forum Platform",
+    "Skill3": "MongoDB"
+  },
+  "Student_90": {
+    "Project1": "Portfolio Website",
+    "Skill1": "Redis",
+    "Project2": "Weather Dashboard",
+    "Skill2": "TensorFlow",
+    "Project3": "Blog CMS",
+    "Skill3": "OpenCV"
+  },
+  "Student_91": {
+    "Project1": "Auto-Grader",
+    "Skill1": "Python",
+    "Project2": "Traffic Simulation",
+    "Skill2": "TDD",
+    "Project3": "Edge Caching Simulator",
+    "Skill3": "OpenCV"
+  },
+  "Student_92": {
+    "Project1": "Fitness Tracker",
+    "Skill1": "TDD",
+    "Project2": "Handwriting OCR",
+    "Skill2": "Flask",
+    "Project3": "Edge Caching Simulator",
+    "Skill3": "Agile"
+  },
+  "Student_93": {
+    "Project1": "Gesture Recognition",
+    "Skill1": "TypeScript",
+    "Project2": "Chat App",
+    "Skill2": "Rust",
+    "Project3": "Search Engine Mini",
+    "Skill3": "Agile"
+  },
+  "Student_94": {
+    "Project1": "Event Ticketing",
+    "Skill1": "Docker",
+    "Project2": "Quiz App",
+    "Skill2": "CI/CD",
+    "Project3": "Face Detection Tool",
+    "Skill3": "Azure"
+  },
+  "Student_95": {
+    "Project1": "Job Portal",
+    "Skill1": "Rust",
+    "Project2": "Music Streaming Prototype",
+    "Skill2": "Git",
+    "Project3": "Social Graph Analyzer",
+    "Skill3": "Python"
+  },
+  "Student_96": {
+    "Project1": "Expense Splitter",
+    "Skill1": "Matplotlib",
+    "Project2": "Recommendation Engine",
+    "Skill2": "Pandas",
+    "Project3": "Fitness Tracker",
+    "Skill3": "GCP"
+  },
+  "Student_97": {
+    "Project1": "IoT Sensor Monitor",
+    "Skill1": "Redis",
+    "Project2": "Job Portal",
+    "Skill2": "CI/CD",
+    "Project3": "Search Engine Mini",
+    "Skill3": "Kafka"
+  },
+  "Student_98": {
+    "Project1": "Fitness Tracker",
+    "Skill1": "Redis",
+    "Project2": "Forum Platform",
+    "Skill2": "Terraform",
+    "Project3": "Code Editor Lite",
+    "Skill3": "Bash"
+  },
+  "Student_99": {
+    "Project1": "Job Portal",
+    "Skill1": "Docker",
+    "Project2": "Map Routing App",
+    "Skill2": "Pandas",
+    "Project3": "Memory Allocator Demo",
+    "Skill3": "Git"
+  },
+  "Student_100": {
+    "Project1": "Weather Dashboard",
+    "Skill1": "CI/CD",
+    "Project2": "E-Commerce Site",
+    "Skill2": "Go",
+    "Project3": "Multi-tenant SaaS",
+    "Skill3": "GraphQL"
+  },
+  "Student_101": {
+    "Project1": "Compiler Tiny",
+    "Skill1": "Azure",
+    "Project2": "Spam Filter",
+    "Skill2": "Java",
+    "Project3": "Crypto Arbitrage Bot",
+    "Skill3": "Pandas"
+  },
+  "Student_102": {
+    "Project1": "Event Ticketing",
+    "Skill1": "TDD",
+    "Project2": "Anomaly Detector",
+    "Skill2": "Django",
+    "Project3": "Code Editor Lite",
+    "Skill3": "Terraform"
+  },
+  "Student_103": {
+    "Project1": "Portfolio Website",
+    "Skill1": "Socket.IO",
+    "Project2": "Note Taking App",
+    "Skill2": "Azure",
+    "Project3": "Log Parser",
+    "Skill3": "scikit-learn"
+  },
+  "Student_104": {
+    "Project1": "VR Gallery",
+    "Skill1": "Agile",
+    "Project2": "Recommendation Engine",
+    "Skill2": "MongoDB",
+    "Project3": "Blockchain Wallet Demo",
+    "Skill3": "Linux"
+  },
+  "Student_105": {
+    "Project1": "Handwriting OCR",
+    "Skill1": "NumPy",
+    "Project2": "Stock Price Tracker",
+    "Skill2": "Django",
+    "Project3": "Auto-Grader",
+    "Skill3": "MongoDB"
+  },
+  "Student_106": {
+    "Project1": "Music Streaming Prototype",
+    "Skill1": "Socket.IO",
+    "Project2": "Crypto Arbitrage Bot",
+    "Skill2": "AWS",
+    "Project3": "Map Routing App",
+    "Skill3": "Storybook"
+  },
+  "Student_107": {
+    "Project1": "Anomaly Detector",
+    "Skill1": "React",
+    "Project2": "Recommendation Engine",
+    "Skill2": "Terraform",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "Python"
+  },
+  "Student_108": {
+    "Project1": "Crypto Arbitrage Bot",
+    "Skill1": "TDD",
+    "Project2": "Social Graph Analyzer",
+    "Skill2": "Pandas",
+    "Project3": "Chat App",
+    "Skill3": "AWS"
+  },
+  "Student_109": {
+    "Project1": "Weather Dashboard",
+    "Skill1": "C",
+    "Project2": "Course Planner",
+    "Skill2": "FastAPI",
+    "Project3": "Blockchain Wallet Demo",
+    "Skill3": "Pandas"
+  },
+  "Student_110": {
+    "Project1": "Log Parser",
+    "Skill1": "MongoDB",
+    "Project2": "Portfolio Website",
+    "Skill2": "Express",
+    "Project3": "Stock Price Tracker",
+    "Skill3": "Node.js"
+  },
+  "Student_111": {
+    "Project1": "Map Routing App",
+    "Skill1": "C",
+    "Project2": "Auto-Grader",
+    "Skill2": "React",
+    "Project3": "Log Parser",
+    "Skill3": "GCP"
+  },
+  "Student_112": {
+    "Project1": "Handwriting OCR",
+    "Skill1": "Tailwind CSS",
+    "Project2": "Search Engine Mini",
+    "Skill2": "Node.js",
+    "Project3": "Event Ticketing",
+    "Skill3": "MongoDB"
+  },
+  "Student_113": {
+    "Project1": "Regex Visualizer",
+    "Skill1": "RabbitMQ",
+    "Project2": "E-Commerce Site",
+    "Skill2": "Kotlin",
+    "Project3": "Weather Dashboard",
+    "Skill3": "Agile"
+  },
+  "Student_114": {
+    "Project1": "Chat App",
+    "Skill1": "C",
+    "Project2": "Edge Caching Simulator",
+    "Skill2": "RabbitMQ",
+    "Project3": "Image Classifier",
+    "Skill3": "Kafka"
+  },
+  "Student_115": {
+    "Project1": "Auto-Grader",
+    "Skill1": "Elasticsearch",
+    "Project2": "Code Editor Lite",
+    "Skill2": "CI/CD",
+    "Project3": "Note Taking App",
+    "Skill3": "GraphQL"
+  },
+  "Student_116": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "Python",
+    "Project2": "Map Routing App",
+    "Skill2": "GCP",
+    "Project3": "Code Editor Lite",
+    "Skill3": "Pandas"
+  },
+  "Student_117": {
+    "Project1": "Image Classifier",
+    "Skill1": "Socket.IO",
+    "Project2": "Recommendation Engine",
+    "Skill2": "Pandas",
+    "Project3": "Note Taking App",
+    "Skill3": "Kafka"
+  },
+  "Student_118": {
+    "Project1": "Job Portal",
+    "Skill1": "Azure",
+    "Project2": "Gesture Recognition",
+    "Skill2": "C++",
+    "Project3": "Network Packet Sniffer",
+    "Skill3": "Flask"
+  },
+  "Student_119": {
+    "Project1": "Crypto Arbitrage Bot",
+    "Skill1": "Terraform",
+    "Project2": "Scheduling System",
+    "Skill2": "C",
+    "Project3": "Portfolio Website",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_120": {
+    "Project1": "Expense Splitter",
+    "Skill1": "Azure",
+    "Project2": "Stock Price Tracker",
+    "Skill2": "Kotlin",
+    "Project3": "Chat App",
+    "Skill3": "Elasticsearch"
+  },
+  "Student_121": {
+    "Project1": "Network Packet Sniffer",
+    "Skill1": "PyTorch",
+    "Project2": "Event Ticketing",
+    "Skill2": "Java",
+    "Project3": "Compiler Tiny",
+    "Skill3": "C"
+  },
+  "Student_122": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "Pandas",
+    "Project2": "Music Streaming Prototype",
+    "Skill2": "Swift",
+    "Project3": "Sentiment Analyzer",
+    "Skill3": "React"
+  },
+  "Student_123": {
+    "Project1": "Event Ticketing",
+    "Skill1": "Azure",
+    "Project2": "Auto-Grader",
+    "Skill2": "Bash",
+    "Project3": "Edge Caching Simulator",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_124": {
+    "Project1": "Sentiment Analyzer",
+    "Skill1": "Linux",
+    "Project2": "Social Graph Analyzer",
+    "Skill2": "Terraform",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "C"
+  },
+  "Student_125": {
+    "Project1": "Spam Filter",
+    "Skill1": "TensorFlow",
+    "Project2": "Blockchain Wallet Demo",
+    "Skill2": "Pandas",
+    "Project3": "Fraud Detection",
+    "Skill3": "Swift"
+  },
+  "Student_126": {
+    "Project1": "Recommendation Engine",
+    "Skill1": "Git",
+    "Project2": "Quiz App",
+    "Skill2": "C",
+    "Project3": "Auto-Grader",
+    "Skill3": "Terraform"
+  },
+  "Student_127": {
+    "Project1": "Blog CMS",
+    "Skill1": "MongoDB",
+    "Project2": "Gesture Recognition",
+    "Skill2": "React",
+    "Project3": "Scheduling System",
+    "Skill3": "NumPy"
+  },
+  "Student_128": {
+    "Project1": "Scheduling System",
+    "Skill1": "Kotlin",
+    "Project2": "Stock Price Tracker",
+    "Skill2": "Node.js",
+    "Project3": "Smart Attendance",
+    "Skill3": "Bash"
+  },
+  "Student_129": {
+    "Project1": "Quiz App",
+    "Skill1": "GraphQL",
+    "Project2": "Chat App",
+    "Skill2": "GCP",
+    "Project3": "Portfolio Website",
+    "Skill3": "TypeScript"
+  },
+  "Student_130": {
+    "Project1": "Forum Platform",
+    "Skill1": "Kotlin",
+    "Project2": "VR Gallery",
+    "Skill2": "CI/CD",
+    "Project3": "Music Streaming Prototype",
+    "Skill3": "Terraform"
+  },
+  "Student_131": {
+    "Project1": "Handwriting OCR",
+    "Skill1": "Bash",
+    "Project2": "Todo API",
+    "Skill2": "Matplotlib",
+    "Project3": "Note Taking App",
+    "Skill3": "MongoDB"
+  },
+  "Student_132": {
+    "Project1": "Portfolio Website",
+    "Skill1": "Linux",
+    "Project2": "Image Classifier",
+    "Skill2": "TensorFlow",
+    "Project3": "E-Commerce Site",
+    "Skill3": "MongoDB"
+  },
+  "Student_133": {
+    "Project1": "Blockchain Wallet Demo",
+    "Skill1": "RabbitMQ",
+    "Project2": "Weather Dashboard",
+    "Skill2": "Django",
+    "Project3": "Fraud Detection",
+    "Skill3": "C++"
+  },
+  "Student_134": {
+    "Project1": "Todo API",
+    "Skill1": "React",
+    "Project2": "Weather Dashboard",
+    "Skill2": "RabbitMQ",
+    "Project3": "Search Engine Mini",
+    "Skill3": "GCP"
+  },
+  "Student_135": {
+    "Project1": "Stock Price Tracker",
+    "Skill1": "Agile",
+    "Project2": "Event Ticketing",
+    "Skill2": "Bash",
+    "Project3": "Weather Dashboard",
+    "Skill3": "Matplotlib"
+  },
+  "Student_136": {
+    "Project1": "Spam Filter",
+    "Skill1": "Pandas",
+    "Project2": "Event Ticketing",
+    "Skill2": "GraphQL",
+    "Project3": "Face Detection Tool",
+    "Skill3": "RabbitMQ"
+  },
+  "Student_137": {
+    "Project1": "Code Editor Lite",
+    "Skill1": "Java",
+    "Project2": "Anomaly Detector",
+    "Skill2": "Terraform",
+    "Project3": "News Aggregator",
+    "Skill3": "GraphQL"
+  },
+  "Student_138": {
+    "Project1": "Music Streaming Prototype",
+    "Skill1": "Flask",
+    "Project2": "VR Gallery",
+    "Skill2": "scikit-learn",
+    "Project3": "Course Planner",
+    "Skill3": "Redis"
+  },
+  "Student_139": {
+    "Project1": "Portfolio Website",
+    "Skill1": "PostgreSQL",
+    "Project2": "Course Planner",
+    "Skill2": "Kubernetes",
+    "Project3": "Edge Caching Simulator",
+    "Skill3": "Rust"
+  },
+  "Student_140": {
+    "Project1": "VR Gallery",
+    "Skill1": "Go",
+    "Project2": "Note Taking App",
+    "Skill2": "GCP",
+    "Project3": "URL Shortener",
+    "Skill3": "Storybook"
+  },
+  "Student_141": {
+    "Project1": "Note Taking App",
+    "Skill1": "OpenCV",
+    "Project2": "Chat App",
+    "Skill2": "Kubernetes",
+    "Project3": "Map Routing App",
+    "Skill3": "GraphQL"
+  },
+  "Student_142": {
+    "Project1": "Weather Dashboard",
+    "Skill1": "Go",
+    "Project2": "Speech-to-Text",
+    "Skill2": "C++",
+    "Project3": "DB Index Visualizer",
+    "Skill3": "TensorFlow"
+  },
+  "Student_143": {
+    "Project1": "Blockchain Wallet Demo",
+    "Skill1": "Node.js",
+    "Project2": "Anomaly Detector",
+    "Skill2": "Java",
+    "Project3": "VR Gallery",
+    "Skill3": "TensorFlow"
+  },
+  "Student_144": {
+    "Project1": "Edge Caching Simulator",
+    "Skill1": "Django",
+    "Project2": "Job Portal",
+    "Skill2": "PyTorch",
+    "Project3": "Quiz App",
+    "Skill3": "C++"
+  },
+  "Student_145": {
+    "Project1": "File Sharing Service",
+    "Skill1": "Swift",
+    "Project2": "Traffic Simulation",
+    "Skill2": "OpenCV",
+    "Project3": "Chat App",
+    "Skill3": "Node.js"
+  },
+  "Student_146": {
+    "Project1": "Face Detection Tool",
+    "Skill1": "Kotlin",
+    "Project2": "IoT Sensor Monitor",
+    "Skill2": "FastAPI",
+    "Project3": "Portfolio Website",
+    "Skill3": "Agile"
+  },
+  "Student_147": {
+    "Project1": "IoT Sensor Monitor",
+    "Skill1": "PyTorch",
+    "Project2": "Expense Splitter",
+    "Skill2": "GraphQL",
+    "Project3": "Social Graph Analyzer",
+    "Skill3": "MongoDB"
+  },
+  "Student_148": {
+    "Project1": "Image Classifier",
+    "Skill1": "PyTorch",
+    "Project2": "Blockchain Wallet Demo",
+    "Skill2": "Linux",
+    "Project3": "Memory Allocator Demo",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_149": {
+    "Project1": "Spam Filter",
+    "Skill1": "CI/CD",
+    "Project2": "Memory Allocator Demo",
+    "Skill2": "C++",
+    "Project3": "Todo API",
+    "Skill3": "Redis"
+  },
+  "Student_150": {
+    "Project1": "Event Ticketing",
+    "Skill1": "Python",
+    "Project2": "Map Routing App",
+    "Skill2": "TypeScript",
+    "Project3": "Multi-tenant SaaS",
+    "Skill3": "Go"
+  },
+  "Student_151": {
+    "Project1": "Portfolio Website",
+    "Skill1": "Kotlin",
+    "Project2": "Log Parser",
+    "Skill2": "CI/CD",
+    "Project3": "Spam Filter",
+    "Skill3": "Kubernetes"
+  },
+  "Student_152": {
+    "Project1": "AR Ruler",
+    "Skill1": "TensorFlow",
+    "Project2": "Traffic Simulation",
+    "Skill2": "Swift",
+    "Project3": "Search Engine Mini",
+    "Skill3": "Storybook"
+  },
+  "Student_153": {
+    "Project1": "URL Shortener",
+    "Skill1": "PostgreSQL",
+    "Project2": "Recommendation Engine",
+    "Skill2": "Kafka",
+    "Project3": "File Sharing Service",
+    "Skill3": "Swift"
+  },
+  "Student_154": {
+    "Project1": "Blog CMS",
+    "Skill1": "Elasticsearch",
+    "Project2": "Regex Visualizer",
+    "Skill2": "PyTorch",
+    "Project3": "Multi-tenant SaaS",
+    "Skill3": "PostgreSQL"
+  },
+  "Student_155": {
+    "Project1": "Recommendation Engine",
+    "Skill1": "Tailwind CSS",
+    "Project2": "Anomaly Detector",
+    "Skill2": "TDD",
+    "Project3": "Spam Filter",
+    "Skill3": "Linux"
+  },
+  "Student_156": {
+    "Project1": "URL Shortener",
+    "Skill1": "Git",
+    "Project2": "Forum Platform",
+    "Skill2": "Matplotlib",
+    "Project3": "Quiz App",
+    "Skill3": "FastAPI"
+  },
+  "Student_157": {
+    "Project1": "Portfolio Website",
+    "Skill1": "Matplotlib",
+    "Project2": "AR Ruler",
+    "Skill2": "Socket.IO",
+    "Project3": "Event Ticketing",
+    "Skill3": "AWS"
+  },
+  "Student_158": {
+    "Project1": "Code Editor Lite",
+    "Skill1": "Terraform",
+    "Project2": "Face Detection Tool",
+    "Skill2": "Swift",
+    "Project3": "Gesture Recognition",
+    "Skill3": "C"
+  },
+  "Student_159": {
+    "Project1": "Image Classifier",
+    "Skill1": "TDD",
+    "Project2": "Network Packet Sniffer",
+    "Skill2": "Swift",
+    "Project3": "Fitness Tracker",
+    "Skill3": "Bash"
+  },
+  "Student_160": {
+    "Project1": "Compiler Tiny",
+    "Skill1": "Swift",
+    "Project2": "Edge Caching Simulator",
+    "Skill2": "C++",
+    "Project3": "Fraud Detection",
+    "Skill3": "Flask"
+  },
+  "Student_161": {
+    "Project1": "Regex Visualizer",
+    "Skill1": "GraphQL",
+    "Project2": "Smart Attendance",
+    "Skill2": "Java",
+    "Project3": "Log Parser",
+    "Skill3": "CI/CD"
+  },
+  "Student_162": {
+    "Project1": "Job Portal",
+    "Skill1": "PyTorch",
+    "Project2": "Network Packet Sniffer",
+    "Skill2": "Matplotlib",
+    "Project3": "Expense Splitter",
+    "Skill3": "OpenCV"
+  },
+  "Student_163": {
+    "Project1": "Gesture Recognition",
+    "Skill1": "Swift",
+    "Project2": "Memory Allocator Demo",
+    "Skill2": "Kubernetes",
+    "Project3": "Speech-to-Text",
+    "Skill3": "TypeScript"
+  },
+  "Student_164": {
+    "Project1": "Auto-Grader",
+    "Skill1": "Flask",
+    "Project2": "Smart Attendance",
+    "Skill2": "Express",
+    "Project3": "Event Ticketing",
+    "Skill3": "Kotlin"
+  },
+  "Student_165": {
+    "Project1": "Weather Dashboard",
+    "Skill1": "Kubernetes",
+    "Project2": "Log Parser",
+    "Skill2": "Kafka",
+    "Project3": "Gesture Recognition",
+    "Skill3": "Django"
+  },
+  "Student_166": {
+    "Project1": "Sentiment Analyzer",
+    "Skill1": "TypeScript",
+    "Project2": "Speech-to-Text",
+    "Skill2": "FastAPI",
+    "Project3": "Blockchain Wallet Demo",
+    "Skill3": "Linux"
+  },
+  "Student_167": {
+    "Project1": "Image Classifier",
+    "Skill1": "Matplotlib",
+    "Project2": "URL Shortener",
+    "Skill2": "AWS",
+    "Project3": "Gesture Recognition",
+    "Skill3": "Rust"
+  },
+  "Student_168": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "Socket.IO",
+    "Project2": "Crypto Arbitrage Bot",
+    "Skill2": "CI/CD",
+    "Project3": "Smart Attendance",
+    "Skill3": "Rust"
+  },
+  "Student_169": {
+    "Project1": "Network Packet Sniffer",
+    "Skill1": "Python",
+    "Project2": "E-Commerce Site",
+    "Skill2": "Elasticsearch",
+    "Project3": "Map Routing App",
+    "Skill3": "Flask"
+  },
+  "Student_170": {
+    "Project1": "Face Detection Tool",
+    "Skill1": "CI/CD",
+    "Project2": "Job Portal",
+    "Skill2": "Linux",
+    "Project3": "Anomaly Detector",
+    "Skill3": "AWS"
+  },
+  "Student_171": {
+    "Project1": "Face Detection Tool",
+    "Skill1": "Java",
+    "Project2": "Speech-to-Text",
+    "Skill2": "Go",
+    "Project3": "Code Editor Lite",
+    "Skill3": "Terraform"
+  },
+  "Student_172": {
+    "Project1": "DB Index Visualizer",
+    "Skill1": "NumPy",
+    "Project2": "Quiz App",
+    "Skill2": "Pandas",
+    "Project3": "Blockchain Wallet Demo",
+    "Skill3": "Matplotlib"
+  },
+  "Student_173": {
+    "Project1": "Map Routing App",
+    "Skill1": "Terraform",
+    "Project2": "E-Commerce Site",
+    "Skill2": "Swift",
+    "Project3": "Smart Attendance",
+    "Skill3": "Kubernetes"
+  },
+  "Student_174": {
+    "Project1": "E-Commerce Site",
+    "Skill1": "GCP",
+    "Project2": "Speech-to-Text",
+    "Skill2": "Git",
+    "Project3": "Note Taking App",
+    "Skill3": "Storybook"
+  },
+  "Student_175": {
+    "Project1": "E-Commerce Site",
+    "Skill1": "Terraform",
+    "Project2": "Regex Visualizer",
+    "Skill2": "Bash",
+    "Project3": "AR Ruler",
+    "Skill3": "Pandas"
+  },
+  "Student_176": {
+    "Project1": "Image Classifier",
+    "Skill1": "Pandas",
+    "Project2": "Event Ticketing",
+    "Skill2": "Kubernetes",
+    "Project3": "AR Ruler",
+    "Skill3": "Agile"
+  },
+  "Student_177": {
+    "Project1": "Network Packet Sniffer",
+    "Skill1": "scikit-learn",
+    "Project2": "Event Ticketing",
+    "Skill2": "Storybook",
+    "Project3": "Map Routing App",
+    "Skill3": "Kubernetes"
+  },
+  "Student_178": {
+    "Project1": "Scheduling System",
+    "Skill1": "Redis",
+    "Project2": "Regex Visualizer",
+    "Skill2": "Express",
+    "Project3": "Crypto Arbitrage Bot",
+    "Skill3": "TDD"
+  },
+  "Student_179": {
+    "Project1": "Memory Allocator Demo",
+    "Skill1": "Swift",
+    "Project2": "Quiz App",
+    "Skill2": "MongoDB",
+    "Project3": "Map Routing App",
+    "Skill3": "Matplotlib"
+  },
+  "Student_180": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "TensorFlow",
+    "Project2": "Job Portal",
+    "Skill2": "Kotlin",
+    "Project3": "VR Gallery",
+    "Skill3": "Express"
+  },
+  "Student_181": {
+    "Project1": "Compiler Tiny",
+    "Skill1": "CI/CD",
+    "Project2": "DB Index Visualizer",
+    "Skill2": "Pandas",
+    "Project3": "Course Planner",
+    "Skill3": "MongoDB"
+  },
+  "Student_182": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "Swift",
+    "Project2": "Crypto Arbitrage Bot",
+    "Skill2": "Python",
+    "Project3": "Smart Attendance",
+    "Skill3": "AWS"
+  },
+  "Student_183": {
+    "Project1": "VR Gallery",
+    "Skill1": "Rust",
+    "Project2": "Map Routing App",
+    "Skill2": "Docker",
+    "Project3": "Code Editor Lite",
+    "Skill3": "CI/CD"
+  },
+  "Student_184": {
+    "Project1": "Regex Visualizer",
+    "Skill1": "PyTorch",
+    "Project2": "Course Planner",
+    "Skill2": "Bash",
+    "Project3": "News Aggregator",
+    "Skill3": "Redis"
+  },
+  "Student_185": {
+    "Project1": "Gesture Recognition",
+    "Skill1": "Tailwind CSS",
+    "Project2": "Traffic Simulation",
+    "Skill2": "C++",
+    "Project3": "VR Gallery",
+    "Skill3": "Agile"
+  },
+  "Student_186": {
+    "Project1": "Social Graph Analyzer",
+    "Skill1": "Socket.IO",
+    "Project2": "Weather Dashboard",
+    "Skill2": "Terraform",
+    "Project3": "Blog CMS",
+    "Skill3": "Flask"
+  },
+  "Student_187": {
+    "Project1": "Recommendation Engine",
+    "Skill1": "Elasticsearch",
+    "Project2": "Anomaly Detector",
+    "Skill2": "Agile",
+    "Project3": "Todo API",
+    "Skill3": "OpenCV"
+  },
+  "Student_188": {
+    "Project1": "Job Portal",
+    "Skill1": "TDD",
+    "Project2": "Sentiment Analyzer",
+    "Skill2": "C++",
+    "Project3": "Face Detection Tool",
+    "Skill3": "NumPy"
+  },
+  "Student_189": {
+    "Project1": "DB Index Visualizer",
+    "Skill1": "RabbitMQ",
+    "Project2": "Edge Caching Simulator",
+    "Skill2": "GraphQL",
+    "Project3": "Weather Dashboard",
+    "Skill3": "scikit-learn"
+  },
+  "Student_190": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "TypeScript",
+    "Project2": "Job Portal",
+    "Skill2": "Kotlin",
+    "Project3": "Face Detection Tool",
+    "Skill3": "Storybook"
+  },
+  "Student_191": {
+    "Project1": "Music Streaming Prototype",
+    "Skill1": "Azure",
+    "Project2": "Scheduling System",
+    "Skill2": "Git",
+    "Project3": "Edge Caching Simulator",
+    "Skill3": "Storybook"
+  },
+  "Student_192": {
+    "Project1": "Fraud Detection",
+    "Skill1": "GCP",
+    "Project2": "Image Classifier",
+    "Skill2": "OpenCV",
+    "Project3": "Network Packet Sniffer",
+    "Skill3": "React"
+  },
+  "Student_193": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "AWS",
+    "Project2": "Scheduling System",
+    "Skill2": "Agile",
+    "Project3": "Event Ticketing",
+    "Skill3": "GraphQL"
+  },
+  "Student_194": {
+    "Project1": "Face Detection Tool",
+    "Skill1": "NumPy",
+    "Project2": "Sentiment Analyzer",
+    "Skill2": "AWS",
+    "Project3": "Social Graph Analyzer",
+    "Skill3": "Java"
+  },
+  "Student_195": {
+    "Project1": "Log Parser",
+    "Skill1": "Linux",
+    "Project2": "Stock Price Tracker",
+    "Skill2": "Node.js",
+    "Project3": "Spam Filter",
+    "Skill3": "PyTorch"
+  },
+  "Student_196": {
+    "Project1": "Gesture Recognition",
+    "Skill1": "Go",
+    "Project2": "DB Index Visualizer",
+    "Skill2": "Node.js",
+    "Project3": "Weather Dashboard",
+    "Skill3": "Django"
+  },
+  "Student_197": {
+    "Project1": "Image Classifier",
+    "Skill1": "TypeScript",
+    "Project2": "Forum Platform",
+    "Skill2": "Socket.IO",
+    "Project3": "Log Parser",
+    "Skill3": "C"
+  },
+  "Student_198": {
+    "Project1": "Music Streaming Prototype",
+    "Skill1": "PostgreSQL",
+    "Project2": "E-Commerce Site",
+    "Skill2": "Docker",
+    "Project3": "Memory Allocator Demo",
+    "Skill3": "Kotlin"
+  },
+  "Student_199": {
+    "Project1": "Fitness Tracker",
+    "Skill1": "GraphQL",
+    "Project2": "Multi-tenant SaaS",
+    "Skill2": "Rust",
+    "Project3": "DB Index Visualizer",
+    "Skill3": "Socket.IO"
+  },
+  "Student_200": {
+    "Project1": "Memory Allocator Demo",
+    "Skill1": "Java",
+    "Project2": "DB Index Visualizer",
+    "Skill2": "PyTorch",
+    "Project3": "Quiz App",
+    "Skill3": "Socket.IO"
+  },
+  "Student_201": {
+    "Project1": "Expense Splitter",
+    "Skill1": "Linux",
+    "Project2": "Speech-to-Text",
+    "Skill2": "Azure",
+    "Project3": "Job Portal",
+    "Skill3": "GraphQL"
+  },
+  "Student_202": {
+    "Project1": "AR Ruler",
+    "Skill1": "Rust",
+    "Project2": "Network Packet Sniffer",
+    "Skill2": "Matplotlib",
+    "Project3": "Compiler Tiny",
+    "Skill3": "Bash"
+  },
+  "Student_203": {
+    "Project1": "Todo API",
+    "Skill1": "TypeScript",
+    "Project2": "Social Graph Analyzer",
+    "Skill2": "Socket.IO",
+    "Project3": "Weather Dashboard",
+    "Skill3": "CI/CD"
+  },
+  "Student_204": {
+    "Project1": "Course Planner",
+    "Skill1": "Socket.IO",
+    "Project2": "Memory Allocator Demo",
+    "Skill2": "MongoDB",
+    "Project3": "E-Commerce Site",
+    "Skill3": "Pandas"
+  },
+  "Student_205": {
+    "Project1": "Image Classifier",
+    "Skill1": "GraphQL",
+    "Project2": "Stock Price Tracker",
+    "Skill2": "Flask",
+    "Project3": "Edge Caching Simulator",
+    "Skill3": "PyTorch"
+  },
+  "Student_206": {
+    "Project1": "VR Gallery",
+    "Skill1": "TensorFlow",
+    "Project2": "Chat App",
+    "Skill2": "GCP",
+    "Project3": "Todo API",
+    "Skill3": "Express"
+  },
+  "Student_207": {
+    "Project1": "Blockchain Wallet Demo",
+    "Skill1": "Terraform",
+    "Project2": "Blog CMS",
+    "Skill2": "TensorFlow",
+    "Project3": "Code Editor Lite",
+    "Skill3": "Docker"
+  },
+  "Student_208": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "Linux",
+    "Project2": "Event Ticketing",
+    "Skill2": "Node.js",
+    "Project3": "Stock Price Tracker",
+    "Skill3": "Git"
+  },
+  "Student_209": {
+    "Project1": "Compiler Tiny",
+    "Skill1": "CI/CD",
+    "Project2": "Music Streaming Prototype",
+    "Skill2": "React",
+    "Project3": "Job Portal",
+    "Skill3": "PyTorch"
+  },
+  "Student_210": {
+    "Project1": "Music Streaming Prototype",
+    "Skill1": "MongoDB",
+    "Project2": "Gesture Recognition",
+    "Skill2": "Linux",
+    "Project3": "VR Gallery",
+    "Skill3": "Kubernetes"
+  },
+  "Student_211": {
+    "Project1": "Edge Caching Simulator",
+    "Skill1": "Go",
+    "Project2": "Memory Allocator Demo",
+    "Skill2": "Django",
+    "Project3": "Multi-tenant SaaS",
+    "Skill3": "Agile"
+  },
+  "Student_212": {
+    "Project1": "Auto-Grader",
+    "Skill1": "Flask",
+    "Project2": "Memory Allocator Demo",
+    "Skill2": "Django",
+    "Project3": "Spam Filter",
+    "Skill3": "Kotlin"
+  },
+  "Student_213": {
+    "Project1": "E-Commerce Site",
+    "Skill1": "Go",
+    "Project2": "Chat App",
+    "Skill2": "CI/CD",
+    "Project3": "Compiler Tiny",
+    "Skill3": "PostgreSQL"
+  },
+  "Student_214": {
+    "Project1": "Gesture Recognition",
+    "Skill1": "Flask",
+    "Project2": "Event Ticketing",
+    "Skill2": "Storybook",
+    "Project3": "DB Index Visualizer",
+    "Skill3": "Socket.IO"
+  },
+  "Student_215": {
+    "Project1": "Multi-tenant SaaS",
+    "Skill1": "Linux",
+    "Project2": "Handwriting OCR",
+    "Skill2": "C",
+    "Project3": "Stock Price Tracker",
+    "Skill3": "Storybook"
+  },
+  "Student_216": {
+    "Project1": "Crypto Arbitrage Bot",
+    "Skill1": "Elasticsearch",
+    "Project2": "Chat App",
+    "Skill2": "CI/CD",
+    "Project3": "Speech-to-Text",
+    "Skill3": "NumPy"
+  },
+  "Student_217": {
+    "Project1": "File Sharing Service",
+    "Skill1": "React",
+    "Project2": "URL Shortener",
+    "Skill2": "Kubernetes",
+    "Project3": "Auto-Grader",
+    "Skill3": "Matplotlib"
+  },
+  "Student_218": {
+    "Project1": "Scheduling System",
+    "Skill1": "C++",
+    "Project2": "Weather Dashboard",
+    "Skill2": "TDD",
+    "Project3": "Face Detection Tool",
+    "Skill3": "OpenCV"
+  },
+  "Student_219": {
+    "Project1": "Log Parser",
+    "Skill1": "Socket.IO",
+    "Project2": "Crypto Arbitrage Bot",
+    "Skill2": "Linux",
+    "Project3": "Music Streaming Prototype",
+    "Skill3": "React"
+  },
+  "Student_220": {
+    "Project1": "Chat App",
+    "Skill1": "Kubernetes",
+    "Project2": "E-Commerce Site",
+    "Skill2": "OpenCV",
+    "Project3": "Multi-tenant SaaS",
+    "Skill3": "Go"
+  },
+  "Student_221": {
+    "Project1": "Log Parser",
+    "Skill1": "C",
+    "Project2": "Face Detection Tool",
+    "Skill2": "RabbitMQ",
+    "Project3": "URL Shortener",
+    "Skill3": "React"
+  },
+  "Student_222": {
+    "Project1": "Fraud Detection",
+    "Skill1": "TypeScript",
+    "Project2": "Todo API",
+    "Skill2": "Django",
+    "Project3": "Expense Splitter",
+    "Skill3": "Swift"
+  },
+  "Student_223": {
+    "Project1": "Blockchain Wallet Demo",
+    "Skill1": "TypeScript",
+    "Project2": "Memory Allocator Demo",
+    "Skill2": "Node.js",
+    "Project3": "URL Shortener",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_224": {
+    "Project1": "News Aggregator",
+    "Skill1": "Django",
+    "Project2": "E-Commerce Site",
+    "Skill2": "TensorFlow",
+    "Project3": "AR Ruler",
+    "Skill3": "Matplotlib"
+  },
+  "Student_225": {
+    "Project1": "Stock Price Tracker",
+    "Skill1": "MongoDB",
+    "Project2": "Spam Filter",
+    "Skill2": "Tailwind CSS",
+    "Project3": "Multi-tenant SaaS",
+    "Skill3": "Java"
+  },
+  "Student_226": {
+    "Project1": "Image Classifier",
+    "Skill1": "Matplotlib",
+    "Project2": "Traffic Simulation",
+    "Skill2": "NumPy",
+    "Project3": "Social Graph Analyzer",
+    "Skill3": "Kotlin"
+  },
+  "Student_227": {
+    "Project1": "Compiler Tiny",
+    "Skill1": "Rust",
+    "Project2": "Sentiment Analyzer",
+    "Skill2": "Elasticsearch",
+    "Project3": "URL Shortener",
+    "Skill3": "Swift"
+  },
+  "Student_228": {
+    "Project1": "Course Planner",
+    "Skill1": "PyTorch",
+    "Project2": "Expense Splitter",
+    "Skill2": "Bash",
+    "Project3": "Fraud Detection",
+    "Skill3": "Agile"
+  },
+  "Student_229": {
+    "Project1": "Course Planner",
+    "Skill1": "Django",
+    "Project2": "Forum Platform",
+    "Skill2": "C++",
+    "Project3": "Face Detection Tool",
+    "Skill3": "TensorFlow"
+  },
+  "Student_230": {
+    "Project1": "Regex Visualizer",
+    "Skill1": "TensorFlow",
+    "Project2": "Chat App",
+    "Skill2": "CI/CD",
+    "Project3": "Traffic Simulation",
+    "Skill3": "Terraform"
+  },
+  "Student_231": {
+    "Project1": "Map Routing App",
+    "Skill1": "Git",
+    "Project2": "Chat App",
+    "Skill2": "Pandas",
+    "Project3": "Regex Visualizer",
+    "Skill3": "Swift"
+  },
+  "Student_232": {
+    "Project1": "Event Ticketing",
+    "Skill1": "NumPy",
+    "Project2": "Stock Price Tracker",
+    "Skill2": "Rust",
+    "Project3": "Memory Allocator Demo",
+    "Skill3": "Terraform"
+  },
+  "Student_233": {
+    "Project1": "Code Editor Lite",
+    "Skill1": "PostgreSQL",
+    "Project2": "Compiler Tiny",
+    "Skill2": "GCP",
+    "Project3": "Music Streaming Prototype",
+    "Skill3": "Redis"
+  },
+  "Student_234": {
+    "Project1": "Smart Attendance",
+    "Skill1": "Linux",
+    "Project2": "VR Gallery",
+    "Skill2": "Bash",
+    "Project3": "Code Editor Lite",
+    "Skill3": "Matplotlib"
+  },
+  "Student_235": {
+    "Project1": "Portfolio Website",
+    "Skill1": "Rust",
+    "Project2": "Scheduling System",
+    "Skill2": "Docker",
+    "Project3": "Todo API",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_236": {
+    "Project1": "VR Gallery",
+    "Skill1": "OpenCV",
+    "Project2": "Speech-to-Text",
+    "Skill2": "Linux",
+    "Project3": "Stock Price Tracker",
+    "Skill3": "C"
+  },
+  "Student_237": {
+    "Project1": "Weather Dashboard",
+    "Skill1": "Swift",
+    "Project2": "Search Engine Mini",
+    "Skill2": "MongoDB",
+    "Project3": "E-Commerce Site",
+    "Skill3": "Kubernetes"
+  },
+  "Student_238": {
+    "Project1": "Music Streaming Prototype",
+    "Skill1": "Bash",
+    "Project2": "Event Ticketing",
+    "Skill2": "TensorFlow",
+    "Project3": "Edge Caching Simulator",
+    "Skill3": "Go"
+  },
+  "Student_239": {
+    "Project1": "Smart Attendance",
+    "Skill1": "Kotlin",
+    "Project2": "Portfolio Website",
+    "Skill2": "Django",
+    "Project3": "Traffic Simulation",
+    "Skill3": "Flask"
+  },
+  "Student_240": {
+    "Project1": "Code Editor Lite",
+    "Skill1": "GCP",
+    "Project2": "Event Ticketing",
+    "Skill2": "GraphQL",
+    "Project3": "Note Taking App",
+    "Skill3": "CI/CD"
+  },
+  "Student_241": {
+    "Project1": "Forum Platform",
+    "Skill1": "Python",
+    "Project2": "Speech-to-Text",
+    "Skill2": "GraphQL",
+    "Project3": "Social Graph Analyzer",
+    "Skill3": "Socket.IO"
+  },
+  "Student_242": {
+    "Project1": "Memory Allocator Demo",
+    "Skill1": "Docker",
+    "Project2": "Log Parser",
+    "Skill2": "Agile",
+    "Project3": "AR Ruler",
+    "Skill3": "Django"
+  },
+  "Student_243": {
+    "Project1": "Network Packet Sniffer",
+    "Skill1": "TensorFlow",
+    "Project2": "Event Ticketing",
+    "Skill2": "GraphQL",
+    "Project3": "Code Editor Lite",
+    "Skill3": "Git"
+  },
+  "Student_244": {
+    "Project1": "Stock Price Tracker",
+    "Skill1": "Elasticsearch",
+    "Project2": "Handwriting OCR",
+    "Skill2": "AWS",
+    "Project3": "Quiz App",
+    "Skill3": "TensorFlow"
+  },
+  "Student_245": {
+    "Project1": "URL Shortener",
+    "Skill1": "NumPy",
+    "Project2": "Fraud Detection",
+    "Skill2": "Swift",
+    "Project3": "Course Planner",
+    "Skill3": "MongoDB"
+  },
+  "Student_246": {
+    "Project1": "Spam Filter",
+    "Skill1": "PostgreSQL",
+    "Project2": "Anomaly Detector",
+    "Skill2": "Agile",
+    "Project3": "Image Classifier",
+    "Skill3": "Python"
+  },
+  "Student_247": {
+    "Project1": "Fraud Detection",
+    "Skill1": "Kotlin",
+    "Project2": "Network Packet Sniffer",
+    "Skill2": "Terraform",
+    "Project3": "Blog CMS",
+    "Skill3": "C++"
+  },
+  "Student_248": {
+    "Project1": "VR Gallery",
+    "Skill1": "Kafka",
+    "Project2": "Regex Visualizer",
+    "Skill2": "GCP",
+    "Project3": "Code Editor Lite",
+    "Skill3": "Azure"
+  },
+  "Student_249": {
+    "Project1": "E-Commerce Site",
+    "Skill1": "C",
+    "Project2": "Portfolio Website",
+    "Skill2": "Bash",
+    "Project3": "Sentiment Analyzer",
+    "Skill3": "Pandas"
+  },
+  "Student_250": {
+    "Project1": "Traffic Simulation",
+    "Skill1": "GraphQL",
+    "Project2": "Speech-to-Text",
+    "Skill2": "TypeScript",
+    "Project3": "Todo API",
+    "Skill3": "Django"
+  },
+  "Student_251": {
+    "Project1": "Crypto Arbitrage Bot",
+    "Skill1": "Git",
+    "Project2": "Weather Dashboard",
+    "Skill2": "Docker",
+    "Project3": "File Sharing Service",
+    "Skill3": "Matplotlib"
+  },
+  "Student_252": {
+    "Project1": "News Aggregator",
+    "Skill1": "Pandas",
+    "Project2": "Auto-Grader",
+    "Skill2": "Redis",
+    "Project3": "Spam Filter",
+    "Skill3": "NumPy"
+  },
+  "Student_253": {
+    "Project1": "Map Routing App",
+    "Skill1": "TypeScript",
+    "Project2": "Auto-Grader",
+    "Skill2": "Terraform",
+    "Project3": "Fraud Detection",
+    "Skill3": "C++"
+  },
+  "Student_254": {
+    "Project1": "Log Parser",
+    "Skill1": "Docker",
+    "Project2": "Multi-tenant SaaS",
+    "Skill2": "Elasticsearch",
+    "Project3": "Face Detection Tool",
+    "Skill3": "Bash"
+  },
+  "Student_255": {
+    "Project1": "File Sharing Service",
+    "Skill1": "Node.js",
+    "Project2": "Fitness Tracker",
+    "Skill2": "Python",
+    "Project3": "Smart Attendance",
+    "Skill3": "GCP"
+  },
+  "Student_256": {
+    "Project1": "News Aggregator",
+    "Skill1": "Express",
+    "Project2": "Face Detection Tool",
+    "Skill2": "Node.js",
+    "Project3": "E-Commerce Site",
+    "Skill3": "Kotlin"
+  },
+  "Student_257": {
+    "Project1": "Anomaly Detector",
+    "Skill1": "Tailwind CSS",
+    "Project2": "Sentiment Analyzer",
+    "Skill2": "Git",
+    "Project3": "URL Shortener",
+    "Skill3": "NumPy"
+  },
+  "Student_258": {
+    "Project1": "Anomaly Detector",
+    "Skill1": "RabbitMQ",
+    "Project2": "Course Planner",
+    "Skill2": "Swift",
+    "Project3": "Weather Dashboard",
+    "Skill3": "C++"
+  },
+  "Student_259": {
+    "Project1": "Scheduling System",
+    "Skill1": "NumPy",
+    "Project2": "DB Index Visualizer",
+    "Skill2": "Tailwind CSS",
+    "Project3": "Auto-Grader",
+    "Skill3": "Kubernetes"
+  },
+  "Student_260": {
+    "Project1": "Crypto Arbitrage Bot",
+    "Skill1": "Docker",
+    "Project2": "Blockchain Wallet Demo",
+    "Skill2": "Matplotlib",
+    "Project3": "Auto-Grader",
+    "Skill3": "CI/CD"
+  },
+  "Student_261": {
+    "Project1": "Handwriting OCR",
+    "Skill1": "Docker",
+    "Project2": "Note Taking App",
+    "Skill2": "TypeScript",
+    "Project3": "URL Shortener",
+    "Skill3": "React"
+  },
+  "Student_262": {
+    "Project1": "E-Commerce Site",
+    "Skill1": "Redis",
+    "Project2": "Smart Attendance",
+    "Skill2": "Linux",
+    "Project3": "Multi-tenant SaaS",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_263": {
+    "Project1": "File Sharing Service",
+    "Skill1": "Socket.IO",
+    "Project2": "Spam Filter",
+    "Skill2": "Bash",
+    "Project3": "URL Shortener",
+    "Skill3": "Kubernetes"
+  },
+  "Student_264": {
+    "Project1": "Speech-to-Text",
+    "Skill1": "OpenCV",
+    "Project2": "Forum Platform",
+    "Skill2": "MongoDB",
+    "Project3": "Crypto Arbitrage Bot",
+    "Skill3": "Kotlin"
+  },
+  "Student_265": {
+    "Project1": "Handwriting OCR",
+    "Skill1": "MongoDB",
+    "Project2": "VR Gallery",
+    "Skill2": "Terraform",
+    "Project3": "Note Taking App",
+    "Skill3": "Storybook"
+  },
+  "Student_266": {
+    "Project1": "Code Editor Lite",
+    "Skill1": "TensorFlow",
+    "Project2": "Weather Dashboard",
+    "Skill2": "Linux",
+    "Project3": "Note Taking App",
+    "Skill3": "Storybook"
+  },
+  "Student_267": {
+    "Project1": "Multi-tenant SaaS",
+    "Skill1": "Django",
+    "Project2": "Forum Platform",
+    "Skill2": "scikit-learn",
+    "Project3": "Crypto Arbitrage Bot",
+    "Skill3": "CI/CD"
+  },
+  "Student_268": {
+    "Project1": "Compiler Tiny",
+    "Skill1": "Elasticsearch",
+    "Project2": "Crypto Arbitrage Bot",
+    "Skill2": "Kotlin",
+    "Project3": "Image Classifier",
+    "Skill3": "GCP"
+  },
+  "Student_269": {
+    "Project1": "Log Parser",
+    "Skill1": "Socket.IO",
+    "Project2": "Anomaly Detector",
+    "Skill2": "Matplotlib",
+    "Project3": "Recommendation Engine",
+    "Skill3": "FastAPI"
+  },
+  "Student_270": {
+    "Project1": "Sentiment Analyzer",
+    "Skill1": "Linux",
+    "Project2": "URL Shortener",
+    "Skill2": "C",
+    "Project3": "Social Graph Analyzer",
+    "Skill3": "RabbitMQ"
+  },
+  "Student_271": {
+    "Project1": "Blockchain Wallet Demo",
+    "Skill1": "Elasticsearch",
+    "Project2": "DB Index Visualizer",
+    "Skill2": "Go",
+    "Project3": "Job Portal",
+    "Skill3": "GCP"
+  },
+  "Student_272": {
+    "Project1": "Handwriting OCR",
+    "Skill1": "Azure",
+    "Project2": "DB Index Visualizer",
+    "Skill2": "Java",
+    "Project3": "Memory Allocator Demo",
+    "Skill3": "MongoDB"
+  },
+  "Student_273": {
+    "Project1": "File Sharing Service",
+    "Skill1": "RabbitMQ",
+    "Project2": "Music Streaming Prototype",
+    "Skill2": "C++",
+    "Project3": "Auto-Grader",
+    "Skill3": "Rust"
+  },
+  "Student_274": {
+    "Project1": "Regex Visualizer",
+    "Skill1": "CI/CD",
+    "Project2": "Stock Price Tracker",
+    "Skill2": "Pandas",
+    "Project3": "Music Streaming Prototype",
+    "Skill3": "Django"
+  },
+  "Student_275": {
+    "Project1": "Music Streaming Prototype",
+    "Skill1": "FastAPI",
+    "Project2": "Compiler Tiny",
+    "Skill2": "Bash",
+    "Project3": "Traffic Simulation",
+    "Skill3": "Matplotlib"
+  },
+  "Student_276": {
+    "Project1": "News Aggregator",
+    "Skill1": "Python",
+    "Project2": "Memory Allocator Demo",
+    "Skill2": "NumPy",
+    "Project3": "Anomaly Detector",
+    "Skill3": "Redis"
+  },
+  "Student_277": {
+    "Project1": "Portfolio Website",
+    "Skill1": "C",
+    "Project2": "Anomaly Detector",
+    "Skill2": "Flask",
+    "Project3": "Auto-Grader",
+    "Skill3": "Java"
+  },
+  "Student_278": {
+    "Project1": "Blockchain Wallet Demo",
+    "Skill1": "Linux",
+    "Project2": "Map Routing App",
+    "Skill2": "Terraform",
+    "Project3": "Portfolio Website",
+    "Skill3": "MongoDB"
+  },
+  "Student_279": {
+    "Project1": "Handwriting OCR",
+    "Skill1": "Express",
+    "Project2": "Fraud Detection",
+    "Skill2": "OpenCV",
+    "Project3": "Smart Attendance",
+    "Skill3": "scikit-learn"
+  },
+  "Student_280": {
+    "Project1": "Smart Attendance",
+    "Skill1": "Agile",
+    "Project2": "URL Shortener",
+    "Skill2": "scikit-learn",
+    "Project3": "Event Ticketing",
+    "Skill3": "Matplotlib"
+  },
+  "Student_281": {
+    "Project1": "Auto-Grader",
+    "Skill1": "OpenCV",
+    "Project2": "Crypto Arbitrage Bot",
+    "Skill2": "React",
+    "Project3": "Traffic Simulation",
+    "Skill3": "AWS"
+  },
+  "Student_282": {
+    "Project1": "DB Index Visualizer",
+    "Skill1": "NumPy",
+    "Project2": "Code Editor Lite",
+    "Skill2": "C",
+    "Project3": "Weather Dashboard",
+    "Skill3": "GraphQL"
+  },
+  "Student_283": {
+    "Project1": "Weather Dashboard",
+    "Skill1": "Agile",
+    "Project2": "Social Graph Analyzer",
+    "Skill2": "Express",
+    "Project3": "Spam Filter",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_284": {
+    "Project1": "Auto-Grader",
+    "Skill1": "CI/CD",
+    "Project2": "Smart Attendance",
+    "Skill2": "Terraform",
+    "Project3": "Compiler Tiny",
+    "Skill3": "RabbitMQ"
+  },
+  "Student_285": {
+    "Project1": "Gesture Recognition",
+    "Skill1": "Rust",
+    "Project2": "Social Graph Analyzer",
+    "Skill2": "Kafka",
+    "Project3": "Edge Caching Simulator",
+    "Skill3": "AWS"
+  },
+  "Student_286": {
+    "Project1": "Code Editor Lite",
+    "Skill1": "Pandas",
+    "Project2": "Scheduling System",
+    "Skill2": "Tailwind CSS",
+    "Project3": "Search Engine Mini",
+    "Skill3": "AWS"
+  },
+  "Student_287": {
+    "Project1": "Scheduling System",
+    "Skill1": "Python",
+    "Project2": "Portfolio Website",
+    "Skill2": "Bash",
+    "Project3": "VR Gallery",
+    "Skill3": "Matplotlib"
+  },
+  "Student_288": {
+    "Project1": "Course Planner",
+    "Skill1": "CI/CD",
+    "Project2": "Regex Visualizer",
+    "Skill2": "Kubernetes",
+    "Project3": "Chat App",
+    "Skill3": "Go"
+  },
+  "Student_289": {
+    "Project1": "Job Portal",
+    "Skill1": "Kafka",
+    "Project2": "Weather Dashboard",
+    "Skill2": "Python",
+    "Project3": "E-Commerce Site",
+    "Skill3": "Terraform"
+  },
+  "Student_290": {
+    "Project1": "Social Graph Analyzer",
+    "Skill1": "Rust",
+    "Project2": "Event Ticketing",
+    "Skill2": "Terraform",
+    "Project3": "Blog CMS",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_291": {
+    "Project1": "Gesture Recognition",
+    "Skill1": "OpenCV",
+    "Project2": "Weather Dashboard",
+    "Skill2": "Matplotlib",
+    "Project3": "Search Engine Mini",
+    "Skill3": "PostgreSQL"
+  },
+  "Student_292": {
+    "Project1": "Course Planner",
+    "Skill1": "Express",
+    "Project2": "E-Commerce Site",
+    "Skill2": "TDD",
+    "Project3": "Fraud Detection",
+    "Skill3": "CI/CD"
+  },
+  "Student_293": {
+    "Project1": "Music Streaming Prototype",
+    "Skill1": "Python",
+    "Project2": "IoT Sensor Monitor",
+    "Skill2": "Kotlin",
+    "Project3": "URL Shortener",
+    "Skill3": "Express"
+  },
+  "Student_294": {
+    "Project1": "Chat App",
+    "Skill1": "TensorFlow",
+    "Project2": "Edge Caching Simulator",
+    "Skill2": "RabbitMQ",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "Storybook"
+  },
+  "Student_295": {
+    "Project1": "File Sharing Service",
+    "Skill1": "Swift",
+    "Project2": "Traffic Simulation",
+    "Skill2": "Azure",
+    "Project3": "Blockchain Wallet Demo",
+    "Skill3": "Socket.IO"
+  },
+  "Student_296": {
+    "Project1": "Blockchain Wallet Demo",
+    "Skill1": "Bash",
+    "Project2": "Edge Caching Simulator",
+    "Skill2": "TypeScript",
+    "Project3": "Social Graph Analyzer",
+    "Skill3": "GraphQL"
+  },
+  "Student_297": {
+    "Project1": "Sentiment Analyzer",
+    "Skill1": "RabbitMQ",
+    "Project2": "VR Gallery",
+    "Skill2": "TensorFlow",
+    "Project3": "Spam Filter",
+    "Skill3": "Terraform"
+  },
+  "Student_298": {
+    "Project1": "Blog CMS",
+    "Skill1": "CI/CD",
+    "Project2": "Portfolio Website",
+    "Skill2": "Docker",
+    "Project3": "Todo API",
+    "Skill3": "GraphQL"
+  },
+  "Student_299": {
+    "Project1": "Social Graph Analyzer",
+    "Skill1": "Python",
+    "Project2": "Map Routing App",
+    "Skill2": "Matplotlib",
+    "Project3": "Scheduling System",
+    "Skill3": "Docker"
+  },
+  "Student_300": {
+    "Project1": "VR Gallery",
+    "Skill1": "RabbitMQ",
+    "Project2": "Fitness Tracker",
+    "Skill2": "Rust",
+    "Project3": "Speech-to-Text",
+    "Skill3": "Azure"
+  },
+  "Student_301": {
+    "Project1": "Scheduling System",
+    "Skill1": "Git",
+    "Project2": "Search Engine Mini",
+    "Skill2": "Matplotlib",
+    "Project3": "Image Classifier",
+    "Skill3": "React"
+  },
+  "Student_302": {
+    "Project1": "Music Streaming Prototype",
+    "Skill1": "C++",
+    "Project2": "Weather Dashboard",
+    "Skill2": "scikit-learn",
+    "Project3": "News Aggregator",
+    "Skill3": "PyTorch"
+  },
+  "Student_303": {
+    "Project1": "Forum Platform",
+    "Skill1": "NumPy",
+    "Project2": "Recommendation Engine",
+    "Skill2": "Express",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "TensorFlow"
+  },
+  "Student_304": {
+    "Project1": "Course Planner",
+    "Skill1": "MongoDB",
+    "Project2": "Handwriting OCR",
+    "Skill2": "React",
+    "Project3": "DB Index Visualizer",
+    "Skill3": "NumPy"
+  },
+  "Student_305": {
+    "Project1": "DB Index Visualizer",
+    "Skill1": "Swift",
+    "Project2": "Blockchain Wallet Demo",
+    "Skill2": "Java",
+    "Project3": "Portfolio Website",
+    "Skill3": "Linux"
+  },
+  "Student_306": {
+    "Project1": "Auto-Grader",
+    "Skill1": "CI/CD",
+    "Project2": "Multi-tenant SaaS",
+    "Skill2": "TDD",
+    "Project3": "Social Graph Analyzer",
+    "Skill3": "Express"
+  },
+  "Student_307": {
+    "Project1": "IoT Sensor Monitor",
+    "Skill1": "Django",
+    "Project2": "Stock Price Tracker",
+    "Skill2": "Swift",
+    "Project3": "Compiler Tiny",
+    "Skill3": "TypeScript"
+  },
+  "Student_308": {
+    "Project1": "Quiz App",
+    "Skill1": "Swift",
+    "Project2": "Map Routing App",
+    "Skill2": "AWS",
+    "Project3": "Blockchain Wallet Demo",
+    "Skill3": "FastAPI"
+  },
+  "Student_309": {
+    "Project1": "Regex Visualizer",
+    "Skill1": "C",
+    "Project2": "Edge Caching Simulator",
+    "Skill2": "Java",
+    "Project3": "E-Commerce Site",
+    "Skill3": "Matplotlib"
+  },
+  "Student_310": {
+    "Project1": "Anomaly Detector",
+    "Skill1": "Agile",
+    "Project2": "File Sharing Service",
+    "Skill2": "Flask",
+    "Project3": "Expense Splitter",
+    "Skill3": "TDD"
+  },
+  "Student_311": {
+    "Project1": "Multi-tenant SaaS",
+    "Skill1": "TDD",
+    "Project2": "Regex Visualizer",
+    "Skill2": "GCP",
+    "Project3": "Memory Allocator Demo",
+    "Skill3": "Pandas"
+  },
+  "Student_312": {
+    "Project1": "Chat App",
+    "Skill1": "Redis",
+    "Project2": "Map Routing App",
+    "Skill2": "PyTorch",
+    "Project3": "Smart Attendance",
+    "Skill3": "NumPy"
+  },
+  "Student_313": {
+    "Project1": "News Aggregator",
+    "Skill1": "MongoDB",
+    "Project2": "Traffic Simulation",
+    "Skill2": "PyTorch",
+    "Project3": "Handwriting OCR",
+    "Skill3": "Swift"
+  },
+  "Student_314": {
+    "Project1": "AR Ruler",
+    "Skill1": "GraphQL",
+    "Project2": "Blockchain Wallet Demo",
+    "Skill2": "MongoDB",
+    "Project3": "Fitness Tracker",
+    "Skill3": "Flask"
+  },
+  "Student_315": {
+    "Project1": "Image Classifier",
+    "Skill1": "TypeScript",
+    "Project2": "Network Packet Sniffer",
+    "Skill2": "Node.js",
+    "Project3": "Memory Allocator Demo",
+    "Skill3": "Rust"
+  },
+  "Student_316": {
+    "Project1": "Memory Allocator Demo",
+    "Skill1": "Redis",
+    "Project2": "Weather Dashboard",
+    "Skill2": "GCP",
+    "Project3": "Chat App",
+    "Skill3": "Express"
+  },
+  "Student_317": {
+    "Project1": "Todo API",
+    "Skill1": "Agile",
+    "Project2": "Network Packet Sniffer",
+    "Skill2": "C",
+    "Project3": "Search Engine Mini",
+    "Skill3": "Elasticsearch"
+  },
+  "Student_318": {
+    "Project1": "Recommendation Engine",
+    "Skill1": "Linux",
+    "Project2": "IoT Sensor Monitor",
+    "Skill2": "React",
+    "Project3": "Gesture Recognition",
+    "Skill3": "C"
+  },
+  "Student_319": {
+    "Project1": "Multi-tenant SaaS",
+    "Skill1": "PyTorch",
+    "Project2": "Blockchain Wallet Demo",
+    "Skill2": "Linux",
+    "Project3": "Blog CMS",
+    "Skill3": "Go"
+  },
+  "Student_320": {
+    "Project1": "Memory Allocator Demo",
+    "Skill1": "RabbitMQ",
+    "Project2": "AR Ruler",
+    "Skill2": "Socket.IO",
+    "Project3": "Scheduling System",
+    "Skill3": "Docker"
+  },
+  "Student_321": {
+    "Project1": "Code Editor Lite",
+    "Skill1": "TDD",
+    "Project2": "IoT Sensor Monitor",
+    "Skill2": "Matplotlib",
+    "Project3": "Course Planner",
+    "Skill3": "Express"
+  },
+  "Student_322": {
+    "Project1": "Anomaly Detector",
+    "Skill1": "Kafka",
+    "Project2": "Gesture Recognition",
+    "Skill2": "Kotlin",
+    "Project3": "Event Ticketing",
+    "Skill3": "Socket.IO"
+  },
+  "Student_323": {
+    "Project1": "News Aggregator",
+    "Skill1": "FastAPI",
+    "Project2": "Stock Price Tracker",
+    "Skill2": "PyTorch",
+    "Project3": "Speech-to-Text",
+    "Skill3": "NumPy"
+  },
+  "Student_324": {
+    "Project1": "Expense Splitter",
+    "Skill1": "scikit-learn",
+    "Project2": "Job Portal",
+    "Skill2": "Swift",
+    "Project3": "Log Parser",
+    "Skill3": "Kotlin"
+  },
+  "Student_325": {
+    "Project1": "Code Editor Lite",
+    "Skill1": "GCP",
+    "Project2": "Course Planner",
+    "Skill2": "Java",
+    "Project3": "Image Classifier",
+    "Skill3": "GraphQL"
+  },
+  "Student_326": {
+    "Project1": "Smart Attendance",
+    "Skill1": "Git",
+    "Project2": "Quiz App",
+    "Skill2": "MongoDB",
+    "Project3": "File Sharing Service",
+    "Skill3": "Elasticsearch"
+  },
+  "Student_327": {
+    "Project1": "Network Packet Sniffer",
+    "Skill1": "GraphQL",
+    "Project2": "Music Streaming Prototype",
+    "Skill2": "TensorFlow",
+    "Project3": "Edge Caching Simulator",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_328": {
+    "Project1": "Quiz App",
+    "Skill1": "GCP",
+    "Project2": "Multi-tenant SaaS",
+    "Skill2": "OpenCV",
+    "Project3": "Memory Allocator Demo",
+    "Skill3": "Swift"
+  },
+  "Student_329": {
+    "Project1": "E-Commerce Site",
+    "Skill1": "Swift",
+    "Project2": "Image Classifier",
+    "Skill2": "OpenCV",
+    "Project3": "Blockchain Wallet Demo",
+    "Skill3": "Elasticsearch"
+  },
+  "Student_330": {
+    "Project1": "Fraud Detection",
+    "Skill1": "Flask",
+    "Project2": "Multi-tenant SaaS",
+    "Skill2": "C++",
+    "Project3": "Blog CMS",
+    "Skill3": "Socket.IO"
+  },
+  "Student_331": {
+    "Project1": "Map Routing App",
+    "Skill1": "TypeScript",
+    "Project2": "File Sharing Service",
+    "Skill2": "MongoDB",
+    "Project3": "E-Commerce Site",
+    "Skill3": "Linux"
+  },
+  "Student_332": {
+    "Project1": "File Sharing Service",
+    "Skill1": "TensorFlow",
+    "Project2": "Todo API",
+    "Skill2": "C",
+    "Project3": "Fraud Detection",
+    "Skill3": "GraphQL"
+  },
+  "Student_333": {
+    "Project1": "Anomaly Detector",
+    "Skill1": "GraphQL",
+    "Project2": "Log Parser",
+    "Skill2": "FastAPI",
+    "Project3": "URL Shortener",
+    "Skill3": "RabbitMQ"
+  },
+  "Student_334": {
+    "Project1": "Handwriting OCR",
+    "Skill1": "RabbitMQ",
+    "Project2": "Forum Platform",
+    "Skill2": "C",
+    "Project3": "Search Engine Mini",
+    "Skill3": "AWS"
+  },
+  "Student_335": {
+    "Project1": "Crypto Arbitrage Bot",
+    "Skill1": "Tailwind CSS",
+    "Project2": "E-Commerce Site",
+    "Skill2": "Socket.IO",
+    "Project3": "Image Classifier",
+    "Skill3": "Bash"
+  },
+  "Student_336": {
+    "Project1": "Memory Allocator Demo",
+    "Skill1": "Azure",
+    "Project2": "Music Streaming Prototype",
+    "Skill2": "RabbitMQ",
+    "Project3": "Anomaly Detector",
+    "Skill3": "Java"
+  },
+  "Student_337": {
+    "Project1": "Chat App",
+    "Skill1": "Matplotlib",
+    "Project2": "Scheduling System",
+    "Skill2": "Express",
+    "Project3": "Gesture Recognition",
+    "Skill3": "PostgreSQL"
+  },
+  "Student_338": {
+    "Project1": "Quiz App",
+    "Skill1": "Go",
+    "Project2": "Gesture Recognition",
+    "Skill2": "Azure",
+    "Project3": "Auto-Grader",
+    "Skill3": "Elasticsearch"
+  },
+  "Student_339": {
+    "Project1": "Memory Allocator Demo",
+    "Skill1": "GraphQL",
+    "Project2": "Multi-tenant SaaS",
+    "Skill2": "React",
+    "Project3": "Network Packet Sniffer",
+    "Skill3": "Agile"
+  },
+  "Student_340": {
+    "Project1": "Stock Price Tracker",
+    "Skill1": "Storybook",
+    "Project2": "Compiler Tiny",
+    "Skill2": "Python",
+    "Project3": "Log Parser",
+    "Skill3": "Express"
+  },
+  "Student_341": {
+    "Project1": "Compiler Tiny",
+    "Skill1": "OpenCV",
+    "Project2": "Quiz App",
+    "Skill2": "CI/CD",
+    "Project3": "DB Index Visualizer",
+    "Skill3": "Kafka"
+  },
+  "Student_342": {
+    "Project1": "Anomaly Detector",
+    "Skill1": "GCP",
+    "Project2": "Todo API",
+    "Skill2": "Kafka",
+    "Project3": "Portfolio Website",
+    "Skill3": "Bash"
+  },
+  "Student_343": {
+    "Project1": "Blog CMS",
+    "Skill1": "Docker",
+    "Project2": "Todo API",
+    "Skill2": "TensorFlow",
+    "Project3": "Multi-tenant SaaS",
+    "Skill3": "Go"
+  },
+  "Student_344": {
+    "Project1": "Traffic Simulation",
+    "Skill1": "React",
+    "Project2": "Auto-Grader",
+    "Skill2": "Redis",
+    "Project3": "Regex Visualizer",
+    "Skill3": "Git"
+  },
+  "Student_345": {
+    "Project1": "Gesture Recognition",
+    "Skill1": "Java",
+    "Project2": "Traffic Simulation",
+    "Skill2": "TypeScript",
+    "Project3": "Blog CMS",
+    "Skill3": "Bash"
+  },
+  "Student_346": {
+    "Project1": "Scheduling System",
+    "Skill1": "Django",
+    "Project2": "Memory Allocator Demo",
+    "Skill2": "Socket.IO",
+    "Project3": "Gesture Recognition",
+    "Skill3": "C++"
+  },
+  "Student_347": {
+    "Project1": "Blog CMS",
+    "Skill1": "FastAPI",
+    "Project2": "Weather Dashboard",
+    "Skill2": "PostgreSQL",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "Agile"
+  },
+  "Student_348": {
+    "Project1": "Memory Allocator Demo",
+    "Skill1": "Kubernetes",
+    "Project2": "VR Gallery",
+    "Skill2": "Docker",
+    "Project3": "Quiz App",
+    "Skill3": "Storybook"
+  },
+  "Student_349": {
+    "Project1": "Map Routing App",
+    "Skill1": "Terraform",
+    "Project2": "Forum Platform",
+    "Skill2": "Storybook",
+    "Project3": "Auto-Grader",
+    "Skill3": "Agile"
+  },
+  "Student_350": {
+    "Project1": "Fraud Detection",
+    "Skill1": "TypeScript",
+    "Project2": "Weather Dashboard",
+    "Skill2": "Git",
+    "Project3": "Stock Price Tracker",
+    "Skill3": "C++"
+  },
+  "Student_351": {
+    "Project1": "Recommendation Engine",
+    "Skill1": "React",
+    "Project2": "Crypto Arbitrage Bot",
+    "Skill2": "AWS",
+    "Project3": "E-Commerce Site",
+    "Skill3": "Bash"
+  },
+  "Student_352": {
+    "Project1": "Map Routing App",
+    "Skill1": "Swift",
+    "Project2": "Blockchain Wallet Demo",
+    "Skill2": "NumPy",
+    "Project3": "Smart Attendance",
+    "Skill3": "C"
+  },
+  "Student_353": {
+    "Project1": "Regex Visualizer",
+    "Skill1": "React",
+    "Project2": "Anomaly Detector",
+    "Skill2": "RabbitMQ",
+    "Project3": "Fraud Detection",
+    "Skill3": "TDD"
+  },
+  "Student_354": {
+    "Project1": "Anomaly Detector",
+    "Skill1": "Kafka",
+    "Project2": "DB Index Visualizer",
+    "Skill2": "Tailwind CSS",
+    "Project3": "VR Gallery",
+    "Skill3": "Azure"
+  },
+  "Student_355": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "Redis",
+    "Project2": "Social Graph Analyzer",
+    "Skill2": "Express",
+    "Project3": "Blog CMS",
+    "Skill3": "Elasticsearch"
+  },
+  "Student_356": {
+    "Project1": "Anomaly Detector",
+    "Skill1": "Docker",
+    "Project2": "Todo API",
+    "Skill2": "RabbitMQ",
+    "Project3": "Smart Attendance",
+    "Skill3": "GraphQL"
+  },
+  "Student_357": {
+    "Project1": "Todo API",
+    "Skill1": "OpenCV",
+    "Project2": "Edge Caching Simulator",
+    "Skill2": "Swift",
+    "Project3": "Stock Price Tracker",
+    "Skill3": "Azure"
+  },
+  "Student_358": {
+    "Project1": "E-Commerce Site",
+    "Skill1": "Git",
+    "Project2": "Blockchain Wallet Demo",
+    "Skill2": "Java",
+    "Project3": "Crypto Arbitrage Bot",
+    "Skill3": "PostgreSQL"
+  },
+  "Student_359": {
+    "Project1": "Event Ticketing",
+    "Skill1": "TDD",
+    "Project2": "AR Ruler",
+    "Skill2": "Node.js",
+    "Project3": "Weather Dashboard",
+    "Skill3": "Git"
+  },
+  "Student_360": {
+    "Project1": "Event Ticketing",
+    "Skill1": "Flask",
+    "Project2": "Anomaly Detector",
+    "Skill2": "Kafka",
+    "Project3": "Multi-tenant SaaS",
+    "Skill3": "Socket.IO"
+  },
+  "Student_361": {
+    "Project1": "VR Gallery",
+    "Skill1": "scikit-learn",
+    "Project2": "Blockchain Wallet Demo",
+    "Skill2": "GCP",
+    "Project3": "Image Classifier",
+    "Skill3": "CI/CD"
+  },
+  "Student_362": {
+    "Project1": "Portfolio Website",
+    "Skill1": "Azure",
+    "Project2": "Quiz App",
+    "Skill2": "AWS",
+    "Project3": "Stock Price Tracker",
+    "Skill3": "Python"
+  },
+  "Student_363": {
+    "Project1": "Log Parser",
+    "Skill1": "C",
+    "Project2": "Spam Filter",
+    "Skill2": "Redis",
+    "Project3": "Music Streaming Prototype",
+    "Skill3": "Rust"
+  },
+  "Student_364": {
+    "Project1": "Speech-to-Text",
+    "Skill1": "Redis",
+    "Project2": "Music Streaming Prototype",
+    "Skill2": "Git",
+    "Project3": "AR Ruler",
+    "Skill3": "Socket.IO"
+  },
+  "Student_365": {
+    "Project1": "Map Routing App",
+    "Skill1": "Tailwind CSS",
+    "Project2": "Social Graph Analyzer",
+    "Skill2": "Express",
+    "Project3": "Anomaly Detector",
+    "Skill3": "TypeScript"
+  },
+  "Student_366": {
+    "Project1": "Regex Visualizer",
+    "Skill1": "Elasticsearch",
+    "Project2": "Course Planner",
+    "Skill2": "Redis",
+    "Project3": "Blog CMS",
+    "Skill3": "Pandas"
+  },
+  "Student_367": {
+    "Project1": "Code Editor Lite",
+    "Skill1": "C",
+    "Project2": "Edge Caching Simulator",
+    "Skill2": "Storybook",
+    "Project3": "Forum Platform",
+    "Skill3": "Flask"
+  },
+  "Student_368": {
+    "Project1": "Scheduling System",
+    "Skill1": "GraphQL",
+    "Project2": "Job Portal",
+    "Skill2": "Bash",
+    "Project3": "Quiz App",
+    "Skill3": "Git"
+  },
+  "Student_369": {
+    "Project1": "Chat App",
+    "Skill1": "GCP",
+    "Project2": "Traffic Simulation",
+    "Skill2": "CI/CD",
+    "Project3": "Memory Allocator Demo",
+    "Skill3": "Kafka"
+  },
+  "Student_370": {
+    "Project1": "Sentiment Analyzer",
+    "Skill1": "FastAPI",
+    "Project2": "Fraud Detection",
+    "Skill2": "Node.js",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "Rust"
+  },
+  "Student_371": {
+    "Project1": "Network Packet Sniffer",
+    "Skill1": "Kotlin",
+    "Project2": "Chat App",
+    "Skill2": "AWS",
+    "Project3": "Memory Allocator Demo",
+    "Skill3": "Git"
+  },
+  "Student_372": {
+    "Project1": "Job Portal",
+    "Skill1": "TDD",
+    "Project2": "Compiler Tiny",
+    "Skill2": "C",
+    "Project3": "Smart Attendance",
+    "Skill3": "Linux"
+  },
+  "Student_373": {
+    "Project1": "Crypto Arbitrage Bot",
+    "Skill1": "Git",
+    "Project2": "Smart Attendance",
+    "Skill2": "Terraform",
+    "Project3": "Anomaly Detector",
+    "Skill3": "RabbitMQ"
+  },
+  "Student_374": {
+    "Project1": "Smart Attendance",
+    "Skill1": "Kotlin",
+    "Project2": "AR Ruler",
+    "Skill2": "TypeScript",
+    "Project3": "Fraud Detection",
+    "Skill3": "Socket.IO"
+  },
+  "Student_375": {
+    "Project1": "DB Index Visualizer",
+    "Skill1": "Kotlin",
+    "Project2": "Course Planner",
+    "Skill2": "TypeScript",
+    "Project3": "News Aggregator",
+    "Skill3": "scikit-learn"
+  },
+  "Student_376": {
+    "Project1": "Music Streaming Prototype",
+    "Skill1": "MongoDB",
+    "Project2": "Regex Visualizer",
+    "Skill2": "CI/CD",
+    "Project3": "Scheduling System",
+    "Skill3": "GraphQL"
+  },
+  "Student_377": {
+    "Project1": "Multi-tenant SaaS",
+    "Skill1": "TensorFlow",
+    "Project2": "Blog CMS",
+    "Skill2": "Kotlin",
+    "Project3": "Portfolio Website",
+    "Skill3": "Python"
+  },
+  "Student_378": {
+    "Project1": "Chat App",
+    "Skill1": "Pandas",
+    "Project2": "Sentiment Analyzer",
+    "Skill2": "Go",
+    "Project3": "File Sharing Service",
+    "Skill3": "Storybook"
+  },
+  "Student_379": {
+    "Project1": "Weather Dashboard",
+    "Skill1": "Kubernetes",
+    "Project2": "Anomaly Detector",
+    "Skill2": "Linux",
+    "Project3": "Code Editor Lite",
+    "Skill3": "CI/CD"
+  },
+  "Student_380": {
+    "Project1": "IoT Sensor Monitor",
+    "Skill1": "React",
+    "Project2": "Fitness Tracker",
+    "Skill2": "CI/CD",
+    "Project3": "Blog CMS",
+    "Skill3": "NumPy"
+  },
+  "Student_381": {
+    "Project1": "File Sharing Service",
+    "Skill1": "Linux",
+    "Project2": "Face Detection Tool",
+    "Skill2": "PyTorch",
+    "Project3": "Edge Caching Simulator",
+    "Skill3": "Pandas"
+  },
+  "Student_382": {
+    "Project1": "Compiler Tiny",
+    "Skill1": "CI/CD",
+    "Project2": "Event Ticketing",
+    "Skill2": "RabbitMQ",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "FastAPI"
+  },
+  "Student_383": {
+    "Project1": "Blockchain Wallet Demo",
+    "Skill1": "Azure",
+    "Project2": "AR Ruler",
+    "Skill2": "TensorFlow",
+    "Project3": "Log Parser",
+    "Skill3": "PostgreSQL"
+  },
+  "Student_384": {
+    "Project1": "Traffic Simulation",
+    "Skill1": "Kubernetes",
+    "Project2": "Recommendation Engine",
+    "Skill2": "Swift",
+    "Project3": "Compiler Tiny",
+    "Skill3": "Docker"
+  },
+  "Student_385": {
+    "Project1": "Social Graph Analyzer",
+    "Skill1": "Pandas",
+    "Project2": "Blog CMS",
+    "Skill2": "Django",
+    "Project3": "Crypto Arbitrage Bot",
+    "Skill3": "OpenCV"
+  },
+  "Student_386": {
+    "Project1": "Multi-tenant SaaS",
+    "Skill1": "Rust",
+    "Project2": "Stock Price Tracker",
+    "Skill2": "CI/CD",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "TypeScript"
+  },
+  "Student_387": {
+    "Project1": "Forum Platform",
+    "Skill1": "Kafka",
+    "Project2": "Edge Caching Simulator",
+    "Skill2": "C",
+    "Project3": "Job Portal",
+    "Skill3": "TensorFlow"
+  },
+  "Student_388": {
+    "Project1": "IoT Sensor Monitor",
+    "Skill1": "Linux",
+    "Project2": "Social Graph Analyzer",
+    "Skill2": "React",
+    "Project3": "Stock Price Tracker",
+    "Skill3": "TypeScript"
+  },
+  "Student_389": {
+    "Project1": "Anomaly Detector",
+    "Skill1": "AWS",
+    "Project2": "DB Index Visualizer",
+    "Skill2": "TensorFlow",
+    "Project3": "Image Classifier",
+    "Skill3": "Kotlin"
+  },
+  "Student_390": {
+    "Project1": "Blog CMS",
+    "Skill1": "Matplotlib",
+    "Project2": "URL Shortener",
+    "Skill2": "Kafka",
+    "Project3": "Note Taking App",
+    "Skill3": "TypeScript"
+  },
+  "Student_391": {
+    "Project1": "Multi-tenant SaaS",
+    "Skill1": "Linux",
+    "Project2": "Chat App",
+    "Skill2": "Tailwind CSS",
+    "Project3": "Portfolio Website",
+    "Skill3": "scikit-learn"
+  },
+  "Student_392": {
+    "Project1": "Smart Attendance",
+    "Skill1": "AWS",
+    "Project2": "Fraud Detection",
+    "Skill2": "GCP",
+    "Project3": "DB Index Visualizer",
+    "Skill3": "Go"
+  },
+  "Student_393": {
+    "Project1": "Regex Visualizer",
+    "Skill1": "FastAPI",
+    "Project2": "Image Classifier",
+    "Skill2": "AWS",
+    "Project3": "Todo API",
+    "Skill3": "Kubernetes"
+  },
+  "Student_394": {
+    "Project1": "Blog CMS",
+    "Skill1": "NumPy",
+    "Project2": "Traffic Simulation",
+    "Skill2": "scikit-learn",
+    "Project3": "Event Ticketing",
+    "Skill3": "Kubernetes"
+  },
+  "Student_395": {
+    "Project1": "Weather Dashboard",
+    "Skill1": "Rust",
+    "Project2": "Log Parser",
+    "Skill2": "Terraform",
+    "Project3": "Spam Filter",
+    "Skill3": "Socket.IO"
+  },
+  "Student_396": {
+    "Project1": "Map Routing App",
+    "Skill1": "Swift",
+    "Project2": "Edge Caching Simulator",
+    "Skill2": "RabbitMQ",
+    "Project3": "Fitness Tracker",
+    "Skill3": "Rust"
+  },
+  "Student_397": {
+    "Project1": "VR Gallery",
+    "Skill1": "Linux",
+    "Project2": "Forum Platform",
+    "Skill2": "NumPy",
+    "Project3": "Regex Visualizer",
+    "Skill3": "Socket.IO"
+  },
+  "Student_398": {
+    "Project1": "Blockchain Wallet Demo",
+    "Skill1": "NumPy",
+    "Project2": "Fitness Tracker",
+    "Skill2": "Git",
+    "Project3": "E-Commerce Site",
+    "Skill3": "Express"
+  },
+  "Student_399": {
+    "Project1": "Gesture Recognition",
+    "Skill1": "Swift",
+    "Project2": "Scheduling System",
+    "Skill2": "C++",
+    "Project3": "Handwriting OCR",
+    "Skill3": "Rust"
+  },
+  "Student_400": {
+    "Project1": "VR Gallery",
+    "Skill1": "Rust",
+    "Project2": "Search Engine Mini",
+    "Skill2": "Elasticsearch",
+    "Project3": "Spam Filter",
+    "Skill3": "Terraform"
+  },
+  "Student_401": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "AWS",
+    "Project2": "Smart Attendance",
+    "Skill2": "Git",
+    "Project3": "Chat App",
+    "Skill3": "FastAPI"
+  },
+  "Student_402": {
+    "Project1": "E-Commerce Site",
+    "Skill1": "Terraform",
+    "Project2": "Compiler Tiny",
+    "Skill2": "OpenCV",
+    "Project3": "Anomaly Detector",
+    "Skill3": "TDD"
+  },
+  "Student_403": {
+    "Project1": "Todo API",
+    "Skill1": "Kafka",
+    "Project2": "URL Shortener",
+    "Skill2": "GraphQL",
+    "Project3": "Event Ticketing",
+    "Skill3": "Rust"
+  },
+  "Student_404": {
+    "Project1": "VR Gallery",
+    "Skill1": "Elasticsearch",
+    "Project2": "Sentiment Analyzer",
+    "Skill2": "Java",
+    "Project3": "Forum Platform",
+    "Skill3": "Express"
+  },
+  "Student_405": {
+    "Project1": "Forum Platform",
+    "Skill1": "Azure",
+    "Project2": "Face Detection Tool",
+    "Skill2": "Python",
+    "Project3": "Memory Allocator Demo",
+    "Skill3": "AWS"
+  },
+  "Student_406": {
+    "Project1": "Course Planner",
+    "Skill1": "Git",
+    "Project2": "Face Detection Tool",
+    "Skill2": "Swift",
+    "Project3": "Blog CMS",
+    "Skill3": "PyTorch"
+  },
+  "Student_407": {
+    "Project1": "Note Taking App",
+    "Skill1": "FastAPI",
+    "Project2": "Crypto Arbitrage Bot",
+    "Skill2": "Linux",
+    "Project3": "News Aggregator",
+    "Skill3": "Kubernetes"
+  },
+  "Student_408": {
+    "Project1": "Gesture Recognition",
+    "Skill1": "Swift",
+    "Project2": "File Sharing Service",
+    "Skill2": "Docker",
+    "Project3": "Stock Price Tracker",
+    "Skill3": "GraphQL"
+  },
+  "Student_409": {
+    "Project1": "Regex Visualizer",
+    "Skill1": "Kotlin",
+    "Project2": "Expense Splitter",
+    "Skill2": "Django",
+    "Project3": "URL Shortener",
+    "Skill3": "PostgreSQL"
+  },
+  "Student_410": {
+    "Project1": "Music Streaming Prototype",
+    "Skill1": "Linux",
+    "Project2": "Quiz App",
+    "Skill2": "Kafka",
+    "Project3": "News Aggregator",
+    "Skill3": "TypeScript"
+  },
+  "Student_411": {
+    "Project1": "Portfolio Website",
+    "Skill1": "Express",
+    "Project2": "Search Engine Mini",
+    "Skill2": "Bash",
+    "Project3": "Note Taking App",
+    "Skill3": "TensorFlow"
+  },
+  "Student_412": {
+    "Project1": "Portfolio Website",
+    "Skill1": "Bash",
+    "Project2": "News Aggregator",
+    "Skill2": "Express",
+    "Project3": "Gesture Recognition",
+    "Skill3": "OpenCV"
+  },
+  "Student_413": {
+    "Project1": "IoT Sensor Monitor",
+    "Skill1": "scikit-learn",
+    "Project2": "Chat App",
+    "Skill2": "TDD",
+    "Project3": "Forum Platform",
+    "Skill3": "Pandas"
+  },
+  "Student_414": {
+    "Project1": "Multi-tenant SaaS",
+    "Skill1": "Kotlin",
+    "Project2": "Map Routing App",
+    "Skill2": "Storybook",
+    "Project3": "Job Portal",
+    "Skill3": "Docker"
+  },
+  "Student_415": {
+    "Project1": "Handwriting OCR",
+    "Skill1": "Matplotlib",
+    "Project2": "Spam Filter",
+    "Skill2": "TDD",
+    "Project3": "DB Index Visualizer",
+    "Skill3": "AWS"
+  },
+  "Student_416": {
+    "Project1": "Auto-Grader",
+    "Skill1": "Swift",
+    "Project2": "Music Streaming Prototype",
+    "Skill2": "Redis",
+    "Project3": "Spam Filter",
+    "Skill3": "Linux"
+  },
+  "Student_417": {
+    "Project1": "Sentiment Analyzer",
+    "Skill1": "Pandas",
+    "Project2": "Edge Caching Simulator",
+    "Skill2": "Redis",
+    "Project3": "Traffic Simulation",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_418": {
+    "Project1": "Smart Attendance",
+    "Skill1": "Python",
+    "Project2": "Memory Allocator Demo",
+    "Skill2": "FastAPI",
+    "Project3": "Gesture Recognition",
+    "Skill3": "Redis"
+  },
+  "Student_419": {
+    "Project1": "Scheduling System",
+    "Skill1": "Agile",
+    "Project2": "Memory Allocator Demo",
+    "Skill2": "Tailwind CSS",
+    "Project3": "Anomaly Detector",
+    "Skill3": "GraphQL"
+  },
+  "Student_420": {
+    "Project1": "URL Shortener",
+    "Skill1": "Python",
+    "Project2": "Smart Attendance",
+    "Skill2": "Tailwind CSS",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "Kafka"
+  },
+  "Student_421": {
+    "Project1": "Face Detection Tool",
+    "Skill1": "Git",
+    "Project2": "Recommendation Engine",
+    "Skill2": "Java",
+    "Project3": "Quiz App",
+    "Skill3": "Swift"
+  },
+  "Student_422": {
+    "Project1": "Chat App",
+    "Skill1": "NumPy",
+    "Project2": "Memory Allocator Demo",
+    "Skill2": "TensorFlow",
+    "Project3": "Job Portal",
+    "Skill3": "Docker"
+  },
+  "Student_423": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "Express",
+    "Project2": "Face Detection Tool",
+    "Skill2": "Pandas",
+    "Project3": "Weather Dashboard",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_424": {
+    "Project1": "Fitness Tracker",
+    "Skill1": "Redis",
+    "Project2": "Handwriting OCR",
+    "Skill2": "Matplotlib",
+    "Project3": "Gesture Recognition",
+    "Skill3": "Agile"
+  },
+  "Student_425": {
+    "Project1": "URL Shortener",
+    "Skill1": "TypeScript",
+    "Project2": "Crypto Arbitrage Bot",
+    "Skill2": "React",
+    "Project3": "Course Planner",
+    "Skill3": "Pandas"
+  },
+  "Student_426": {
+    "Project1": "Face Detection Tool",
+    "Skill1": "C",
+    "Project2": "News Aggregator",
+    "Skill2": "OpenCV",
+    "Project3": "Log Parser",
+    "Skill3": "TensorFlow"
+  },
+  "Student_427": {
+    "Project1": "Edge Caching Simulator",
+    "Skill1": "Rust",
+    "Project2": "Auto-Grader",
+    "Skill2": "Git",
+    "Project3": "Chat App",
+    "Skill3": "CI/CD"
+  },
+  "Student_428": {
+    "Project1": "Note Taking App",
+    "Skill1": "Matplotlib",
+    "Project2": "Map Routing App",
+    "Skill2": "TypeScript",
+    "Project3": "Regex Visualizer",
+    "Skill3": "AWS"
+  },
+  "Student_429": {
+    "Project1": "Code Editor Lite",
+    "Skill1": "Java",
+    "Project2": "Todo API",
+    "Skill2": "Docker",
+    "Project3": "Edge Caching Simulator",
+    "Skill3": "RabbitMQ"
+  },
+  "Student_430": {
+    "Project1": "Regex Visualizer",
+    "Skill1": "Bash",
+    "Project2": "Face Detection Tool",
+    "Skill2": "Agile",
+    "Project3": "Blockchain Wallet Demo",
+    "Skill3": "TypeScript"
+  },
+  "Student_431": {
+    "Project1": "Music Streaming Prototype",
+    "Skill1": "Java",
+    "Project2": "Handwriting OCR",
+    "Skill2": "Linux",
+    "Project3": "News Aggregator",
+    "Skill3": "Docker"
+  },
+  "Student_432": {
+    "Project1": "Social Graph Analyzer",
+    "Skill1": "PostgreSQL",
+    "Project2": "Weather Dashboard",
+    "Skill2": "Python",
+    "Project3": "Smart Attendance",
+    "Skill3": "TypeScript"
+  },
+  "Student_433": {
+    "Project1": "Multi-tenant SaaS",
+    "Skill1": "NumPy",
+    "Project2": "Auto-Grader",
+    "Skill2": "Flask",
+    "Project3": "Gesture Recognition",
+    "Skill3": "GCP"
+  },
+  "Student_434": {
+    "Project1": "Sentiment Analyzer",
+    "Skill1": "C++",
+    "Project2": "AR Ruler",
+    "Skill2": "Java",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "Terraform"
+  },
+  "Student_435": {
+    "Project1": "Edge Caching Simulator",
+    "Skill1": "PostgreSQL",
+    "Project2": "DB Index Visualizer",
+    "Skill2": "C++",
+    "Project3": "Course Planner",
+    "Skill3": "Socket.IO"
+  },
+  "Student_436": {
+    "Project1": "Map Routing App",
+    "Skill1": "Terraform",
+    "Project2": "Weather Dashboard",
+    "Skill2": "Python",
+    "Project3": "Speech-to-Text",
+    "Skill3": "FastAPI"
+  },
+  "Student_437": {
+    "Project1": "Chat App",
+    "Skill1": "Bash",
+    "Project2": "Traffic Simulation",
+    "Skill2": "C++",
+    "Project3": "Recommendation Engine",
+    "Skill3": "PostgreSQL"
+  },
+  "Student_438": {
+    "Project1": "Anomaly Detector",
+    "Skill1": "Tailwind CSS",
+    "Project2": "E-Commerce Site",
+    "Skill2": "Swift",
+    "Project3": "URL Shortener",
+    "Skill3": "Django"
+  },
+  "Student_439": {
+    "Project1": "File Sharing Service",
+    "Skill1": "Node.js",
+    "Project2": "VR Gallery",
+    "Skill2": "Tailwind CSS",
+    "Project3": "Multi-tenant SaaS",
+    "Skill3": "Kotlin"
+  },
+  "Student_440": {
+    "Project1": "Handwriting OCR",
+    "Skill1": "GCP",
+    "Project2": "Course Planner",
+    "Skill2": "RabbitMQ",
+    "Project3": "Music Streaming Prototype",
+    "Skill3": "Socket.IO"
+  },
+  "Student_441": {
+    "Project1": "DB Index Visualizer",
+    "Skill1": "Redis",
+    "Project2": "Smart Attendance",
+    "Skill2": "Express",
+    "Project3": "Portfolio Website",
+    "Skill3": "TypeScript"
+  },
+  "Student_442": {
+    "Project1": "Expense Splitter",
+    "Skill1": "Django",
+    "Project2": "URL Shortener",
+    "Skill2": "Kubernetes",
+    "Project3": "Scheduling System",
+    "Skill3": "Go"
+  },
+  "Student_443": {
+    "Project1": "Face Detection Tool",
+    "Skill1": "Terraform",
+    "Project2": "Handwriting OCR",
+    "Skill2": "Pandas",
+    "Project3": "Scheduling System",
+    "Skill3": "NumPy"
+  },
+  "Student_444": {
+    "Project1": "Todo API",
+    "Skill1": "Terraform",
+    "Project2": "Blog CMS",
+    "Skill2": "Kafka",
+    "Project3": "Fraud Detection",
+    "Skill3": "Azure"
+  },
+  "Student_445": {
+    "Project1": "Music Streaming Prototype",
+    "Skill1": "Docker",
+    "Project2": "Job Portal",
+    "Skill2": "Python",
+    "Project3": "Handwriting OCR",
+    "Skill3": "Redis"
+  },
+  "Student_446": {
+    "Project1": "AR Ruler",
+    "Skill1": "Docker",
+    "Project2": "Todo API",
+    "Skill2": "Linux",
+    "Project3": "Quiz App",
+    "Skill3": "Elasticsearch"
+  },
+  "Student_447": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "Terraform",
+    "Project2": "Auto-Grader",
+    "Skill2": "Bash",
+    "Project3": "Job Portal",
+    "Skill3": "React"
+  },
+  "Student_448": {
+    "Project1": "Code Editor Lite",
+    "Skill1": "Bash",
+    "Project2": "Forum Platform",
+    "Skill2": "FastAPI",
+    "Project3": "Quiz App",
+    "Skill3": "Azure"
+  },
+  "Student_449": {
+    "Project1": "DB Index Visualizer",
+    "Skill1": "GCP",
+    "Project2": "E-Commerce Site",
+    "Skill2": "TypeScript",
+    "Project3": "Compiler Tiny",
+    "Skill3": "C"
+  },
+  "Student_450": {
+    "Project1": "Sentiment Analyzer",
+    "Skill1": "Kotlin",
+    "Project2": "Spam Filter",
+    "Skill2": "Elasticsearch",
+    "Project3": "Blockchain Wallet Demo",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_451": {
+    "Project1": "IoT Sensor Monitor",
+    "Skill1": "CI/CD",
+    "Project2": "Traffic Simulation",
+    "Skill2": "Azure",
+    "Project3": "News Aggregator",
+    "Skill3": "Storybook"
+  },
+  "Student_452": {
+    "Project1": "Recommendation Engine",
+    "Skill1": "OpenCV",
+    "Project2": "Quiz App",
+    "Skill2": "FastAPI",
+    "Project3": "AR Ruler",
+    "Skill3": "Flask"
+  },
+  "Student_453": {
+    "Project1": "Note Taking App",
+    "Skill1": "Git",
+    "Project2": "Sentiment Analyzer",
+    "Skill2": "Swift",
+    "Project3": "Speech-to-Text",
+    "Skill3": "Redis"
+  },
+  "Student_454": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "Kubernetes",
+    "Project2": "Anomaly Detector",
+    "Skill2": "C",
+    "Project3": "Fraud Detection",
+    "Skill3": "React"
+  },
+  "Student_455": {
+    "Project1": "Fitness Tracker",
+    "Skill1": "C++",
+    "Project2": "Face Detection Tool",
+    "Skill2": "PostgreSQL",
+    "Project3": "Log Parser",
+    "Skill3": "Matplotlib"
+  },
+  "Student_456": {
+    "Project1": "Multi-tenant SaaS",
+    "Skill1": "Java",
+    "Project2": "Stock Price Tracker",
+    "Skill2": "C++",
+    "Project3": "Regex Visualizer",
+    "Skill3": "Node.js"
+  },
+  "Student_457": {
+    "Project1": "Map Routing App",
+    "Skill1": "Kafka",
+    "Project2": "Course Planner",
+    "Skill2": "Express",
+    "Project3": "Auto-Grader",
+    "Skill3": "Linux"
+  },
+  "Student_458": {
+    "Project1": "Image Classifier",
+    "Skill1": "Matplotlib",
+    "Project2": "Blog CMS",
+    "Skill2": "GCP",
+    "Project3": "Smart Attendance",
+    "Skill3": "CI/CD"
+  },
+  "Student_459": {
+    "Project1": "Expense Splitter",
+    "Skill1": "Bash",
+    "Project2": "Recommendation Engine",
+    "Skill2": "React",
+    "Project3": "Gesture Recognition",
+    "Skill3": "Terraform"
+  },
+  "Student_460": {
+    "Project1": "Regex Visualizer",
+    "Skill1": "Node.js",
+    "Project2": "Crypto Arbitrage Bot",
+    "Skill2": "Elasticsearch",
+    "Project3": "Handwriting OCR",
+    "Skill3": "MongoDB"
+  },
+  "Student_461": {
+    "Project1": "Stock Price Tracker",
+    "Skill1": "Go",
+    "Project2": "IoT Sensor Monitor",
+    "Skill2": "Redis",
+    "Project3": "Blog CMS",
+    "Skill3": "Azure"
+  },
+  "Student_462": {
+    "Project1": "Fraud Detection",
+    "Skill1": "Agile",
+    "Project2": "Map Routing App",
+    "Skill2": "CI/CD",
+    "Project3": "Note Taking App",
+    "Skill3": "Bash"
+  },
+  "Student_463": {
+    "Project1": "Gesture Recognition",
+    "Skill1": "Terraform",
+    "Project2": "Quiz App",
+    "Skill2": "Java",
+    "Project3": "E-Commerce Site",
+    "Skill3": "Agile"
+  },
+  "Student_464": {
+    "Project1": "Handwriting OCR",
+    "Skill1": "Express",
+    "Project2": "Regex Visualizer",
+    "Skill2": "Python",
+    "Project3": "Multi-tenant SaaS",
+    "Skill3": "Bash"
+  },
+  "Student_465": {
+    "Project1": "Todo API",
+    "Skill1": "Python",
+    "Project2": "Network Packet Sniffer",
+    "Skill2": "CI/CD",
+    "Project3": "Face Detection Tool",
+    "Skill3": "AWS"
+  },
+  "Student_466": {
+    "Project1": "Map Routing App",
+    "Skill1": "Node.js",
+    "Project2": "Chat App",
+    "Skill2": "AWS",
+    "Project3": "Smart Attendance",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_467": {
+    "Project1": "Spam Filter",
+    "Skill1": "GraphQL",
+    "Project2": "VR Gallery",
+    "Skill2": "TensorFlow",
+    "Project3": "IoT Sensor Monitor",
+    "Skill3": "Linux"
+  },
+  "Student_468": {
+    "Project1": "Fitness Tracker",
+    "Skill1": "Bash",
+    "Project2": "Todo API",
+    "Skill2": "MongoDB",
+    "Project3": "VR Gallery",
+    "Skill3": "CI/CD"
+  },
+  "Student_469": {
+    "Project1": "Map Routing App",
+    "Skill1": "PyTorch",
+    "Project2": "Sentiment Analyzer",
+    "Skill2": "Docker",
+    "Project3": "Search Engine Mini",
+    "Skill3": "Node.js"
+  },
+  "Student_470": {
+    "Project1": "Fraud Detection",
+    "Skill1": "TensorFlow",
+    "Project2": "Crypto Arbitrage Bot",
+    "Skill2": "TypeScript",
+    "Project3": "Search Engine Mini",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_471": {
+    "Project1": "Memory Allocator Demo",
+    "Skill1": "Pandas",
+    "Project2": "Compiler Tiny",
+    "Skill2": "TDD",
+    "Project3": "Stock Price Tracker",
+    "Skill3": "Kafka"
+  },
+  "Student_472": {
+    "Project1": "URL Shortener",
+    "Skill1": "GraphQL",
+    "Project2": "Spam Filter",
+    "Skill2": "scikit-learn",
+    "Project3": "Job Portal",
+    "Skill3": "Kotlin"
+  },
+  "Student_473": {
+    "Project1": "DB Index Visualizer",
+    "Skill1": "Pandas",
+    "Project2": "Compiler Tiny",
+    "Skill2": "Kotlin",
+    "Project3": "Anomaly Detector",
+    "Skill3": "Kubernetes"
+  },
+  "Student_474": {
+    "Project1": "Social Graph Analyzer",
+    "Skill1": "RabbitMQ",
+    "Project2": "AR Ruler",
+    "Skill2": "OpenCV",
+    "Project3": "Traffic Simulation",
+    "Skill3": "TensorFlow"
+  },
+  "Student_475": {
+    "Project1": "Job Portal",
+    "Skill1": "React",
+    "Project2": "Event Ticketing",
+    "Skill2": "TensorFlow",
+    "Project3": "URL Shortener",
+    "Skill3": "Go"
+  },
+  "Student_476": {
+    "Project1": "Traffic Simulation",
+    "Skill1": "OpenCV",
+    "Project2": "Smart Attendance",
+    "Skill2": "Django",
+    "Project3": "Blog CMS",
+    "Skill3": "C"
+  },
+  "Student_477": {
+    "Project1": "Blockchain Wallet Demo",
+    "Skill1": "Rust",
+    "Project2": "Map Routing App",
+    "Skill2": "C",
+    "Project3": "Multi-tenant SaaS",
+    "Skill3": "Tailwind CSS"
+  },
+  "Student_478": {
+    "Project1": "DB Index Visualizer",
+    "Skill1": "MongoDB",
+    "Project2": "Social Graph Analyzer",
+    "Skill2": "NumPy",
+    "Project3": "Speech-to-Text",
+    "Skill3": "C"
+  },
+  "Student_479": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "Tailwind CSS",
+    "Project2": "Traffic Simulation",
+    "Skill2": "TDD",
+    "Project3": "Network Packet Sniffer",
+    "Skill3": "GCP"
+  },
+  "Student_480": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "Node.js",
+    "Project2": "Network Packet Sniffer",
+    "Skill2": "Express",
+    "Project3": "URL Shortener",
+    "Skill3": "Bash"
+  },
+  "Student_481": {
+    "Project1": "IoT Sensor Monitor",
+    "Skill1": "MongoDB",
+    "Project2": "Expense Splitter",
+    "Skill2": "Docker",
+    "Project3": "Map Routing App",
+    "Skill3": "Kafka"
+  },
+  "Student_482": {
+    "Project1": "Search Engine Mini",
+    "Skill1": "RabbitMQ",
+    "Project2": "Fraud Detection",
+    "Skill2": "Swift",
+    "Project3": "Crypto Arbitrage Bot",
+    "Skill3": "PyTorch"
+  },
+  "Student_483": {
+    "Project1": "Weather Dashboard",
+    "Skill1": "Elasticsearch",
+    "Project2": "Anomaly Detector",
+    "Skill2": "PyTorch",
+    "Project3": "Spam Filter",
+    "Skill3": "RabbitMQ"
+  },
+  "Student_484": {
+    "Project1": "Fraud Detection",
+    "Skill1": "Tailwind CSS",
+    "Project2": "Recommendation Engine",
+    "Skill2": "Kotlin",
+    "Project3": "Auto-Grader",
+    "Skill3": "Swift"
+  },
+  "Student_485": {
+    "Project1": "Event Ticketing",
+    "Skill1": "Docker",
+    "Project2": "Anomaly Detector",
+    "Skill2": "Socket.IO",
+    "Project3": "Fitness Tracker",
+    "Skill3": "React"
+  },
+  "Student_486": {
+    "Project1": "Speech-to-Text",
+    "Skill1": "RabbitMQ",
+    "Project2": "Weather Dashboard",
+    "Skill2": "Git",
+    "Project3": "Compiler Tiny",
+    "Skill3": "Java"
+  },
+  "Student_487": {
+    "Project1": "Quiz App",
+    "Skill1": "Flask",
+    "Project2": "Stock Price Tracker",
+    "Skill2": "GraphQL",
+    "Project3": "Weather Dashboard",
+    "Skill3": "Socket.IO"
+  },
+  "Student_488": {
+    "Project1": "URL Shortener",
+    "Skill1": "React",
+    "Project2": "Compiler Tiny",
+    "Skill2": "Go",
+    "Project3": "Job Portal",
+    "Skill3": "Python"
+  },
+  "Student_489": {
+    "Project1": "Scheduling System",
+    "Skill1": "Agile",
+    "Project2": "Smart Attendance",
+    "Skill2": "TDD",
+    "Project3": "Portfolio Website",
+    "Skill3": "MongoDB"
+  },
+  "Student_490": {
+    "Project1": "IoT Sensor Monitor",
+    "Skill1": "Bash",
+    "Project2": "Traffic Simulation",
+    "Skill2": "Git",
+    "Project3": "Stock Price Tracker",
+    "Skill3": "Rust"
+  },
+  "Student_491": {
+    "Project1": "Auto-Grader",
+    "Skill1": "Docker",
+    "Project2": "Job Portal",
+    "Skill2": "Django",
+    "Project3": "Spam Filter",
+    "Skill3": "Rust"
+  },
+  "Student_492": {
+    "Project1": "Quiz App",
+    "Skill1": "TDD",
+    "Project2": "Social Graph Analyzer",
+    "Skill2": "Azure",
+    "Project3": "Chat App",
+    "Skill3": "PyTorch"
+  },
+  "Student_493": {
+    "Project1": "Social Graph Analyzer",
+    "Skill1": "TypeScript",
+    "Project2": "Weather Dashboard",
+    "Skill2": "Swift",
+    "Project3": "Scheduling System",
+    "Skill3": "Elasticsearch"
+  },
+  "Student_494": {
+    "Project1": "Gesture Recognition",
+    "Skill1": "NumPy",
+    "Project2": "Code Editor Lite",
+    "Skill2": "CI/CD",
+    "Project3": "Blog CMS",
+    "Skill3": "FastAPI"
+  },
+  "Student_495": {
+    "Project1": "Log Parser",
+    "Skill1": "OpenCV",
+    "Project2": "DB Index Visualizer",
+    "Skill2": "TensorFlow",
+    "Project3": "Compiler Tiny",
+    "Skill3": "C++"
+  },
+  "Student_496": {
+    "Project1": "Spam Filter",
+    "Skill1": "Java",
+    "Project2": "Code Editor Lite",
+    "Skill2": "CI/CD",
+    "Project3": "Gesture Recognition",
+    "Skill3": "FastAPI"
+  },
+  "Student_497": {
+    "Project1": "Auto-Grader",
+    "Skill1": "Go",
+    "Project2": "Recommendation Engine",
+    "Skill2": "Docker",
+    "Project3": "Image Classifier",
+    "Skill3": "PyTorch"
+  },
+  "Student_498": {
+    "Project1": "Fitness Tracker",
+    "Skill1": "Terraform",
+    "Project2": "URL Shortener",
+    "Skill2": "Express",
+    "Project3": "Multi-tenant SaaS",
+    "Skill3": "Pandas"
+  },
+  "Student_499": {
+    "Project1": "Speech-to-Text",
+    "Skill1": "Tailwind CSS",
+    "Project2": "Traffic Simulation",
+    "Skill2": "Linux",
+    "Project3": "Social Graph Analyzer",
+    "Skill3": "PyTorch"
+  },
+  "Student_500": {
+    "Project1": "Network Packet Sniffer",
+    "Skill1": "Kubernetes",
+    "Project2": "URL Shortener",
+    "Skill2": "AWS",
+    "Project3": "Scheduling System",
+    "Skill3": "Agile"
+  }
+}
